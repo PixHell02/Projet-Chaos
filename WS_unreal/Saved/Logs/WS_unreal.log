@@ -1398,3 +1398,4 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.04.22-12.20.35:118][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.22-12.21.26:828][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.22-12.21.33:343][487]LogAssetEditorSubsystem: Opening Asset editor for GeometryCollection /Game/Fraction/Cube2_GeometryCollection.Cube2_GeometryCollection
+[2024.04.22-12.23.18:172][329]LogSlate: Window 'Cube2_GeometryCollection' being destroyed
