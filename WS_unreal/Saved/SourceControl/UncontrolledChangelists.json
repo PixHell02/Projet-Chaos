@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y2/J8RH8R7IJQR4A32LRBNYPU.uasset",
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/Fraction/Cone_GeometryCollection.uasset",
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/Fraction/Cube2_GeometryCollection.uasset",
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/Fraction/Cube_GeometryCollection.uasset",
+				"C:/Users/erwan/OneDrive/Documents/Unreal Projects/WS_unreal/Content/Fraction/Cube_GeometryCollection_Cube_GeometryCollection/Cube_GeometryCollection_GeometryCollection.uasset"
+			]
+		}
+	]
+}
