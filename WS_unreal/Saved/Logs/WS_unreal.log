@@ -8262,3 +8262,1599 @@ Script Stack (0 frames) :
 [2024.04.22-13.20.14:303][918]LogContentValidation: Display: Validating /Script/GeometryCollectionEngine.GeometryCollectionActor /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.GeometryCollectionActor_UAID_A036BC3211F2A0EE01_1649749662
 [2024.04.22-13.20.14:303][918]LogContentValidation: Display: Validating /Script/GeometryCollectionEngine.GeometryCollectionActor /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.GeometryCollectionActor_UAID_A036BC3211F2A0EE01_1972429668
 [2024.04.22-13.20.22:834][ 85]LogDerivedDataCache: C:/Users/erwan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6346 files in 8148 folders with total size 1129 MiB.
+[2024.04.22-13.21.16:299][646]LogViewport: Scene viewport resized to 662x418, mode Windowed.
+[2024.04.22-13.21.16:310][647]LogViewport: Scene viewport resized to 665x418, mode Windowed.
+[2024.04.22-13.21.16:341][648]LogViewport: Scene viewport resized to 677x418, mode Windowed.
+[2024.04.22-13.21.16:359][649]LogViewport: Scene viewport resized to 691x418, mode Windowed.
+[2024.04.22-13.21.16:386][650]LogViewport: Scene viewport resized to 703x418, mode Windowed.
+[2024.04.22-13.21.16:407][651]LogViewport: Scene viewport resized to 711x418, mode Windowed.
+[2024.04.22-13.21.16:428][652]LogViewport: Scene viewport resized to 718x418, mode Windowed.
+[2024.04.22-13.21.16:452][653]LogViewport: Scene viewport resized to 722x418, mode Windowed.
+[2024.04.22-13.21.16:474][654]LogViewport: Scene viewport resized to 728x418, mode Windowed.
+[2024.04.22-13.21.16:494][655]LogViewport: Scene viewport resized to 732x418, mode Windowed.
+[2024.04.22-13.21.16:512][656]LogViewport: Scene viewport resized to 742x418, mode Windowed.
+[2024.04.22-13.21.16:532][657]LogViewport: Scene viewport resized to 750x418, mode Windowed.
+[2024.04.22-13.21.16:553][658]LogViewport: Scene viewport resized to 762x418, mode Windowed.
+[2024.04.22-13.21.16:578][659]LogViewport: Scene viewport resized to 776x418, mode Windowed.
+[2024.04.22-13.21.16:596][660]LogViewport: Scene viewport resized to 786x418, mode Windowed.
+[2024.04.22-13.21.16:617][661]LogViewport: Scene viewport resized to 795x418, mode Windowed.
+[2024.04.22-13.21.16:637][662]LogViewport: Scene viewport resized to 804x418, mode Windowed.
+[2024.04.22-13.21.16:657][663]LogViewport: Scene viewport resized to 813x418, mode Windowed.
+[2024.04.22-13.21.16:677][664]LogViewport: Scene viewport resized to 826x418, mode Windowed.
+[2024.04.22-13.21.16:696][665]LogViewport: Scene viewport resized to 836x418, mode Windowed.
+[2024.04.22-13.21.16:714][666]LogViewport: Scene viewport resized to 847x418, mode Windowed.
+[2024.04.22-13.21.16:734][667]LogViewport: Scene viewport resized to 853x418, mode Windowed.
+[2024.04.22-13.21.16:754][668]LogViewport: Scene viewport resized to 863x418, mode Windowed.
+[2024.04.22-13.21.16:773][669]LogViewport: Scene viewport resized to 872x418, mode Windowed.
+[2024.04.22-13.21.16:792][670]LogViewport: Scene viewport resized to 880x418, mode Windowed.
+[2024.04.22-13.21.16:812][671]LogViewport: Scene viewport resized to 885x418, mode Windowed.
+[2024.04.22-13.21.16:906][681]LogViewport: Scene viewport resized to 887x418, mode Windowed.
+[2024.04.22-13.21.16:915][682]LogViewport: Scene viewport resized to 890x418, mode Windowed.
+[2024.04.22-13.21.16:943][683]LogViewport: Scene viewport resized to 891x418, mode Windowed.
+[2024.04.22-13.21.16:963][684]LogViewport: Scene viewport resized to 892x418, mode Windowed.
+[2024.04.22-13.21.30:892][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.04.22-13.21.30:892][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.04.22-13.21.30:898][249]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.22-13.21.30:901][249]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.22-13.21.31:554][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.04.22-13.21.31:554][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.04.22-13.21.31:559][305]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_A036BC3211F2A0EE01_2080573669
+[2024.04.22-13.21.31:563][305]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_A036BC3211F2A0EE01_2080573669
+[2024.04.22-13.21.31:732][306]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.21.39:089][935]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.21.39:089][935]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.21.39:091][935]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 1 ms (total: 80 ms)
+[2024.04.22-13.21.39:091][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.21.39:091][935]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:21:39)
+[2024.04.22-13.21.39:095][935]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.22-13.21.39:095][935]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.22-13.21.39:095][935]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.04.22-13.21.39:097][935]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.04.22-13.21.39:277][936]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.21.39:304][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026673s)
+[2024.04.22-13.21.39:304][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.026739s)
+[2024.04.22-13.21.39:317][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.22-13.21.39:319][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.21.39:320][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.21.39:320][936]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.21.39:321][936]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.21.39:321][936]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.21.39:321][936]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.21.39:321][936]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.21.39:328][936]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.21.39:328][936]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 578 ms)
+[2024.04.22-13.21.39:328][936]LogPlayLevel: PIE: World Init took: (0.008407s)
+[2024.04.22-13.21.39:328][936]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.21.39:328][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.21.39:328][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.21.39:329][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.21.39:329][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.21.39:329][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.21.39:331][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.21.39:350][936]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.21.39:350][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.21.39:351][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.21.39:351][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.21.39:351][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.04.22-13.21.39:351][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.04.22-13.21.39:353][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.04.22-13.21.39:353][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.04.22-13.21.39:353][936]LogInit: FAudioDevice initialized with ID 34.
+[2024.04.22-13.21.39:353][936]LogAudio: Display: Audio Device (ID: 34) registered with world 'TestFractureMap'.
+[2024.04.22-13.21.39:353][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.22-13.21.39:356][936]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.21.39:367][936]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.21.39
+[2024.04.22-13.21.39:368][936]LogWorld: Bringing up level for play took: 0.011775
+[2024.04.22-13.21.39:372][936]PIE: Server logged in
+[2024.04.22-13.21.39:373][936]PIE: Play in editor total start time 0,284 seconds.
+[2024.04.22-13.22.15:658][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.22.15:658][483]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.22.15:660][483]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.22.15:665][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.22.15:666][483]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.22.15:669][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.22.15:681][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.22.16:005][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.22.16:007][483]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.22-13.22.16:007][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.22-13.22.16:008][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.22-13.22.16:012][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.22.16:236][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.22-13.22.16:364][484]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.04.22-13.22.16:397][484]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.27.22:649][928]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.27.23:639][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.27.31:102][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: Failed to load '/Game/_Main/BluePrints/BP_FirstPersonCharacter': Can't find file.
+[2024.04.22-13.27.31:103][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: VerifyImport: Failed to load package for import object 'Package /Game/_Main/BluePrints/BP_FirstPersonCharacter'
+[2024.04.22-13.27.31:103][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: Failed to load '/Game/FirstPerson/Blueprints/BP_Weapon_Component': Can't find file.
+[2024.04.22-13.27.31:103][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/Blueprints/BP_Weapon_Component'
+[2024.04.22-13.27.31:104][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2024.04.22-13.27.31:104][536]LogLinker: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Mesh/SK_FPGun'
+[2024.04.22-13.27.31:107][536]LogLinker: Warning: Unable to load NODE_AddBP_Weapon_Component-0 with outer BlueprintGeneratedClass /Game/Fracture/BP_Pickup_Rifle.BP_Pickup_Rifle_C because its class (BP_Weapon_Component_C) does not exist
+[2024.04.22-13.27.31:117][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.22-13.27.31:117][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] Unknown template referenced by 'Add Component
+Target is Actor' for  Add Component
+[2024.04.22-13.27.31:117][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.22-13.27.31:118][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] In use pin  As BP First Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2024.04.22-13.27.31:118][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] In use pin  First Person Character Reference  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.04.22-13.27.31:118][536]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Pickup_Rifle.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.04.22-13.27.31:121][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.04.22-13.27.31:123][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.27.31:123][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.27.31:347][536]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.22-13.27.43:402][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.22-13.27.44:636][799]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.22-13.27.44:691][799]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.27.44:691][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.27.44:719][799]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fracture/BP_Pickup_Rifle.BP_Pickup_Rifle
+	Asset Type: Blueprint
+[2024.04.22-13.27.45:162][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.22-13.27.45:176][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.22-13.27.45:189][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.22-13.29.36:827][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: ================================================
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Total job queries 971, among them cache hits 204 (21.01%)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Tracking 764 distinct input hashes that result in 335 distinct outputs (43.85%)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: RAM used: 19,93 MiB of 819,20 MiB budget. Usage: 2.43%
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Shaders Compiled: 764
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Jobs assigned 767, completed 764 (99.61%)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Average time worker was idle: 98.22 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Time job spent in pending queue: average 2.34 s, longest 10.15 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Job execution time: average 2.65 s, max 6.27 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Job life time (pending + execution): average 5.00 s, max 10.59
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Shader code size: average 49,373 KiB, min 2,262 KiB, max 92,23 KiB
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.80 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Jobs were issued in 270 batches (only local compilation was used), average 2.84 jobs/batch
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Average processing rate: 17.85 jobs/sec
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Total thread time: 275,404 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Total thread preprocess time: 21,638 s
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Percentage time preprocessing: 7.86%
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Effective parallelization: 6.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    4 times, average 0.74 sec, max 0.82 sec, min 0.70 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.73 sec, max 0.79 sec, min 0.69 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    4 times, average 0.72 sec, max 0.83 sec, min 0.57 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.67 sec, max 0.73 sec, min 0.62 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 0.66 sec, max 0.71 sec, min 0.60 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.97% of total time (compiled   60 times, average 0.37 sec, max 0.73 sec, min 0.21 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.67% of total time (compiled   61 times, average 0.35 sec, max 0.84 sec, min 0.19 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.27% of total time (compiled   60 times, average 0.33 sec, max 0.52 sec, min 0.09 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.92% of total time (compiled   54 times, average 0.35 sec, max 0.89 sec, min 0.19 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.52% of total time (compiled   59 times, average 0.26 sec, max 0.39 sec, min 0.12 sec)
+[2024.04.22-13.29.37:745][ 68]LogShaderCompilers: Display: ================================================
+[2024.04.22-13.30.50:799][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.22-13.30.50:805][883]LogWorldPartition: Can't find class descriptor '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' for saving '/Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_A036BC3211F2A0EE01_2080573669'
+[2024.04.22-13.30.50:805][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Fracture/TestFractureMap/9/LZ/OGX0W9DP23CB95M2ECE6RL_Auto5
+[2024.04.22-13.30.50:805][883]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/OGX0W9DP23CB95M2ECE6RL_Auto58CD1178C46DBB988881FF0A21314DB63.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/__ExternalActors__/Fracture/TestFractureMap/9/LZ/OGX0W9DP23CB95M2ECE6RL_Auto5.uasset'
+[2024.04.22-13.30.50:807][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Fracture/TestFractureMap' took 0.023
+[2024.04.22-13.30.50:808][883]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.04.22-13.30.50:808][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_Frame] ([1] browsable assets)...
+[2024.04.22-13.30.51:118][883]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame]
+[2024.04.22-13.30.51:118][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_Frame]
+[2024.04.22-13.30.51:125][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Props/Materials/M_Frame_Auto5
+[2024.04.22-13.30.51:125][883]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/M_Frame_Auto52849A7CB4C3962B3E15D8EB97C135A14.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/StarterContent/Props/Materials/M_Frame_Auto5.uasset'
+[2024.04.22-13.30.51:128][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/FractionFolder/SM_WindowFrame_GeometryCollection] ([1] browsable assets)...
+[2024.04.22-13.30.51:144][883]OBJ SavePackage:     Rendered thumbnail for [GeometryCollection /Game/Fracture/FractionFolder/SM_WindowFrame_GeometryCollection.SM_WindowFrame_GeometryCollection]
+[2024.04.22-13.30.51:144][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/FractionFolder/SM_WindowFrame_GeometryCollection]
+[2024.04.22-13.30.51:240][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/FractionFolder/SM_WindowFrame_GeometryCollection_Auto5
+[2024.04.22-13.30.51:240][883]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/SM_WindowFrame_GeometryCollectio0B22F8174E6DEEE7228085A952052D1C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/FractionFolder/SM_WindowFrame_GeometryCollection_Auto5.uasset'
+[2024.04.22-13.30.51:242][883]LogFileHelpers: Auto-saving content packages took 0.434
+[2024.04.22-13.31.10:095][212]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.22-13.31.10:106][212]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.22-13.31.10:115][212]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.22-13.31.10:129][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.22-13.31.17:429][690]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectiles
+[2024.04.22-13.31.17:445][690]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.22-13.31.18:588][767]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/BP_Projectiles.BP_Projectiles
+[2024.04.22-13.31.18:588][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.31.18:588][767]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.31.18:709][767]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.22-13.31.38:286][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.32.19:753][926]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.22-13.32.19:779][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.22-13.32.47:356][196]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.22-13.32.47:374][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.22-13.32.58:655][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.22-13.32.58:717][940]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Fracture/FS_BombField_Prototype does not exist, will not scan.
+[2024.04.22-13.33.01:431][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.22-13.33.02:797][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.22-13.33.02:847][ 83]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.33.02:847][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.33.02:867][ 83]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fracture/BP_Projectiles.BP_Projectiles
+	Asset Type: Blueprint
+[2024.04.22-13.33.03:113][ 83]LogWorldPartition: Actor /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.StaticMeshActor_UAID_A036BC3211F2A0EE01_1953901667 is unreachable without properly detaching object /Game/__ExternalActors__/Fracture/TestFractureMap/A/SD/NQO3KMTRL813KYCQTL800D.PackageMetaData in its package
+[2024.04.22-13.33.03:113][ 83]LogWorldPartition: Actor /Game/Fracture/TestFractureMap.TestFractureMap:PersistentLevel.GeometryCollectionActor_UAID_A036BC3211F2A0EE01_1683564666 is unreachable without properly detaching object /Game/__ExternalActors__/Fracture/TestFractureMap/2/94/2MO0PABHNG6LF87XJK0HMK.PackageMetaData in its package
+[2024.04.22-13.33.03:115][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.22-13.33.03:144][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.22-13.33.03:157][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.22-13.33.03:170][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.22-13.33.03:191][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.22-13.33.15:797][734]LogContentBrowser: Attempting asset rename: FS_BombField_Prototype -> BP_BombProjectiles
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:ReceiveBeginPlay' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:ReceiveTick' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:CE_Trigger' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:UserConstructionScript' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffSwitch - Strain' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffAndCullingSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:SetVisibility' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:MakeDynamic_EnableNonGC' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffSwitch_InternalStrain' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffSwitch_ForceDynamic' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffShapeSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:FalloffAndCullSwitch_Main' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.SKEL_BP_BombProjectiles_C:CalculateNoise' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:ReceiveBeginPlay' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:ReceiveTick' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:UserConstructionScript' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffSwitch - Strain' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffAndCullingSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:SetVisibility' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:MakeDynamic_EnableNonGC' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffSwitch_InternalStrain' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffSwitch_ForceDynamic' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffShapeSwitch' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:FalloffAndCullSwitch_Main' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:849][734]LogMetaData: Removing '/Game/Fracture/BP_BombProjectiles.BP_BombProjectiles_C:CalculateNoise' ref from Metadata '/Game/Fracture/FS_BombField_Prototype.PackageMetaData'
+[2024.04.22-13.33.15:877][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-13.33.15:922][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.33.15:987][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BP_BombProjectiles" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset" SILENT=true
+[2024.04.22-13.33.16:479][734]LogSavePackage: Moving output files for package: /Game/Fracture/BP_BombProjectiles
+[2024.04.22-13.33.16:479][734]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_BombProjectiles37409F944934B415D00D5C839B17435C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset'
+[2024.04.22-13.33.16:500][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 623 ms (total: 3.14 sec)
+[2024.04.22-13.33.16:522][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.22-13.33.16:538][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.22-13.33.16:551][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.22-13.33.16:554][734]AssetCheck: New page: Asset Save: BP_BombProjectiles
+[2024.04.22-13.33.16:554][734]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/BP_BombProjectiles.BP_BombProjectiles
+[2024.04.22-13.33.17:779][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/BP_BombProjectiles.BP_BombProjectiles
+[2024.04.22-13.33.17:779][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.33.17:779][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.33.21:074][943]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.22-13.34.47:472][ 99]LogWindows: LaunchFileInExternalEditor C:/UE_5.3/Engine/Source/Runtime/Engine/Classes/GameFramework/ProjectileMovementComponent.h 
+[2024.04.22-13.34.47:621][ 99]LogWindows: Launch application code for C:/UE_5.3/Engine/Source/Runtime/Engine/Classes/GameFramework/ProjectileMovementComponent.h : 42
+[2024.04.22-13.34.47:621][ 99]LogWindows: LaunchFileInExternalEditor C:/UE_5.3/Engine/Source/Runtime/Engine/Private/Components/ProjectileMovementComponent.cpp 
+[2024.04.22-13.34.47:668][ 99]LogWindows: Launch application code for C:/UE_5.3/Engine/Source/Runtime/Engine/Private/Components/ProjectileMovementComponent.cpp : 42
+[2024.04.22-13.34.47:669][ 99]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.04.22-13.34.47:675][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:675][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:676][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:677][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:678][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:679][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:680][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:681][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:725][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:729][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:729][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:729][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:729][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:737][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:737][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:749][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:749][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:749][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:749][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:750][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:753][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:789][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:789][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:791][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:804][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:844][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:848][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:891][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:891][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:893][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:900][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:901][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:902][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:903][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:904][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:905][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:906][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:925][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:927][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:927][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:927][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:927][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:938][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:938][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:944][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:944][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:944][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:944][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:945][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:947][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:962][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:962][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:964][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:973][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:995][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.47:996][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:015][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:015][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:017][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:033][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:034][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:035][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:036][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:037][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:038][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:039][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:040][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:040][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:040][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:062][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:063][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:063][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:063][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:063][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:075][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:075][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:081][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:081][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:081][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:081][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:082][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:084][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:098][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:098][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:100][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:108][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:131][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:135][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:155][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:155][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:159][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:167][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:168][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:169][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:170][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:171][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:172][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:173][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:174][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:175][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:175][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:175][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:175][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:176][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:177][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:177][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:177][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:177][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:177][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:178][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:178][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:178][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:178][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:179][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:180][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:212][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:214][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:214][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:214][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:214][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:232][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:232][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:240][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:241][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:241][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:241][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:243][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:246][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:267][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:267][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:268][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:310][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:312][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:334][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:335][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.48:337][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2024.04.22-13.34.54:581][172]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.34.54:730][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.22-13.35.04:409][606]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.35.04:409][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.35.06:226][817]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.04.22-13.35.18:022][863]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.22-13.35.18:023][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.35.18:023][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.36.18:313][713]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.22-13.36.18:324][713]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.04.22-13.36.18:324][713]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.04.22-13.36.18:413][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.22-13.36.21:307][ 41]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.22-13.37.35:278][836]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.22-13.37.35:382][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.22-13.37.52:116][321]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.22-13.37.52:212][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.22-13.37.52:946][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-13.37.52:979][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.37.53:072][387]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.22-13.37.53:072][387]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter8B0AB5014A3A4A8DAB87FEA76080E307.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.22-13.37.53:081][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.27 sec)
+[2024.04.22-13.37.53:084][387]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.22-13.37.53:084][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.22-13.38.05:420][577]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.38.07:080][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.38.07:085][693]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.38.07:085][693]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.38.07:089][693]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 4 ms (total: 84 ms)
+[2024.04.22-13.38.07:089][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.38.07:089][693]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:38:07)
+[2024.04.22-13.38.07:089][693]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2024.04.22-13.38.07:092][693]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.04.22-13.38.07:116][694]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.38.07:136][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019741s)
+[2024.04.22-13.38.07:136][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.019799s)
+[2024.04.22-13.38.07:145][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.22-13.38.07:150][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.38.07:150][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.38.07:150][694]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.38.07:151][694]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.38.07:151][694]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.38.07:151][694]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.38.07:151][694]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.38.07:156][694]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.38.07:156][694]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 583 ms)
+[2024.04.22-13.38.07:156][694]LogPlayLevel: PIE: World Init took: (0.006038s)
+[2024.04.22-13.38.07:156][694]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.38.07:157][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.38.07:157][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.38.07:157][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.38.07:157][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.38.07:157][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.38.07:158][694]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.38.07:173][694]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.38.07:174][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.38.07:174][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.38.07:174][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.38.07:175][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.04.22-13.38.07:175][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.04.22-13.38.07:175][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.04.22-13.38.07:175][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.04.22-13.38.07:175][694]LogInit: FAudioDevice initialized with ID 35.
+[2024.04.22-13.38.07:175][694]LogAudio: Display: Audio Device (ID: 35) registered with world 'TestFractureMap'.
+[2024.04.22-13.38.07:175][694]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.22-13.38.07:179][694]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.38.07:189][694]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.38.07
+[2024.04.22-13.38.07:190][694]LogWorld: Bringing up level for play took: 0.010750
+[2024.04.22-13.38.07:194][694]PIE: Server logged in
+[2024.04.22-13.38.07:194][694]PIE: Play in editor total start time 0,11 seconds.
+[2024.04.22-13.38.46:877][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.38.46:877][160]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.38.46:880][160]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.38.46:888][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.38.46:893][160]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.38.46:907][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.38.46:931][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.38.47:382][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.38.47:383][160]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.22-13.38.47:383][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.22-13.38.47:384][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.22-13.38.47:388][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.38.47:584][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.22-13.38.47:677][161]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.04.22-13.38.47:707][161]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.39.07:021][555]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.39.07:176][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.22-13.39.08:591][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.39.08:597][651]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.39.08:597][651]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.39.08:599][651]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 1 ms (total: 86 ms)
+[2024.04.22-13.39.08:599][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.39.08:599][651]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:39:08)
+[2024.04.22-13.39.08:599][651]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2024.04.22-13.39.08:601][651]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.04.22-13.39.08:623][652]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.39.08:644][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021442s)
+[2024.04.22-13.39.08:644][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.021486s)
+[2024.04.22-13.39.08:656][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.22-13.39.08:661][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.39.08:661][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.39.08:661][652]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.39.08:662][652]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.39.08:662][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.39.08:662][652]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.39.08:662][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.39.08:667][652]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.39.08:667][652]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 589 ms)
+[2024.04.22-13.39.08:667][652]LogPlayLevel: PIE: World Init took: (0.006466s)
+[2024.04.22-13.39.08:667][652]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.39.08:667][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.39.08:667][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.39.08:667][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.39.08:667][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.39.08:667][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.39.08:669][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.39.08:685][652]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.39.08:685][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.39.08:685][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.39.08:685][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.39.08:685][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.04.22-13.39.08:685][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.04.22-13.39.08:688][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.04.22-13.39.08:688][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.04.22-13.39.08:688][652]LogInit: FAudioDevice initialized with ID 36.
+[2024.04.22-13.39.08:688][652]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestFractureMap'.
+[2024.04.22-13.39.08:688][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.22-13.39.08:691][652]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.39.08:702][652]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.39.08
+[2024.04.22-13.39.08:702][652]LogWorld: Bringing up level for play took: 0.010216
+[2024.04.22-13.39.08:705][652]PIE: Server logged in
+[2024.04.22-13.39.08:706][652]PIE: Play in editor total start time 0,11 seconds.
+[2024.04.22-13.39.35:438][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.39.35:438][247]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.39.35:439][247]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.39.35:443][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.39.35:444][247]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.39.35:449][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.39.35:459][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.39.35:614][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.39.35:615][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.22-13.39.35:615][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.22-13.39.35:618][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.22-13.39.35:621][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.39.35:702][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.04.22-13.39.35:787][248]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.04.22-13.39.35:802][248]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.39.43:340][109]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.39.43:507][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.22-13.39.44:762][197]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.39.44:767][197]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.39.44:767][197]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.39.44:769][197]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 1 ms (total: 88 ms)
+[2024.04.22-13.39.44:769][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.39.44:769][197]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:39:44)
+[2024.04.22-13.39.44:770][197]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2024.04.22-13.39.44:771][197]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.04.22-13.39.44:794][198]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.39.44:814][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020408s)
+[2024.04.22-13.39.44:814][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.020452s)
+[2024.04.22-13.39.44:829][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.22-13.39.44:832][198]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.39.44:832][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.39.44:833][198]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.39.44:833][198]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.39.44:833][198]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.39.44:833][198]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.39.44:833][198]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.39.44:838][198]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.39.44:838][198]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 594 ms)
+[2024.04.22-13.39.44:838][198]LogPlayLevel: PIE: World Init took: (0.006591s)
+[2024.04.22-13.39.44:838][198]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.04.22-13.39.44:838][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.39.44:838][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.39.44:838][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.39.44:839][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.39.44:839][198]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.39.44:839][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.39.44:839][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.39.44:839][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.39.44:839][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.39.44:839][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.39.44:839][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.39.44:841][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.39.44:858][198]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.39.44:858][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.39.44:858][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.39.44:858][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.39.44:858][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.04.22-13.39.44:858][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.04.22-13.39.44:860][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.04.22-13.39.44:860][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.04.22-13.39.44:860][198]LogInit: FAudioDevice initialized with ID 37.
+[2024.04.22-13.39.44:860][198]LogAudio: Display: Audio Device (ID: 37) registered with world 'TestFractureMap'.
+[2024.04.22-13.39.44:860][198]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.22-13.39.44:863][198]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.39.44:874][198]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.39.44
+[2024.04.22-13.39.44:874][198]LogWorld: Bringing up level for play took: 0.010599
+[2024.04.22-13.39.44:878][198]PIE: Server logged in
+[2024.04.22-13.39.44:879][198]PIE: Play in editor total start time 0,111 seconds.
+[2024.04.22-13.40.04:058][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.40.04:058][ 98]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.40.04:060][ 98]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.40.04:063][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.40.04:065][ 98]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.40.04:069][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.40.04:080][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.40.04:281][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.40.04:283][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.22-13.40.04:283][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.22-13.40.04:284][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.22-13.40.04:288][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.40.04:307][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.22-13.40.04:401][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.04.22-13.40.04:433][ 99]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.40.32:842][872]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.40.33:151][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.22-13.40.34:448][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.40.34:453][963]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.40.34:453][963]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.40.34:455][963]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 1 ms (total: 90 ms)
+[2024.04.22-13.40.34:455][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.40.34:456][963]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:40:34)
+[2024.04.22-13.40.34:457][963]LogPlayLevel: Display: Creating online subsystem for client :Context_56
+[2024.04.22-13.40.34:459][963]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.04.22-13.40.34:481][964]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.40.34:503][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022081s)
+[2024.04.22-13.40.34:503][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.022126s)
+[2024.04.22-13.40.34:518][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.22-13.40.34:521][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.40.34:522][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.40.34:522][964]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.40.34:522][964]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.40.34:522][964]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.40.34:522][964]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.40.34:522][964]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.40.34:528][964]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.40.34:528][964]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 600 ms)
+[2024.04.22-13.40.34:528][964]LogPlayLevel: PIE: World Init took: (0.006458s)
+[2024.04.22-13.40.34:528][964]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.40.34:528][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.40.34:528][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.40.34:528][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.40.34:528][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.40.34:528][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.40.34:530][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.40.34:546][964]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.40.34:546][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.40.34:546][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.40.34:546][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.40.34:547][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.04.22-13.40.34:547][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.04.22-13.40.34:548][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.04.22-13.40.34:548][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.04.22-13.40.34:548][964]LogInit: FAudioDevice initialized with ID 38.
+[2024.04.22-13.40.34:549][964]LogAudio: Display: Audio Device (ID: 38) registered with world 'TestFractureMap'.
+[2024.04.22-13.40.34:549][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.22-13.40.34:551][964]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.40.34:561][964]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.40.34
+[2024.04.22-13.40.34:561][964]LogWorld: Bringing up level for play took: 0.009804
+[2024.04.22-13.40.34:565][964]PIE: Server logged in
+[2024.04.22-13.40.34:566][964]PIE: Play in editor total start time 0,111 seconds.
+[2024.04.22-13.40.46:947][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.40.46:947][262]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.40.46:948][262]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.40.46:951][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.40.46:952][262]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.40.46:956][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.40.46:964][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.40.46:975][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.40.46:999][262]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.22-13.40.47:000][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.22-13.40.47:001][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.22-13.40.47:019][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.22-13.40.47:110][263]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.04.22-13.40.47:115][263]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.40.57:630][452]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.40.57:797][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.22-13.41.00:380][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.41.00:385][625]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.41.00:385][625]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.41.00:387][625]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 92 ms)
+[2024.04.22-13.41.00:387][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.41.00:387][625]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:41:00)
+[2024.04.22-13.41.00:387][625]LogPlayLevel: Display: Creating online subsystem for client :Context_57
+[2024.04.22-13.41.00:389][625]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.04.22-13.41.00:419][626]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.41.00:440][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021435s)
+[2024.04.22-13.41.00:440][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.021482s)
+[2024.04.22-13.41.00:453][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.22-13.41.00:457][626]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.41.00:457][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.41.00:457][626]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.41.00:458][626]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.41.00:458][626]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.41.00:458][626]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.41.00:458][626]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.41.00:463][626]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.41.00:463][626]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 605 ms)
+[2024.04.22-13.41.00:463][626]LogPlayLevel: PIE: World Init took: (0.006449s)
+[2024.04.22-13.41.00:463][626]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.41.00:463][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.41.00:463][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.41.00:464][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.41.00:464][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.41.00:464][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.41.00:465][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.41.00:480][626]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.41.00:480][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.41.00:480][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.41.00:480][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.41.00:482][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.04.22-13.41.00:482][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.04.22-13.41.00:485][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.04.22-13.41.00:485][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.04.22-13.41.00:485][626]LogInit: FAudioDevice initialized with ID 39.
+[2024.04.22-13.41.00:485][626]LogAudio: Display: Audio Device (ID: 39) registered with world 'TestFractureMap'.
+[2024.04.22-13.41.00:485][626]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.22-13.41.00:487][626]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.41.00:498][626]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.41.00
+[2024.04.22-13.41.00:498][626]LogWorld: Bringing up level for play took: 0.010011
+[2024.04.22-13.41.00:501][626]PIE: Server logged in
+[2024.04.22-13.41.00:502][626]PIE: Play in editor total start time 0,117 seconds.
+[2024.04.22-13.41.17:807][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.41.17:807][283]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.41.17:808][283]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.41.17:812][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.41.17:814][283]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.41.17:818][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.41.17:829][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.41.17:980][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.41.17:982][283]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.22-13.41.17:983][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.22-13.41.17:984][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.22-13.41.17:990][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.41.18:026][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.22-13.41.18:110][284]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.04.22-13.41.18:115][284]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.41.38:191][ 88]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.22-13.41.38:313][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.22-13.41.38:672][107]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.41.39:423][153]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.41.39:429][153]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.41.39:429][153]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.41.39:431][153]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 94 ms)
+[2024.04.22-13.41.39:431][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.41.39:431][153]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:41:39)
+[2024.04.22-13.41.39:431][153]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2024.04.22-13.41.39:433][153]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.04.22-13.41.39:455][154]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.41.39:479][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022683s)
+[2024.04.22-13.41.39:479][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.022729s)
+[2024.04.22-13.41.39:490][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.22-13.41.39:494][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.41.39:494][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.41.39:495][154]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.41.39:495][154]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.41.39:495][154]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.41.39:495][154]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.41.39:495][154]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.41.39:501][154]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.41.39:501][154]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 611 ms)
+[2024.04.22-13.41.39:501][154]LogPlayLevel: PIE: World Init took: (0.007357s)
+[2024.04.22-13.41.39:501][154]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.41.39:501][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.41.39:501][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.41.39:501][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.41.39:501][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.41.39:501][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.41.39:503][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.41.39:519][154]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.41.39:519][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.41.39:519][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.41.39:519][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.41.39:519][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.22-13.41.39:519][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.22-13.41.39:521][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.22-13.41.39:521][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.22-13.41.39:521][154]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.22-13.41.39:521][154]LogAudio: Display: Audio Device (ID: 40) registered with world 'TestFractureMap'.
+[2024.04.22-13.41.39:521][154]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.22-13.41.39:525][154]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.41.39:535][154]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.41.39
+[2024.04.22-13.41.39:535][154]LogWorld: Bringing up level for play took: 0.010263
+[2024.04.22-13.41.39:539][154]PIE: Server logged in
+[2024.04.22-13.41.39:540][154]PIE: Play in editor total start time 0,112 seconds.
+[2024.04.22-13.41.51:637][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.41.51:637][405]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.41.51:638][405]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.41.51:641][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.41.51:642][405]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.41.51:647][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.41.51:654][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.41.51:751][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.41.51:751][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.22-13.41.51:751][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.22-13.41.51:753][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.22-13.41.51:757][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.41.51:768][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.22-13.41.51:862][406]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.04.22-13.41.51:891][406]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.42.45:551][ 38]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.42.45:709][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.22-13.42.46:860][122]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.42.46:865][122]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.42.46:865][122]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.42.46:869][122]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 3 ms (total: 98 ms)
+[2024.04.22-13.42.46:869][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.42.46:869][122]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:42:46)
+[2024.04.22-13.42.46:869][122]LogPlayLevel: Display: Creating online subsystem for client :Context_59
+[2024.04.22-13.42.46:871][122]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.22-13.42.46:894][123]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.42.46:915][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021106s)
+[2024.04.22-13.42.46:915][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.021161s)
+[2024.04.22-13.42.46:929][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.22-13.42.46:932][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.42.46:932][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.42.46:932][123]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.42.46:933][123]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.42.46:933][123]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.42.46:933][123]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.42.46:933][123]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.42.46:938][123]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.42.46:938][123]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 617 ms)
+[2024.04.22-13.42.46:938][123]LogPlayLevel: PIE: World Init took: (0.006421s)
+[2024.04.22-13.42.46:938][123]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.42.46:938][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.42.46:938][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.42.46:939][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.42.46:939][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.42.46:939][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.42.46:941][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.42.46:955][123]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.42.46:956][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.42.46:956][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.42.46:956][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.42.46:956][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.04.22-13.42.46:956][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.04.22-13.42.46:959][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.04.22-13.42.46:959][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.04.22-13.42.46:959][123]LogInit: FAudioDevice initialized with ID 41.
+[2024.04.22-13.42.46:959][123]LogAudio: Display: Audio Device (ID: 41) registered with world 'TestFractureMap'.
+[2024.04.22-13.42.46:959][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.22-13.42.46:962][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.42.46:972][123]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.42.46
+[2024.04.22-13.42.46:973][123]LogWorld: Bringing up level for play took: 0.010550
+[2024.04.22-13.42.46:977][123]PIE: Server logged in
+[2024.04.22-13.42.46:977][123]PIE: Play in editor total start time 0,113 seconds.
+[2024.04.22-13.42.57:738][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.42.57:738][153]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.42.57:740][153]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.42.57:744][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.42.57:745][153]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.42.57:749][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.42.57:757][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.42.57:845][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.42.57:846][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.22-13.42.57:846][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.22-13.42.57:847][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.22-13.42.57:851][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.42.57:865][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.22-13.42.57:947][154]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.04.22-13.42.57:957][154]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.43.01:393][533]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.22-13.43.01:500][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.22-13.43.01:847][551]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.43.02:931][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.43.02:936][617]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.43.02:936][617]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.43.02:939][617]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 100 ms)
+[2024.04.22-13.43.02:939][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.43.02:939][617]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:43:02)
+[2024.04.22-13.43.02:939][617]LogPlayLevel: Display: Creating online subsystem for client :Context_60
+[2024.04.22-13.43.02:941][617]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.04.22-13.43.02:965][618]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.43.02:988][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022768s)
+[2024.04.22-13.43.02:988][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.022818s)
+[2024.04.22-13.43.02:999][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.22-13.43.03:003][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.43.03:004][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.43.03:004][618]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.43.03:004][618]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.43.03:005][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.43.03:005][618]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.43.03:005][618]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.43.03:011][618]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.43.03:011][618]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 623 ms)
+[2024.04.22-13.43.03:011][618]LogPlayLevel: PIE: World Init took: (0.007609s)
+[2024.04.22-13.43.03:011][618]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.43.03:011][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.43.03:011][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.43.03:012][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.43.03:012][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.43.03:012][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.43.03:014][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.43.03:031][618]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.43.03:031][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.43.03:031][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.43.03:031][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.43.03:032][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.04.22-13.43.03:032][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.04.22-13.43.03:034][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.04.22-13.43.03:034][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.04.22-13.43.03:034][618]LogInit: FAudioDevice initialized with ID 42.
+[2024.04.22-13.43.03:034][618]LogAudio: Display: Audio Device (ID: 42) registered with world 'TestFractureMap'.
+[2024.04.22-13.43.03:034][618]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.22-13.43.03:037][618]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.43.03:047][618]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.43.03
+[2024.04.22-13.43.03:047][618]LogWorld: Bringing up level for play took: 0.010815
+[2024.04.22-13.43.03:051][618]PIE: Server logged in
+[2024.04.22-13.43.03:051][618]PIE: Play in editor total start time 0,115 seconds.
+[2024.04.22-13.43.20:397][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.43.20:397][  8]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.43.20:401][  8]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-13.43.20:410][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.43.20:412][  8]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.22-13.43.20:417][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-13.43.20:431][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-13.43.20:712][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-13.43.20:712][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.22-13.43.20:712][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.22-13.43.20:713][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.22-13.43.20:717][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-13.43.20:764][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.22-13.43.20:852][  9]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.04.22-13.43.20:858][  9]LogViewport: Scene viewport resized to 352x165, mode Windowed.
+[2024.04.22-13.43.28:802][876]BlueprintLog: New page: Compile BP_BombProjectiles
+[2024.04.22-13.43.28:970][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.22-13.43.30:701][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-13.43.30:706][ 13]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.22-13.43.30:706][ 13]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.22-13.43.30:710][ 13]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 3 ms (total: 103 ms)
+[2024.04.22-13.43.30:710][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-13.43.30:710][ 13]PIE: New page: PIE session: TestFractureMap (22 avr. 2024 à 17:43:30)
+[2024.04.22-13.43.30:710][ 13]LogPlayLevel: Display: Creating online subsystem for client :Context_61
+[2024.04.22-13.43.30:712][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.04.22-13.43.30:733][ 14]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.22-13.43.30:757][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023365s)
+[2024.04.22-13.43.30:757][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.023415s)
+[2024.04.22-13.43.30:773][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.22-13.43.30:776][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-13.43.30:776][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-13.43.30:777][ 14]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.22-13.43.30:777][ 14]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.22-13.43.30:777][ 14]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.22-13.43.30:777][ 14]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.22-13.43.30:777][ 14]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.22-13.43.30:783][ 14]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.22-13.43.30:783][ 14]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 629 ms)
+[2024.04.22-13.43.30:783][ 14]LogPlayLevel: PIE: World Init took: (0.006909s)
+[2024.04.22-13.43.30:783][ 14]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-13.43.30:783][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.22-13.43.30:783][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-13.43.30:783][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-13.43.30:783][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-13.43.30:783][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-13.43.30:785][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-13.43.30:800][ 14]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.22-13.43.30:800][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-13.43.30:800][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-13.43.30:800][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-13.43.30:801][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.04.22-13.43.30:801][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.04.22-13.43.30:803][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.04.22-13.43.30:803][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.04.22-13.43.30:803][ 14]LogInit: FAudioDevice initialized with ID 43.
+[2024.04.22-13.43.30:803][ 14]LogAudio: Display: Audio Device (ID: 43) registered with world 'TestFractureMap'.
+[2024.04.22-13.43.30:803][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.22-13.43.30:805][ 14]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-13.43.30:817][ 14]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 0) at 2024.04.22-15.43.30
+[2024.04.22-13.43.30:817][ 14]LogWorld: Bringing up level for play took: 0.012323
+[2024.04.22-13.43.30:821][ 14]PIE: Server logged in
+[2024.04.22-13.43.30:822][ 14]PIE: Play in editor total start time 0,116 seconds.
+[2024.04.22-13.44.12:724][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-13.44.12:769][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BP_BombProjectiles" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset" SILENT=true
+[2024.04.22-13.44.13:083][484]LogSavePackage: Moving output files for package: /Game/Fracture/BP_BombProjectiles
+[2024.04.22-13.44.13:085][484]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_BombProjectiles700136CD4395787007F3EFA834715C8C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset'
+[2024.04.22-13.44.13:086][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 361 ms (total: 3.63 sec)
+[2024.04.22-13.44.13:091][484]AssetCheck: New page: Asset Save: BP_BombProjectiles
+[2024.04.22-13.44.13:092][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/BP_BombProjectiles.BP_BombProjectiles
+[2024.04.22-13.44.14:665][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-13.44.14:666][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BP_BombProjectiles" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset" SILENT=true
+[2024.04.22-13.44.14:954][552]LogSavePackage: Moving output files for package: /Game/Fracture/BP_BombProjectiles
+[2024.04.22-13.44.14:954][552]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_BombProjectiles8441BAFA41266C25537D6F943CE28CB2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset'
+[2024.04.22-13.44.14:957][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 3.93 sec)
+[2024.04.22-13.44.14:961][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-13.44.14:962][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BP_BombProjectiles" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset" SILENT=true
+[2024.04.22-13.44.15:252][552]LogSavePackage: Moving output files for package: /Game/Fracture/BP_BombProjectiles
+[2024.04.22-13.44.15:253][552]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_BombProjectilesB8F45A8242565A20A6AA75A443E2B0B5.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_BombProjectiles.uasset'
+[2024.04.22-13.44.15:255][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 4.22 sec)
+[2024.04.22-13.44.15:257][552]AssetCheck: New page: Asset Save: BP_BombProjectiles
+[2024.04.22-13.44.15:257][552]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/BP_BombProjectiles.BP_BombProjectiles
