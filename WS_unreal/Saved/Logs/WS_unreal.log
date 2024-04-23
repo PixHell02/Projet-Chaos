@@ -3294,3 +3294,21 @@ Script Stack (0 frames) :
 [2024.04.23-11.25.14:630][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.04.23-11.25.14:673][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2024.04.23-11.25.14:740][892]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.23-11.25.40:371][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.23-11.25.40:385][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Fracture/TestFractureMap/9/QU/J5JNHDZEAOR06YBFJVDCRY_Auto1
+[2024.04.23-11.25.40:385][ 37]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/J5JNHDZEAOR06YBFJVDCRY_Auto10AEB851B46A6DF795B344997D846721A.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/__ExternalActors__/Fracture/TestFractureMap/9/QU/J5JNHDZEAOR06YBFJVDCRY_Auto1.uasset'
+[2024.04.23-11.25.40:387][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Fracture/TestFractureMap' took 0.026
+[2024.04.23-11.25.40:387][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2024.04.23-11.25.40:388][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint] ([2] browsable assets)...
+[2024.04.23-11.25.40:448][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint.Cylinder_GeometryCollection_Blueprint]
+[2024.04.23-11.25.40:448][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-11.25.40:467][ 37]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint.Cylinder_GeometryCollection_Blueprint_C]
+[2024.04.23-11.25.40:467][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint]
+[2024.04.23-11.25.40:471][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint_Auto1
+[2024.04.23-11.25.40:471][ 37]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cylinder_GeometryCollection_BlueC3E0A76F4A997D627EF6248D4444DA3B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/Cylinder_GeometryCollection_Blueprint_Auto1.uasset'
+[2024.04.23-11.25.40:472][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Fracture/BP_Projectiles] ([2] browsable assets)...
+[2024.04.23-11.25.40:480][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fracture/BP_Projectiles.BP_Projectiles]
+[2024.04.23-11.25.40:480][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/BP_Projectiles]
+[2024.04.23-11.25.40:483][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/BP_Projectiles_Auto1
+[2024.04.23-11.25.40:484][ 37]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto13F6E1806415237CE055670BA53AB7650.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/BP_Projectiles_Auto1.uasset'
+[2024.04.23-11.25.40:485][ 37]LogFileHelpers: Auto-saving content packages took 0.098
