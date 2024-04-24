@@ -1399,3 +1399,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.24-11.08.35:714][639]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.04.24-11.08.35:714][639]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2024.04.24-11.08.35:714][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-11.09.01:620][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.24-11.09.01:630][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Chunk/SubChunk1_Auto2
+[2024.04.24-11.09.01:630][783]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/SubChunk1_Auto2B4A3738E4FB222FAB96BEEBD3996DA08.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Chunk/SubChunk1_Auto2.umap'
+[2024.04.24-11.09.01:631][783]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Chunk/SubChunk1_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.24-11.09.01:631][783]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Chunk/SubChunk1_Auto2 is in the /Temp path, will not scan.
+[2024.04.24-11.09.01:631][783]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Chunk/SubChunk1_Auto2 is in the /Temp path, will not scan.
+[2024.04.24-11.09.01:632][783]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Chunk/Chunk_test1' took 0.021
+[2024.04.24-11.09.01:632][783]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.04.24-11.09.01:632][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.24-11.09.01:632][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-11.09.01:785][783]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.04.24-11.09.01:819][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.24-11.09.01:819][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.24-11.09.01:832][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.04.24-11.09.01:833][783]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter_Auto27934FAFB49D8AD95D4706E897CFD3B80.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.04.24-11.09.01:834][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Chunk/BP_ChunkLoad] ([2] browsable assets)...
+[2024.04.24-11.09.01:873][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chunk/BP_ChunkLoad.BP_ChunkLoad]
+[2024.04.24-11.09.01:873][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chunk/BP_ChunkLoad]
+[2024.04.24-11.09.01:879][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Chunk/BP_ChunkLoad_Auto2
+[2024.04.24-11.09.01:879][783]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ChunkLoad_Auto2D1C66134421FEBE85AEFE18E484CF36B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Chunk/BP_ChunkLoad_Auto2.uasset'
+[2024.04.24-11.09.01:880][783]LogFileHelpers: Auto-saving content packages took 0.248
