@@ -1146,3 +1146,477 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.24-07.46.36:498][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.24-07.46.36:510][  1]LogAssetRegistry: AssetRegistryGather time 7.2344s: AssetDataDiscovery 0.2065s, AssetDataGather 6.9833s, StoreResults 0.0447s.
 [2024.04.24-07.46.36:535][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2024.04.24-07.47.56:657][752]LogDerivedDataCache: C:/Users/maton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3130 files in 4246 folders with total size 154 MiB.
+[2024.04.24-07.47.57:901][826]LogViewport: Scene viewport resized to 1100x544, mode Windowed.
+[2024.04.24-07.47.57:918][827]LogViewport: Scene viewport resized to 1100x538, mode Windowed.
+[2024.04.24-07.47.57:967][828]LogViewport: Scene viewport resized to 1100x521, mode Windowed.
+[2024.04.24-07.47.57:993][829]LogViewport: Scene viewport resized to 1100x519, mode Windowed.
+[2024.04.24-07.47.58:017][830]LogViewport: Scene viewport resized to 1100x515, mode Windowed.
+[2024.04.24-07.47.58:058][832]LogViewport: Scene viewport resized to 1100x513, mode Windowed.
+[2024.04.24-07.47.58:125][836]LogViewport: Scene viewport resized to 1100x512, mode Windowed.
+[2024.04.24-07.47.58:180][838]LogViewport: Scene viewport resized to 1100x507, mode Windowed.
+[2024.04.24-07.47.58:200][839]LogViewport: Scene viewport resized to 1100x504, mode Windowed.
+[2024.04.24-07.47.58:227][840]LogViewport: Scene viewport resized to 1100x500, mode Windowed.
+[2024.04.24-07.47.58:255][841]LogViewport: Scene viewport resized to 1100x493, mode Windowed.
+[2024.04.24-07.47.58:284][842]LogViewport: Scene viewport resized to 1100x478, mode Windowed.
+[2024.04.24-07.47.58:310][843]LogViewport: Scene viewport resized to 1100x472, mode Windowed.
+[2024.04.24-07.47.58:336][844]LogViewport: Scene viewport resized to 1100x470, mode Windowed.
+[2024.04.24-07.47.58:396][847]LogViewport: Scene viewport resized to 1100x469, mode Windowed.
+[2024.04.24-07.47.58:895][877]LogViewport: Scene viewport resized to 1100x470, mode Windowed.
+[2024.04.24-07.47.58:912][878]LogViewport: Scene viewport resized to 1100x475, mode Windowed.
+[2024.04.24-07.47.58:951][879]LogViewport: Scene viewport resized to 1100x482, mode Windowed.
+[2024.04.24-07.47.58:978][880]LogViewport: Scene viewport resized to 1100x488, mode Windowed.
+[2024.04.24-07.47.59:007][881]LogViewport: Scene viewport resized to 1100x493, mode Windowed.
+[2024.04.24-07.48.05:869][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.24-07.48.06:496][289]LogTexture: Display: Building textures: /Game/AI/Pathfinding.Pathfinding:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.04.24-07.48.06:497][289]LogTexture: Display: Building textures: /Game/AI/Pathfinding.Pathfinding:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.04.24-07.48.06:504][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.48.06:538][289]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.04.24-07.48.06:686][289]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AI/Pathfinding.Pathfinding
+[2024.04.24-07.48.06:687][289]Cmd: MAP LOAD FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/Pathfinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.24-07.48.06:687][289]LightingResults: New page: Lighting Build
+[2024.04.24-07.48.06:687][289]LoadErrors: New page: Loading map: Pathfinding.umap
+[2024.04.24-07.48.06:711][289]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_A036BC3211F29EEE01_1144904295.GeometryCollectionComponent0, from: Remove from navoctree)
+[2024.04.24-07.48.06:711][289]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_A036BC3211F29CEE01_2011037949.GeometryCollectionComponent0, from: Remove from navoctree)
+[2024.04.24-07.48.06:748][289]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-07.48.06:748][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-07.48.06:751][289]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.24-07.48.06:751][289]MapCheck: New page: Map Check
+[2024.04.24-07.48.06:751][289]LightingResults: New page: Lighting Build
+[2024.04.24-07.48.06:756][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.24-07.48.06:759][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.24-07.48.06:762][289]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-07.48.06:762][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-07.48.06:771][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.24-07.48.06:775][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.24-07.48.06:789][289]LogAudio: Display: Audio Device (ID: 1) registered with world 'Pathfinding'.
+[2024.04.24-07.48.06:789][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.48.06:789][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-07.48.06:789][289]LogAIModule: Creating AISystem for world Pathfinding
+[2024.04.24-07.48.06:864][289]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.24-07.48.06:871][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.24-07.48.06:876][289]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.24-07.48.06:877][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,157ms to complete.
+[2024.04.24-07.53.10:850][514]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.24-07.53.10:902][514]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.24-07.53.10:911][515]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.24-07.53.23:240][255]LogContentBrowser: Attempting asset rename: NewFolder -> AI_BluePrints
+[2024.04.24-07.53.23:240][255]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.24-07.53.39:505][526]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.24-07.53.39:513][526]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.24-07.53.39:517][526]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.24-07.53.39:527][527]LogAutomationController: Ignoring very large delta of 11.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.24-07.53.39:552][528]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.24-07.53.54:373][405]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_Ennemy
+[2024.04.24-07.53.54:389][405]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.24-07.54.18:543][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.24-07.54.19:742][737]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-07.54.19:753][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.24-07.54.19:757][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.24-07.54.19:762][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.04.24-07.54.23:138][833]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.24-07.54.23:166][833]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.24-07.54.23:173][833]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.24-07.54.23:198][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.24-07.54.28:395][143]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Ennemy_AI
+[2024.04.24-07.54.28:400][143]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.24-07.54.47:160][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-07.54.47:165][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.54.47:165][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-07.54.47:178][324]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.24-07.54.48:312][324]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2024.04.24-07.54.49:507][353]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2024.04.24-07.54.56:342][733]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Explosion01...
+[2024.04.24-07.54.56:357][733]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.24-07.54.56:384][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/BP_ScaleBomb.BP_ScaleBomb
+[2024.04.24-07.54.56:384][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.54.56:385][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-07.54.56:475][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.24-07.54.56:475][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.54.56:476][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-07.54.56:560][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/Essaie_raté/BP_Projectiles.BP_Projectiles
+[2024.04.24-07.54.56:560][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.54.56:560][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-07.54.56:722][733]LogSlate: Took 0.004418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.24-07.54.56:970][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.55.00:059][912]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2024.04.24-07.55.04:535][166]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-07.55.04:535][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-07.55.30:267][490]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.24-07.55.30:307][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.55.32:335][611]LogSlate: Took 0.008552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.24-07.55.33:436][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.04.24-07.55.33:447][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.04.24-07.55.33:470][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/a5e988c5bb87518026afcb759af4ef25e1732756
+[2024.04.24-07.55.33:470][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.04.24-07.55.33:497][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.04.24-07.55.33:503][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/78d59f76b321cd04f7ee5c0f8bad1d0ddeb943f8
+[2024.04.24-07.55.33:517][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/2b35e2cb64a6dd08d03abcbb3968c6aadab948b4
+[2024.04.24-07.55.33:518][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.04.24-07.55.33:533][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.04.24-07.55.33:536][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/659595a81ebe13fc448f5ee9f5593fdc0e53a749
+[2024.04.24-07.55.33:543][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/7377f7608ecc76bb5c79adabab43d379a2e6f1cf
+[2024.04.24-07.55.33:552][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.04.24-07.55.33:554][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/578caae2f8a3debbaede49d32eaf475b270cc1c4
+[2024.04.24-07.55.33:573][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.04.24-07.55.33:583][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/b15e2b4b7796776b184bec51aacfa31c4ed9cac3
+[2024.04.24-07.55.33:591][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.04.24-07.55.33:606][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/975da6e8e8fa318fac61743dfcb1cf1c0ce04e00
+[2024.04.24-07.55.33:611][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.04.24-07.55.33:654][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/95e19179becc18adb362d7da4d42a2a9cd41bb08
+[2024.04.24-07.55.33:655][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.04.24-07.55.33:655][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.04.24-07.55.33:694][660]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.04.24-07.55.33:701][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/d0de5e06982b87c8e6ef54851661065dc7f34c39
+[2024.04.24-07.55.33:740][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.04.24-07.55.33:743][660]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.04.24-07.55.33:750][660]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.04.24-07.55.33:767][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/270756baf0b53ee28aa3184391bcb6f200d07cb7
+[2024.04.24-07.55.33:796][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/c91c455a39441de3d27b785b1fc78f7b50cbb8db
+[2024.04.24-07.55.33:838][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/59fe4ef2a8d385fd7a78b0baea4765cc6c147a8c
+[2024.04.24-07.55.33:865][660]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/e3d3477a0e39ce7a8a0059f07fafe48c185b65bb
+[2024.04.24-07.55.38:111][660]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.04.24-07.55.38:111][660]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.04.24-07.55.42:943][660]LogSkeletalMesh: Built Skeletal Mesh [9.25s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.04.24-07.55.42:974][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.55.43:013][660]LogAutomationController: Ignoring very large delta of 9.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.24-07.55.43:140][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.56.39:163][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-07.56.39:240][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-07.56.39:263][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-07.56.39:274][211]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.009469 seconds
+[2024.04.24-07.56.39:287][211]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-07.56.39:287][211]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AI3DDBBE4D4E611D3D4A548AB8370BAD08.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-07.56.39:304][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms
+[2024.04.24-07.56.39:305][211]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-07.56.39:305][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-07.56.44:204][364]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-07.56.44:369][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.24-07.56.49:513][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-07.56.49:575][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-07.56.49:578][564]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-07.56.49:579][564]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AIA7DF28CF4595EA1AD20638B0D17EA906.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-07.56.49:587][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 216 ms)
+[2024.04.24-07.56.49:589][564]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-07.56.49:589][564]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-07.58.06:403][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.04.24-07.58.06:405][777]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Pathfinding' took 0.031
+[2024.04.24-07.58.06:406][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_BluePrints/BP_Ennemy_AI] ([2] browsable assets)...
+[2024.04.24-07.58.06:509][777]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI]
+[2024.04.24-07.58.06:509][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BluePrints/BP_Ennemy_AI]
+[2024.04.24-07.58.06:514][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AI_BluePrints/BP_Ennemy_AI_Auto1
+[2024.04.24-07.58.06:514][777]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AI_Auto1F0DA73DF47208335C12B42A1732883AB.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/AI_BluePrints/BP_Ennemy_AI_Auto1.uasset'
+[2024.04.24-07.58.06:515][777]LogFileHelpers: Auto-saving content packages took 0.109
+[2024.04.24-08.04.29:043][166]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-08.04.29:131][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.24-08.05.41:849][368]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-08.05.41:897][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.24-08.05.42:721][414]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-08.05.42:779][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.24-08.05.43:818][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.05.43:924][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.05.43:937][473]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-08.05.43:937][473]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AIBEDB06F247536EE259D81BB1FE424986.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-08.05.43:945][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 343 ms)
+[2024.04.24-08.05.43:946][473]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-08.05.43:946][473]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-08.05.47:750][698]LogSlate: Window 'BP_Ennemy_AI' being destroyed
+[2024.04.24-08.05.47:756][698]LogSlate: Window 'BP_Ennemy_AI' being destroyed
+[2024.04.24-08.05.47:763][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.24-08.05.47:763][698]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-08.05.47:763][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.05.51:461][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.24-08.05.51:461][915]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-08.05.51:461][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.05.53:790][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.24-08.05.53:790][ 49]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-08.05.53:790][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.06.04:903][695]Cmd: DELETE
+[2024.04.24-08.06.04:904][695]Cmd: ACTOR DELETE
+[2024.04.24-08.06.04:923][695]LogEditorActor: Deleted Actor: Character
+[2024.04.24-08.06.04:945][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.24-08.06.04:949][695]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.04.24-08.06.06:100][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI_C
+[2024.04.24-08.06.06:100][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI_C
+[2024.04.24-08.06.06:107][759]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI as actor: BP_Ennemy_AI_C /Game/AI/Pathfinding.Pathfinding:PersistentLevel.BP_Ennemy_AI_C_0
+[2024.04.24-08.06.06:110][759]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI as actor: BP_Ennemy_AI_C /Game/AI/Pathfinding.Pathfinding:PersistentLevel.BP_Ennemy_AI_C_0
+[2024.04.24-08.06.06:119][759]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.24-08.06.06:814][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI_C
+[2024.04.24-08.06.06:814][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI_C
+[2024.04.24-08.06.06:822][801]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI as actor: BP_Ennemy_AI_C /Game/AI/Pathfinding.Pathfinding:PersistentLevel.BP_Ennemy_AI_C_1
+[2024.04.24-08.06.06:824][801]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI as actor: BP_Ennemy_AI_C /Game/AI/Pathfinding.Pathfinding:PersistentLevel.BP_Ennemy_AI_C_1
+[2024.04.24-08.06.50:002][905]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.04.24-08.06.50:002][905]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.04.24-08.06.50:003][905]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/AI/Pathfinding.Pathfinding:PersistentLevel.NavMeshBoundsVolume_0
+[2024.04.24-08.06.50:008][905]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/AI/Pathfinding.Pathfinding:PersistentLevel.NavMeshBoundsVolume_0
+[2024.04.24-08.09.19:745][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.04.24-08.09.19:824][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Pathfinding_Auto2
+[2024.04.24-08.09.19:825][751]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Pathfinding_Auto22F7231C940EC940C9B0147867AF3EF73.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/Pathfinding_Auto2.umap'
+[2024.04.24-08.09.19:826][751]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/Pathfinding_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.24-08.09.19:827][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Pathfinding' took 0.122
+[2024.04.24-08.09.19:827][751]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2024.04.24-08.09.24:558][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.09.24:618][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.09.24:626][844]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-08.09.24:626][844]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AIB7F4D992425403FED531569F4E918E82.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-08.09.24:635][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 420 ms)
+[2024.04.24-08.09.24:637][844]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-08.09.24:637][844]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-08.09.35:693][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.09.35:752][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Pathfinding" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-08.09.35:798][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.24-08.09.35:861][502]LogSavePackage: Moving output files for package: /Game/AI/Pathfinding
+[2024.04.24-08.09.35:862][502]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/PathfindingAE2808D4415111DF4794E2820ACCD2F9.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/Pathfinding.umap'
+[2024.04.24-08.09.35:871][502]LogFileHelpers: Saving map 'Pathfinding' took 0.119
+[2024.04.24-08.09.35:879][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 605 ms)
+[2024.04.24-08.09.35:881][502]AssetCheck: New page: Asset Save: Pathfinding
+[2024.04.24-08.09.35:881][502]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI/Pathfinding.Pathfinding
+[2024.04.24-08.09.38:182][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.24-08.09.38:195][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.24-08.09.38:196][640]PIE: New page: PIE session: Pathfinding (24 avr. 2024 à 12:09:38)
+[2024.04.24-08.09.38:201][640]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.24-08.09.38:201][640]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.24-08.09.38:202][640]LogPlayLevel: Creating play world package: /Game/AI/UEDPIE_0_Pathfinding
+[2024.04.24-08.09.38:216][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014224s)
+[2024.04.24-08.09.38:216][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI/Pathfinding.Pathfinding to /Game/AI/UEDPIE_0_Pathfinding.Pathfinding (0.014272s)
+[2024.04.24-08.09.38:234][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.24-08.09.38:236][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.09.38:237][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.09.38:237][640]LogAIModule: Creating AISystem for world Pathfinding
+[2024.04.24-08.09.38:239][640]LogPlayLevel: PIE: World Init took: (0.003774s)
+[2024.04.24-08.09.38:239][640]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.24-08.09.38:239][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.24-08.09.38:239][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.24-08.09.38:240][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.24-08.09.38:240][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.24-08.09.38:240][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.24-08.09.38:242][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.24-08.09.38:273][640]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL WAVE FLEX)
+[2024.04.24-08.09.38:273][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.24-08.09.38:273][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.24-08.09.38:273][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.24-08.09.38:275][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.24-08.09.38:275][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.24-08.09.38:277][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.24-08.09.38:277][640]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.24-08.09.38:277][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.24-08.09.38:277][640]LogAudio: Display: Audio Device (ID: 2) registered with world 'Pathfinding'.
+[2024.04.24-08.09.38:277][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.24-08.09.38:282][640]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.24-08.09.38:288][640]LogWorld: Bringing World /Game/AI/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 60) at 2024.04.24-10.09.38
+[2024.04.24-08.09.38:299][640]LogWorld: Bringing up level for play took: 0.015763
+[2024.04.24-08.09.38:300][640]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.24-08.09.38:324][640]PIE: Server logged in
+[2024.04.24-08.09.38:325][640]PIE: Play in editor total start time 0,135 seconds.
+[2024.04.24-08.09.55:048][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-08.09.55:048][626]LogWorld: BeginTearingDown for /Game/AI/UEDPIE_0_Pathfinding
+[2024.04.24-08.09.55:048][626]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-08.09.55:049][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.09.55:053][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.24-08.09.55:059][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.09.55:076][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-08.09.55:076][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.24-08.09.55:076][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.24-08.09.55:078][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.24-08.09.55:086][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.24-08.09.55:151][627]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.24-08.14.39:430][402]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.24-08.15.47:613][988]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.04.24-08.15.47:623][988]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2024.04.24-08.15.47:626][988]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2024.04.24-08.15.47:631][988]LogAutomationController: Ignoring very large delta of 26.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.24-08.15.47:641][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2024.04.24-08.15.54:215][378]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> WalkBlendSpace1D
+[2024.04.24-08.15.54:216][378]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2024.04.24-08.15.54:217][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.16.19:858][662]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/AI/AI_BluePrints/WalkBlendSpace1D.WalkBlendSpace1D
+[2024.04.24-08.16.19:890][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.16.19:890][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.16.19:933][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.24-08.16.20:746][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.16.20:746][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.16.20:947][662]LogSlate: Took 0.007475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.24-08.16.20:970][662]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2024.04.24-08.16.20:986][662]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.24-08.17.29:265][490]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.24-08.17.56:218][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.18.18:116][509]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace1D
+[2024.04.24-08.19.03:440][612]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.24-08.19.03:832][628]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace1D
+[2024.04.24-08.20.35:219][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.24-08.20.35:223][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Pathfinding' took 0.034
+[2024.04.24-08.20.35:225][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_BluePrints/WalkBlendSpace1D] ([1] browsable assets)...
+[2024.04.24-08.20.35:317][849]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/AI/AI_BluePrints/WalkBlendSpace1D.WalkBlendSpace1D]
+[2024.04.24-08.20.35:317][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BluePrints/WalkBlendSpace1D]
+[2024.04.24-08.20.35:318][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AI_BluePrints/WalkBlendSpace1D_Auto3
+[2024.04.24-08.20.35:318][849]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/WalkBlendSpace1D_Auto3D58DCAED4ACCD24E4F1333A652C76792.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/AI_BluePrints/WalkBlendSpace1D_Auto3.uasset'
+[2024.04.24-08.20.35:319][849]LogFileHelpers: Auto-saving content packages took 0.096
+[2024.04.24-08.20.37:655][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.20.37:741][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/WalkBlendSpace1D" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/WalkBlendSpace1D.uasset" SILENT=true
+[2024.04.24-08.20.37:742][916]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/WalkBlendSpace1D
+[2024.04.24-08.20.37:742][916]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/WalkBlendSpace1D69F5C9704198F1CF8E956284F163F5DB.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/WalkBlendSpace1D.uasset'
+[2024.04.24-08.20.37:758][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 707 ms)
+[2024.04.24-08.20.37:758][916]AssetCheck: New page: Asset Save: WalkBlendSpace1D
+[2024.04.24-08.20.37:758][916]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/AI/AI_BluePrints/WalkBlendSpace1D.WalkBlendSpace1D
+[2024.04.24-08.20.46:256][248]LogViewport: Scene viewport resized to 1135x522, mode Windowed.
+[2024.04.24-08.20.46:373][250]LogViewport: Scene viewport resized to 463x165, mode Windowed.
+[2024.04.24-08.20.47:319][289]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2024.04.24-08.20.47:590][300]LogViewport: Scene viewport resized to 1135x522, mode Windowed.
+[2024.04.24-08.20.47:690][302]LogViewport: Scene viewport resized to 463x165, mode Windowed.
+[2024.04.24-08.20.48:287][325]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2024.04.24-08.20.49:074][371]LogSlate: Window 'WalkBlendSpace1D' being destroyed
+[2024.04.24-08.20.52:370][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-08.20.52:371][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.20.52:371][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.21.24:139][935]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.24-08.21.24:146][935]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.24-08.21.24:153][935]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.24-08.21.24:168][935]LogAutomationController: Ignoring very large delta of 23.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.24-08.21.24:180][936]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.24-08.21.32:436][418]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AP_Ennemy_AI
+[2024.04.24-08.21.32:455][418]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.24-08.21.32:457][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.21.41:929][599]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AI/AI_BluePrints/AP_Ennemy_AI.AP_Ennemy_AI
+[2024.04.24-08.21.41:933][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.21.41:933][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.21.41:944][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.21.41:944][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.21.41:955][599]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.24-08.21.42:351][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.21.42:351][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.21.42:470][599]LogViewport: Scene viewport resized to 474x374, mode Windowed.
+[2024.04.24-08.22.10:010][ 96]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.24-08.22.10:843][144]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.24-08.22.47:238][951]BlueprintLog: New page: Compile AP_Ennemy_AI
+[2024.04.24-08.22.47:295][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.24-08.26.54:116][761]BlueprintLog: New page: Compile AP_Ennemy_AI
+[2024.04.24-08.26.54:194][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.04.24-08.27.21:613][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.27.21:707][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/AP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/AP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.27.21:718][ 12]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/AP_Ennemy_AI
+[2024.04.24-08.27.21:718][ 12]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/AP_Ennemy_AID00943704CC82ED52875F9B2B1D8D299.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/AP_Ennemy_AI.uasset'
+[2024.04.24-08.27.21:748][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 843 ms)
+[2024.04.24-08.27.21:749][ 12]AssetCheck: New page: Asset Save: AP_Ennemy_AI
+[2024.04.24-08.27.21:749][ 12]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/AI/AI_BluePrints/AP_Ennemy_AI.AP_Ennemy_AI
+[2024.04.24-08.27.41:785][856]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2024.04.24-08.27.56:904][160]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.04.24-08.28.09:623][634]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-08.28.09:785][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.24-08.28.10:811][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.28.10:876][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.28.10:884][680]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-08.28.10:884][680]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AI8D818F5344B25D143BEFE7B2135DAD79.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-08.28.10:890][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 923 ms)
+[2024.04.24-08.28.10:892][680]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-08.28.10:892][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-08.28.16:661][  8]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.24-08.28.16:672][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.24-08.28.16:672][  8]PIE: New page: PIE session: Pathfinding (24 avr. 2024 à 12:28:16)
+[2024.04.24-08.28.16:673][  8]LogPlayLevel: Creating play world package: /Game/AI/UEDPIE_0_Pathfinding
+[2024.04.24-08.28.16:685][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012935s)
+[2024.04.24-08.28.16:685][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI/Pathfinding.Pathfinding to /Game/AI/UEDPIE_0_Pathfinding.Pathfinding (0.012982s)
+[2024.04.24-08.28.16:704][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.04.24-08.28.16:706][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-08.28.16:706][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-08.28.16:707][  8]LogAIModule: Creating AISystem for world Pathfinding
+[2024.04.24-08.28.16:707][  8]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2024.04.24-08.28.16:707][  8]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.24-08.28.16:707][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.24-08.28.16:707][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.24-08.28.16:708][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.24-08.28.16:708][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.24-08.28.16:708][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.24-08.28.16:710][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.24-08.28.16:743][  8]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL WAVE FLEX)
+[2024.04.24-08.28.16:743][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.24-08.28.16:743][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.24-08.28.16:743][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.24-08.28.16:744][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.24-08.28.16:744][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.24-08.28.16:745][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.24-08.28.16:745][  8]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.24-08.28.16:745][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.24-08.28.16:745][  8]LogAudio: Display: Audio Device (ID: 3) registered with world 'Pathfinding'.
+[2024.04.24-08.28.16:745][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.24-08.28.16:748][  8]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.24-08.28.16:753][  8]LogWorld: Bringing World /Game/AI/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 60) at 2024.04.24-10.28.16
+[2024.04.24-08.28.16:754][  8]LogWorld: Bringing up level for play took: 0.005612
+[2024.04.24-08.28.16:756][  8]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.24-08.28.16:759][  8]PIE: Server logged in
+[2024.04.24-08.28.16:760][  8]PIE: Play in editor total start time 0,088 seconds.
+[2024.04.24-08.28.38:253][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-08.28.38:253][233]LogWorld: BeginTearingDown for /Game/AI/UEDPIE_0_Pathfinding
+[2024.04.24-08.28.38:253][233]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-08.28.38:255][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.28.38:258][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.24-08.28.38:262][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-08.28.38:274][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.24-08.28.38:275][233]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.24-08.28.38:275][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.24-08.28.38:277][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.24-08.28.38:281][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-08.28.38:285][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.24-08.28.38:352][234]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.24-08.31.57:033][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.24-08.31.57:034][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Pathfinding' took 0.029
+[2024.04.24-08.31.57:035][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_BluePrints/BP_Ennemy_AI] ([2] browsable assets)...
+[2024.04.24-08.31.57:133][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI]
+[2024.04.24-08.31.57:134][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BluePrints/BP_Ennemy_AI]
+[2024.04.24-08.31.57:145][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AI_BluePrints/BP_Ennemy_AI_Auto4
+[2024.04.24-08.31.57:145][749]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AI_Auto4672B8FCF4F94B5C8557450852355900B.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/AI_BluePrints/BP_Ennemy_AI_Auto4.uasset'
+[2024.04.24-08.31.57:146][749]LogFileHelpers: Auto-saving content packages took 0.112
+[2024.04.24-08.32.28:137][854]BlueprintLog: New page: Compile AP_Ennemy_AI
+[2024.04.24-08.32.28:191][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.24-08.41.57:631][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.04.24-08.41.57:633][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI/Pathfinding' took 0.019
+[2024.04.24-08.41.57:634][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/AI_BluePrints/AP_Ennemy_AI] ([2] browsable assets)...
+[2024.04.24-08.41.57:737][608]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/AI_BluePrints/AP_Ennemy_AI.AP_Ennemy_AI]
+[2024.04.24-08.41.57:738][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BluePrints/AP_Ennemy_AI]
+[2024.04.24-08.41.57:746][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AI_BluePrints/AP_Ennemy_AI_Auto5
+[2024.04.24-08.41.57:746][608]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/AP_Ennemy_AI_Auto5C9A22ECC468194E998F8438449594110.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/AI_BluePrints/AP_Ennemy_AI_Auto5.uasset'
+[2024.04.24-08.41.57:747][608]LogFileHelpers: Auto-saving content packages took 0.114
+[2024.04.24-08.47.56:775][686]LogDerivedDataCache: C:/Users/maton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.264 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3180 files in 4329 folders with total size 166 MiB.
+[2024.04.24-08.57.08:427][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.57.08:524][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Pathfinding" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-08.57.08:595][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.24-08.57.08:661][533]LogSavePackage: Moving output files for package: /Game/AI/Pathfinding
+[2024.04.24-08.57.08:661][533]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Pathfinding8F77780A45428499D52FEAA0B0B9E638.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/Pathfinding.umap'
+[2024.04.24-08.57.08:671][533]LogFileHelpers: Saving map 'Pathfinding' took 0.147
+[2024.04.24-08.57.08:681][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 1.17 sec)
+[2024.04.24-08.57.08:685][533]AssetCheck: New page: Asset Save: Pathfinding
+[2024.04.24-08.57.08:685][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI/Pathfinding.Pathfinding
+[2024.04.24-08.57.10:979][634]BlueprintLog: New page: Compile BP_Ennemy_AI
+[2024.04.24-08.57.11:106][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.04.24-08.57.11:796][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.57.11:882][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/BP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.57.11:894][666]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/BP_Ennemy_AI
+[2024.04.24-08.57.11:894][666]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AIE48E878C465E63942F17198B7909C569.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/BP_Ennemy_AI.uasset'
+[2024.04.24-08.57.11:906][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.28 sec)
+[2024.04.24-08.57.11:908][666]AssetCheck: New page: Asset Save: BP_Ennemy_AI
+[2024.04.24-08.57.11:908][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AI_BluePrints/BP_Ennemy_AI.BP_Ennemy_AI
+[2024.04.24-08.57.15:734][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-08.57.15:840][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BluePrints/AP_Ennemy_AI" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/AP_Ennemy_AI.uasset" SILENT=true
+[2024.04.24-08.57.15:851][853]LogSavePackage: Moving output files for package: /Game/AI/AI_BluePrints/AP_Ennemy_AI
+[2024.04.24-08.57.15:852][853]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/AP_Ennemy_AI0E628EBD488AE5753A3AD1815DB6B3E3.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Content/AI/AI_BluePrints/AP_Ennemy_AI.uasset'
+[2024.04.24-08.57.15:863][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1.41 sec)
+[2024.04.24-08.57.15:865][853]AssetCheck: New page: Asset Save: AP_Ennemy_AI
+[2024.04.24-08.57.15:865][853]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/AI/AI_BluePrints/AP_Ennemy_AI.AP_Ennemy_AI
+[2024.04.24-08.57.33:791][407]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\maton\Downloads\Animation\Standing Melee Attack Backhand.fbx)
+[2024.04.24-08.57.33:821][407]LogFbx: Loading FBX Scene from C:\Users\maton\Downloads\Animation\Standing Melee Attack Backhand.fbx
+[2024.04.24-08.57.33:854][407]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.24-08.58.22:159][407]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.24-08.58.22:280][407]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.04.24-08.58.22:280][407]FBXImport: Error: Import failed. 
