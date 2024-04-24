@@ -1233,3 +1233,75 @@ An asset already exists at the import location: /Game/Valou/Assets3D/RiggedChara
 [2024.04.24-09.15.13:139][418]LogAssetTools: The import task was canceled.
 [2024.04.24-09.15.15:035][514]LogSlate: Window 'Message Log' being destroyed
 [2024.04.24-09.15.15:040][514]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-09.20.17:975][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.24-09.20.19:689][348]LogSlate: Window 'Save Content' being destroyed
+[2024.04.24-09.20.19:703][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-09.20.19:879][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valou/RiggedCharactertest" FILE="C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/RiggedCharactertest.uasset" SILENT=true
+[2024.04.24-09.20.19:885][348]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005119 seconds
+[2024.04.24-09.20.19:997][348]LogSavePackage: Moving output files for package: /Game/Valou/RiggedCharactertest
+[2024.04.24-09.20.19:997][348]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest30746F0D45A15DC1A960A0A4DDE885AF.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/RiggedCharactertest.uasset'
+[2024.04.24-09.20.20:014][348]LogSavePackage: Moving output files for package: /Game/Valou/RiggedCharactertest_PhysicsAsset
+[2024.04.24-09.20.20:014][348]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest_PhysicsAsset5C65EFCF47D5D739A1733DACC832548B.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/RiggedCharactertest_PhysicsAsset.uasset'
+[2024.04.24-09.20.20:026][348]LogSavePackage: Moving output files for package: /Game/Valou/RiggedCharactertest_Skeleton
+[2024.04.24-09.20.20:026][348]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest_Skeleton003360314F5DAAFF534774AC510660A5.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/RiggedCharactertest_Skeleton.uasset'
+[2024.04.24-09.20.20:035][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 332 ms
+[2024.04.24-09.20.20:185][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-09.20.20:190][348]LogWorldPartition: ULevel::OnLevelLoaded(ValouMapTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.24-09.20.20:190][348]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.24-09.20.20:190][348]LogWorldPartition: UWorldPartition::Initialize : World = ValouMapTest, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.24-09.20.20:393][348]LogContentBundle: [ValouMapTest(Standalone)] Creating new contrainer.
+[2024.04.24-09.20.20:393][348]LogWorldPartition: Display: WorldPartition initialize took 203 ms (total: 615 ms)
+[2024.04.24-09.20.20:396][348]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Valou/ValouMapTest.ValouMapTest
+[2024.04.24-09.20.20:396][348]Cmd: MAP LOAD FILE="C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/ValouMapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.24-09.20.20:396][348]LightingResults: New page: Lighting Build
+[2024.04.24-09.20.20:396][348]LoadErrors: New page: Loading map: ValouMapTest.umap
+[2024.04.24-09.20.20:415][348]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-09.20.20:415][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-09.20.20:417][348]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.24-09.20.20:417][348]MapCheck: New page: Map Check
+[2024.04.24-09.20.20:417][348]LightingResults: New page: Lighting Build
+[2024.04.24-09.20.20:422][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.24-09.20.20:426][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.24-09.20.20:427][348]LogWorld: UWorld::CleanupWorld for ValouMapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-09.20.20:427][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-09.20.20:429][348]LogContentBundle: [ValouMapTest(Standalone)] Deleting container.
+[2024.04.24-09.20.20:435][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.24-09.20.20:441][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.24-09.20.20:448][348]LogAudio: Display: Audio Device (ID: 1) registered with world 'ValouMapTest'.
+[2024.04.24-09.20.20:448][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-09.20.20:448][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-09.20.20:448][348]LogAIModule: Creating AISystem for world ValouMapTest
+[2024.04.24-09.20.20:449][348]LogWorldPartition: ULevel::OnLevelLoaded(ValouMapTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.24-09.20.20:449][348]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.24-09.20.20:449][348]LogWorldPartition: UWorldPartition::Initialize : World = ValouMapTest, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.24-09.20.20:475][348]LogContentBundle: [ValouMapTest(Standalone)] Creating new contrainer.
+[2024.04.24-09.20.20:475][348]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 640 ms)
+[2024.04.24-09.20.20:512][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.24-09.20.20:521][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.24-09.20.20:524][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.24-09.20.20:524][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,251ms to complete.
+[2024.04.24-09.20.20:536][348]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.24-09.20.20:537][348]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Valou/RiggedCharactertest.RiggedCharactertest
+[2024.04.24-09.20.20:537][348]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Valou/RiggedCharactertest_PhysicsAsset.RiggedCharactertest_PhysicsAsset
+[2024.04.24-09.20.20:537][348]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Valou/RiggedCharactertest_Skeleton.RiggedCharactertest_Skeleton
+[2024.04.24-09.20.35:136][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.24-09.20.36:234][824]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-09.20.36:288][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.24-09.20.36:294][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.24-09.20.36:300][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.24-09.20.41:785][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-09.20.41:960][124]LogSavePackage: Moving output files for package: /Game/Valou/Assets3D/RiggedCharactertest
+[2024.04.24-09.20.41:960][124]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest2AE2298F494465496970E2A5B3A178D0.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Assets3D/RiggedCharactertest.uasset'
+[2024.04.24-09.20.41:964][124]LogSavePackage: Moving output files for package: /Game/Valou/Assets3D/RiggedCharactertest_PhysicsAsset
+[2024.04.24-09.20.41:964][124]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest_PhysicsAsset8AB55CFB41FB09721F85BE8DD0B2CD6D.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Assets3D/RiggedCharactertest_PhysicsAsset.uasset'
+[2024.04.24-09.20.41:966][124]LogSavePackage: Moving output files for package: /Game/Valou/Assets3D/RiggedCharactertest_Skeleton
+[2024.04.24-09.20.41:966][124]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/RiggedCharactertest_Skeleton076596754F56A9A13283B6AA98B92F76.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Assets3D/RiggedCharactertest_Skeleton.uasset'
+[2024.04.24-09.20.41:977][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 524 ms)
+[2024.04.24-09.20.41:990][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.24-09.20.41:996][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.24-09.20.42:001][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.24-09.20.42:041][124]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.24-09.20.42:041][124]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Valou/Assets3D/RiggedCharactertest.RiggedCharactertest
+[2024.04.24-09.20.42:041][124]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Valou/Assets3D/RiggedCharactertest_PhysicsAsset.RiggedCharactertest_PhysicsAsset
+[2024.04.24-09.20.42:041][124]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Valou/Assets3D/RiggedCharactertest_Skeleton.RiggedCharactertest_Skeleton
+[2024.04.24-09.20.43:568][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
