@@ -1324,3 +1324,143 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.26-09.40.08:266][401]LogInterchangeEngine: [Success] Import Done
 [2024.04.26-09.40.08:283][401]LogInterchangeEngine: [Success] Import Done
 [2024.04.26-09.40.16:821][902]LogSlate: Took 0.012250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.26-09.42.31:851][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.26-09.42.31:852][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.04.26-09.42.31:853][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline] ([1] browsable assets)...
+[2024.04.26-09.42.31:857][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline.Cocktail_Molotov_avec_outline]
+[2024.04.26-09.42.31:857][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline]
+[2024.04.26-09.42.31:864][698]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005352 seconds
+[2024.04.26-09.42.31:873][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline_Auto1
+[2024.04.26-09.42.31:873][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cocktail_Molotov_avec_outline_Au23199F2640184ED3B1131589D94DBEDE.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline_Auto1.uasset'
+[2024.04.26-09.42.31:875][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_Vide] ([1] browsable assets)...
+[2024.04.26-09.42.31:877][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Cocktail_Molotov_Vide.Cocktail_Molotov_Vide]
+[2024.04.26-09.42.31:877][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_Vide]
+[2024.04.26-09.42.31:881][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_Vide_Auto1
+[2024.04.26-09.42.31:881][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cocktail_Molotov_Vide_Auto1D39FBE214883C11499A6FD99D8CE59DE.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_Vide_Auto1.uasset'
+[2024.04.26-09.42.31:881][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline] ([1] browsable assets)...
+[2024.04.26-09.42.31:884][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline.Cocktail_Molotov_sans_outline]
+[2024.04.26-09.42.31:884][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline]
+[2024.04.26-09.42.31:888][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Auto1
+[2024.04.26-09.42.31:888][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cocktail_Molotov_sans_outline_Au21432D78407422E7B4C451936D4E117C.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Auto1.uasset'
+[2024.04.26-09.42.31:888][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Morceau_de_barre_de_vie] ([1] browsable assets)...
+[2024.04.26-09.42.31:892][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Morceau_de_barre_de_vie.Morceau_de_barre_de_vie]
+[2024.04.26-09.42.31:892][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Morceau_de_barre_de_vie]
+[2024.04.26-09.42.31:895][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Morceau_de_barre_de_vie_Auto1
+[2024.04.26-09.42.31:895][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Morceau_de_barre_de_vie_Auto1148D1160476FA04CBEC0B7B3C485A1F1.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Morceau_de_barre_de_vie_Auto1.uasset'
+[2024.04.26-09.42.31:895][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Overlay_Pause] ([1] browsable assets)...
+[2024.04.26-09.42.31:898][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Overlay_Pause.Overlay_Pause]
+[2024.04.26-09.42.31:898][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Overlay_Pause]
+[2024.04.26-09.42.31:903][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Overlay_Pause_Auto1
+[2024.04.26-09.42.31:903][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Overlay_Pause_Auto1391297164D42419B0C9CA4A19209B0EF.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Overlay_Pause_Auto1.uasset'
+[2024.04.26-09.42.31:904][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Tag_Menu] ([1] browsable assets)...
+[2024.04.26-09.42.31:907][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Tag_Menu.Tag_Menu]
+[2024.04.26-09.42.31:907][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Tag_Menu]
+[2024.04.26-09.42.31:910][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Tag_Menu_Auto1
+[2024.04.26-09.42.31:910][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Tag_Menu_Auto1036B4886416EEACFAEF3FE9BDF0E2BE0.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Tag_Menu_Auto1.uasset'
+[2024.04.26-09.42.31:910][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Tag_Options] ([1] browsable assets)...
+[2024.04.26-09.42.31:913][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Tag_Options.Tag_Options]
+[2024.04.26-09.42.31:913][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Tag_Options]
+[2024.04.26-09.42.31:916][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Tag_Options_Auto1
+[2024.04.26-09.42.31:916][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Tag_Options_Auto1A79A52CF42A7201444183F97C8192106.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Tag_Options_Auto1.uasset'
+[2024.04.26-09.42.31:916][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Tag_Quit] ([1] browsable assets)...
+[2024.04.26-09.42.31:919][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Tag_Quit.Tag_Quit]
+[2024.04.26-09.42.31:919][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Tag_Quit]
+[2024.04.26-09.42.31:921][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Tag_Quit_Auto1
+[2024.04.26-09.42.31:921][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Tag_Quit_Auto15529478D41DCC4C8C77CBBB76825BCE0.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Tag_Quit_Auto1.uasset'
+[2024.04.26-09.42.31:922][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Visage_death] ([1] browsable assets)...
+[2024.04.26-09.42.31:925][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Visage_death.Visage_death]
+[2024.04.26-09.42.31:925][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Visage_death]
+[2024.04.26-09.42.31:928][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Visage_death_Auto1
+[2024.04.26-09.42.31:928][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Visage_death_Auto1605D19BE45782A9AB2924889B833A984.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Visage_death_Auto1.uasset'
+[2024.04.26-09.42.31:929][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Visage_full_health] ([1] browsable assets)...
+[2024.04.26-09.42.31:932][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Visage_full_health.Visage_full_health]
+[2024.04.26-09.42.31:932][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Visage_full_health]
+[2024.04.26-09.42.31:935][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Visage_full_health_Auto1
+[2024.04.26-09.42.31:935][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Visage_full_health_Auto1F5892B6B49EAD75FA5E2EDB3FAC9E030.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Visage_full_health_Auto1.uasset'
+[2024.04.26-09.42.31:936][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Visage_one_hit] ([1] browsable assets)...
+[2024.04.26-09.42.31:940][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/In_Game/Visage_one_hit.Visage_one_hit]
+[2024.04.26-09.42.31:940][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Visage_one_hit]
+[2024.04.26-09.42.31:943][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Visage_one_hit_Auto1
+[2024.04.26-09.42.31:943][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Visage_one_hit_Auto1ED76552D4330B7FB7FAB67AA9C473C1B.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Visage_one_hit_Auto1.uasset'
+[2024.04.26-09.42.31:944][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Logo] ([1] browsable assets)...
+[2024.04.26-09.42.31:946][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Logo.Logo]
+[2024.04.26-09.42.31:946][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Logo]
+[2024.04.26-09.42.31:946][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/UX_UI/Logo" FILE="../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Logo_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.04.26-09.42.31:950][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Logo_Auto1
+[2024.04.26-09.42.31:950][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Logo_Auto1D2235B7945616D5C17A892BB3B3BAF48.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Logo_Auto1.uasset'
+[2024.04.26-09.42.31:950][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Affiche_options] ([1] browsable assets)...
+[2024.04.26-09.42.31:953][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Affiche_options.Affiche_options]
+[2024.04.26-09.42.31:953][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Affiche_options]
+[2024.04.26-09.42.31:957][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Affiche_options_Auto1
+[2024.04.26-09.42.31:957][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Affiche_options_Auto180D4CE2A4C91623A841D64813128ADB0.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Affiche_options_Auto1.uasset'
+[2024.04.26-09.42.31:957][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Affiche_Play] ([1] browsable assets)...
+[2024.04.26-09.42.31:961][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Affiche_Play.Affiche_Play]
+[2024.04.26-09.42.31:961][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Affiche_Play]
+[2024.04.26-09.42.31:964][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Affiche_Play_Auto1
+[2024.04.26-09.42.31:964][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Affiche_Play_Auto147C007594A4E0734E2A052BB96E89934.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Affiche_Play_Auto1.uasset'
+[2024.04.26-09.42.31:965][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Affiche_Quit] ([1] browsable assets)...
+[2024.04.26-09.42.31:968][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Affiche_Quit.Affiche_Quit]
+[2024.04.26-09.42.31:968][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Affiche_Quit]
+[2024.04.26-09.42.31:971][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Affiche_Quit_Auto1
+[2024.04.26-09.42.31:972][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Affiche_Quit_Auto15151C3374EBACE24E2130C90DAD91349.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Affiche_Quit_Auto1.uasset'
+[2024.04.26-09.42.31:973][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Barre_options_remplie] ([1] browsable assets)...
+[2024.04.26-09.42.31:975][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Barre_options_remplie.Barre_options_remplie]
+[2024.04.26-09.42.31:975][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Barre_options_remplie]
+[2024.04.26-09.42.31:978][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Barre_options_remplie_Auto1
+[2024.04.26-09.42.31:978][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Barre_options_remplie_Auto1F372DE204DDCD509ED52C5AF308167EC.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Barre_options_remplie_Auto1.uasset'
+[2024.04.26-09.42.31:979][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Barre_options_vide] ([1] browsable assets)...
+[2024.04.26-09.42.31:982][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Barre_options_vide.Barre_options_vide]
+[2024.04.26-09.42.31:982][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Barre_options_vide]
+[2024.04.26-09.42.31:984][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Barre_options_vide_Auto1
+[2024.04.26-09.42.31:984][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Barre_options_vide_Auto1099CB1354D4BA667B90850ABBDF95741.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Barre_options_vide_Auto1.uasset'
+[2024.04.26-09.42.31:985][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/CRS_f1] ([1] browsable assets)...
+[2024.04.26-09.42.31:988][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/CRS_f1.CRS_f1]
+[2024.04.26-09.42.31:988][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/CRS_f1]
+[2024.04.26-09.42.31:991][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/CRS_f1_Auto1
+[2024.04.26-09.42.31:992][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/CRS_f1_Auto1BFAB7010423FA9ED4E1A65BE1BAA05A9.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/CRS_f1_Auto1.uasset'
+[2024.04.26-09.42.31:992][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/CRS_f2] ([1] browsable assets)...
+[2024.04.26-09.42.31:995][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/CRS_f2.CRS_f2]
+[2024.04.26-09.42.31:995][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/CRS_f2]
+[2024.04.26-09.42.32:000][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/CRS_f2_Auto1
+[2024.04.26-09.42.32:000][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/CRS_f2_Auto1B66F542645489267523F6C9753EF70BE.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/CRS_f2_Auto1.uasset'
+[2024.04.26-09.42.32:001][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Fond_menu_principal] ([1] browsable assets)...
+[2024.04.26-09.42.32:004][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Fond_menu_principal.Fond_menu_principal]
+[2024.04.26-09.42.32:004][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Fond_menu_principal]
+[2024.04.26-09.42.32:010][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Fond_menu_principal_Auto1
+[2024.04.26-09.42.32:010][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Fond_menu_principal_Auto17F8C045843356B6DA443D7AE97B6929A.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Fond_menu_principal_Auto1.uasset'
+[2024.04.26-09.42.32:011][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Fond_menu_quit] ([1] browsable assets)...
+[2024.04.26-09.42.32:014][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Fond_menu_quit.Fond_menu_quit]
+[2024.04.26-09.42.32:014][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Fond_menu_quit]
+[2024.04.26-09.42.32:019][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Fond_menu_quit_Auto1
+[2024.04.26-09.42.32:019][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Fond_menu_quit_Auto1186AC91E4D9C502128F0889F11C64414.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Fond_menu_quit_Auto1.uasset'
+[2024.04.26-09.42.32:020][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Fuck_no] ([1] browsable assets)...
+[2024.04.26-09.42.32:022][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Fuck_no.Fuck_no]
+[2024.04.26-09.42.32:022][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Fuck_no]
+[2024.04.26-09.42.32:026][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Fuck_no_Auto1
+[2024.04.26-09.42.32:026][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Fuck_no_Auto1F5144BCD4419A6883122C0B283273645.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Fuck_no_Auto1.uasset'
+[2024.04.26-09.42.32:027][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Hell_yeah] ([1] browsable assets)...
+[2024.04.26-09.42.32:030][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Hell_yeah.Hell_yeah]
+[2024.04.26-09.42.32:030][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Hell_yeah]
+[2024.04.26-09.42.32:033][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Hell_yeah_Auto1
+[2024.04.26-09.42.32:033][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Hell_yeah_Auto13E73C6504BAE55F1C507029E8E0F4227.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Hell_yeah_Auto1.uasset'
+[2024.04.26-09.42.32:034][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Panneau_retour] ([1] browsable assets)...
+[2024.04.26-09.42.32:037][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Panneau_retour.Panneau_retour]
+[2024.04.26-09.42.32:037][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Panneau_retour]
+[2024.04.26-09.42.32:041][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Panneau_retour_Auto1
+[2024.04.26-09.42.32:041][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Panneau_retour_Auto1A59332874E63C9DC1830EABCD397D053.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Panneau_retour_Auto1.uasset'
+[2024.04.26-09.42.32:042][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/punk_-_frame1] ([1] browsable assets)...
+[2024.04.26-09.42.32:046][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/punk_-_frame1.punk_-_frame1]
+[2024.04.26-09.42.32:046][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/punk_-_frame1]
+[2024.04.26-09.42.32:051][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/punk_-_frame1_Auto1
+[2024.04.26-09.42.32:051][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/punk_-_frame1_Auto1B0DAD1E944F7871A110C88BF38A9E091.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/punk_-_frame1_Auto1.uasset'
+[2024.04.26-09.42.32:051][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/punk_-_frame2] ([1] browsable assets)...
+[2024.04.26-09.42.32:054][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/punk_-_frame2.punk_-_frame2]
+[2024.04.26-09.42.32:054][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/punk_-_frame2]
+[2024.04.26-09.42.32:058][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/punk_-_frame2_Auto1
+[2024.04.26-09.42.32:058][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/punk_-_frame2_Auto1C988E591426C35CFDB1087B633471DB5.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/punk_-_frame2_Auto1.uasset'
+[2024.04.26-09.42.32:059][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/Menus/Slider] ([1] browsable assets)...
+[2024.04.26-09.42.32:062][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/UX_UI/Menus/Slider.Slider]
+[2024.04.26-09.42.32:062][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/Menus/Slider]
+[2024.04.26-09.42.32:065][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/Menus/Slider_Auto1
+[2024.04.26-09.42.32:065][698]LogSavePackage: Moving '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Slider_Auto17ADE61A04396D1C9CF3F1CB1500606F5.tmp' to '../../../../Users/maton/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/Menus/Slider_Auto1.uasset'
+[2024.04.26-09.42.32:065][698]LogFileHelpers: Auto-saving content packages took 0.213
