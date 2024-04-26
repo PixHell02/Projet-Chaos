@@ -1155,3 +1155,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.26-08.56.06:975][ 47]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2024.04.26-08.56.06:975][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.26-08.56.12:095][243]LogDerivedDataCache: C:/Users/maton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.433 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3295 files in 4469 folders with total size 177 MiB.
+[2024.04.26-08.58.47:386][539]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (JBL WAVE FLEX), InstanceID=1
+[2024.04.26-08.58.47:618][539]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18180
+[2024.04.26-08.58.47:953][540]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{22d4aa21-201a-4fa7-819b-44446cc2fae6}, Name=Casque (JBL WAVE FLEX)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.14
+[2024.04.26-08.58.47:953][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.26-08.58.47:955][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
