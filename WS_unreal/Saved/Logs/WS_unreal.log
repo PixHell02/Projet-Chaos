@@ -4597,3 +4597,1092 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.29-09.51.32:810][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2024.04.29-09.51.32:877][173]LogPlayLevel: Display: Destroying online subsystem :Context_60
 [2024.04.29-09.51.32:887][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.29-09.55.23:828][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.55.35:779][319]Cmd: EDIT CUT
+[2024.04.29-09.55.35:794][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.29-09.55.35:803][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.29-09.55.35:807][319]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.04.29-09.55.37:532][421]Cmd: TRANSACTION UNDO
+[2024.04.29-09.55.37:532][421]LogEditorTransaction: Undo Cut
+[2024.04.29-09.55.39:411][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.55.43:364][743]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.29-09.55.43:380][743]LogActorFactory: Actor Factory attempting to spawn World /Game/LevelDesign/SubLevel/FirstLevel3.FirstLevel3
+[2024.04.29-09.55.43:380][743]LogActorFactory: Actor Factory attempting to spawn World /Game/LevelDesign/SubLevel/FirstLevel3.FirstLevel3
+[2024.04.29-09.55.43:390][743]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/LevelDesign/SubLevel/FirstLevel3 which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2024.04.29-09.55.43:390][743]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/LevelDesign/SubLevel/FirstLevel3 which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2024.04.29-09.56.18:393][780]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.23:096][ 60]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.29:359][433]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.41:303][124]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.43:607][249]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.43:607][249]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.44:451][274]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.44:451][274]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:039][307]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:039][307]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:457][330]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:457][330]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:975][359]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:975][359]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.51:134][652]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.54:345][832]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.56:343][939]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.56:344][939]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.56:947][953]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.56:947][953]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.57.10:868][780]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-09.57.10:874][780]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-09.57.24:618][583]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.57.31:323][981]Cmd: DELETE
+[2024.04.29-09.57.31:323][981]Cmd: ACTOR DELETE
+[2024.04.29-09.57.31:336][981]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2024.04.29-09.57.31:352][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.29-09.57.31:356][981]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.04.29-09.57.34:417][163]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.57.34:424][163]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.57.34:437][163]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.35:010][494]Cmd: TRANSACTION UNDO
+[2024.04.29-09.58.35:010][494]LogEditorTransaction: Undo Move Elements
+[2024.04.29-09.58.36:297][543]Cmd: TRANSACTION UNDO
+[2024.04.29-09.58.36:297][543]LogEditorTransaction: Undo Move Elements
+[2024.04.29-09.58.54:330][483]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.54:336][483]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.54:348][483]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.58:269][714]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.59:256][770]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.59:267][770]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.59:273][770]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.59.00:254][829]Cmd: DELETE
+[2024.04.29-09.59.00:254][829]Cmd: ACTOR DELETE
+[2024.04.29-09.59.00:263][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:267][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:269][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:287][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.29-09.59.00:293][829]LogEditorActor: Deleted 3 Actors (0.038 secs)
+[2024.04.29-09.59.01:408][893]Cmd: DELETE
+[2024.04.29-09.59.01:408][893]Cmd: ACTOR DELETE
+[2024.04.29-09.59.01:410][893]LogEditorActor: Deleted Actor: BP_Ennemy_AI_C
+[2024.04.29-09.59.01:420][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.29-09.59.01:424][893]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.04.29-09.59.18:790][856]LogEditorViewport: Clicking Background
+[2024.04.29-09.59.29:890][516]Cmd: EDIT COPY
+[2024.04.29-09.59.32:749][685]Cmd: EDIT PASTE
+[2024.04.29-09.59.48:069][267]Cmd: EDIT COPY
+[2024.04.29-09.59.50:378][403]Cmd: EDIT PASTE
+[2024.04.29-10.00.08:367][176]LogEditorViewport: Clicking Background
+[2024.04.29-10.00.27:159][284]Cmd: DELETE
+[2024.04.29-10.00.27:159][284]Cmd: ACTOR DELETE
+[2024.04.29-10.00.27:170][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:172][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:174][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:187][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.29-10.00.27:191][284]LogEditorActor: Deleted 3 Actors (0.032 secs)
+[2024.04.29-10.01.29:878][979]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-10.01.29:885][979]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-10.01.31:017][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-10.01.31:026][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-10.01.31:026][ 47]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 14:01:31)
+[2024.04.29-10.01.31:026][ 47]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-10.01.31:028][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2024.04.29-10.01.31:028][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.002108s)
+[2024.04.29-10.01.31:037][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.29-10.01.31:043][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-10.01.31:043][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-10.01.31:043][ 47]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-10.01.31:043][ 47]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2024.04.29-10.01.31:043][ 47]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-10.01.31:043][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-10.01.31:046][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-10.01.31:061][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.29-10.01.31:061][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.29-10.01.31:062][ 47]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainWorld'.
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.29-10.01.31:066][ 47]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-10.01.31:636][ 47]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-12.01.31
+[2024.04.29-10.01.31:638][ 47]LogWorld: Bringing up level for play took: 0.002000
+[2024.04.29-10.01.31:641][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.29-10.01.31:646][ 47]PIE: Server logged in
+[2024.04.29-10.01.31:647][ 47]PIE: Play in editor total start time 0,621 seconds.
+[2024.04.29-10.01.36:047][ 63]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-10.01.36:189][ 65]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.42:274][187]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.44:497][230]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.48:167][300]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.29-10.01.48:528][307]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1 0 0 0
+[2024.04.29-10.01.48:986][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-10.01.55:953][502]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.58:085][557]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.00:055][607]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.01:092][632]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.02:387][665]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.29-10.02.02:547][669]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel2 0 0 0
+[2024.04.29-10.02.02:866][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-10.02.04:807][782]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.06:792][874]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.08:347][943]PIE: Warning: BP_Projectiles_C_9.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.09:447][994]PIE: Warning: BP_Projectiles_C_10.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.12:088][115]PIE: Warning: BP_Projectiles_C_11.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.14:683][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-10.02.14:683][231]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-10.02.14:690][231]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-10.02.14:690][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-10.02.14:694][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-10.02.14:697][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-10.02.14:706][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-10.02.14:707][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.29-10.02.14:707][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.29-10.02.14:709][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.29-10.02.14:804][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2024.04.29-10.02.14:872][232]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.29-10.02.14:882][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.29-10.02.50:718][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.29-10.02.50:726][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/MainWorld_Auto8
+[2024.04.29-10.02.50:726][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld_Auto8553DA72841B3817E464FADBA265FCB38.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto8.umap'
+[2024.04.29-10.02.50:727][847]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-10.02.50:727][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/MainWorld_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.50:727][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/MainWorld_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.51:369][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto8
+[2024.04.29-10.02.51:369][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto80F612CB1428314E445BB0981BC299F9F.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto8.umap'
+[2024.04.29-10.02.51:370][847]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-10.02.51:370][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.51:371][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:022][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8
+[2024.04.29-10.02.52:022][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto831596014435EA15566DF9EABCE3E245D.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8.umap'
+[2024.04.29-10.02.52:023][847]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:023][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:023][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:664][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8
+[2024.04.29-10.02.52:664][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto870FB2FB74632479ABCE3EA9C877909F2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8.umap'
+[2024.04.29-10.02.52:668][847]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:668][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:668][847]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-10.02.52:668][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.959
+[2024.04.29-10.02.52:669][847]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.959
+[2024.04.29-10.02.52:669][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.29-10.02.52:677][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.29-10.02.52:677][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.29-10.02.52:693][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2024.04.29-10.02.52:693][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter_Auto8E47A72CE4C093780795A60BE467041EA.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2024.04.29-10.02.52:695][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Fracture/Essaie_raté/BP_Projectiles] ([2] browsable assets)...
+[2024.04.29-10.02.52:701][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fracture/Essaie_raté/BP_Projectiles.BP_Projectiles]
+[2024.04.29-10.02.52:701][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Essaie_raté/BP_Projectiles]
+[2024.04.29-10.02.52:708][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Essaie_raté/BP_Projectiles_Auto8
+[2024.04.29-10.02.52:708][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto867B3056946C17C041EC64DB115E950FB.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Essaie_raté/BP_Projectiles_Auto8.uasset'
+[2024.04.29-10.02.52:709][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/Essaie_raté/BP_ScaleBomb] ([2] browsable assets)...
+[2024.04.29-10.02.52:709][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Essaie_raté/BP_ScaleBomb]
+[2024.04.29-10.02.52:714][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto8
+[2024.04.29-10.02.52:714][847]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ScaleBomb_Auto8D4CF64864AF50922F6B7B98E14907828.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto8.uasset'
+[2024.04.29-10.02.52:714][847]LogFileHelpers: Auto-saving content packages took 0.046
+[2024.04.29-10.02.55:617][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-10.02.55:659][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.29-10.02.56:293][979]LogSavePackage: Moving output files for package: /Game/LevelDesign/SubLevel/FirstLevel1
+[2024.04.29-10.02.56:294][979]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1A7930D21450A5D4C427A669D75120B77.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/SubLevel/FirstLevel1.umap'
+[2024.04.29-10.02.56:302][979]LogFileHelpers: Saving map 'FirstLevel1' took 0.652
+[2024.04.29-10.02.56:310][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 693 ms (total: 2.86 sec)
+[2024.04.29-10.02.56:312][979]AssetCheck: New page: Asset Save: FirstLevel1
+[2024.04.29-10.02.56:312][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelDesign/SubLevel/FirstLevel1.FirstLevel1
+[2024.04.29-10.08.20:254][987]LogDerivedDataCache: C:/Users/erwan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7110 files in 9016 folders with total size 1250 MiB.
+[2024.04.29-10.12.55:973][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.29-10.12.56:593][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto9
+[2024.04.29-10.12.56:593][813]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto908B37B774F22648F132D28B88AB0D218.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto9.umap'
+[2024.04.29-10.12.56:595][813]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto9.umap is in the /Temp path, will not scan.
+[2024.04.29-10.12.56:595][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.12.56:595][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.12.57:221][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto9
+[2024.04.29-10.12.57:221][813]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto95226AEF549A5B1A4185E758AABF8D7B2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto9.umap'
+[2024.04.29-10.12.57:224][813]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto9.umap is in the /Temp path, will not scan.
+[2024.04.29-10.12.57:224][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.12.57:224][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto9 is in the /Temp path, will not scan.
+[2024.04.29-10.12.57:225][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.265
+[2024.04.29-10.12.57:225][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.265
+[2024.04.29-10.22.57:463][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.29-10.22.58:074][613]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto0
+[2024.04.29-10.22.58:074][613]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto0ACAC96C043254FD3F8F486A2FBCF8EE2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto0.umap'
+[2024.04.29-10.22.58:075][613]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto0.umap is in the /Temp path, will not scan.
+[2024.04.29-10.22.58:075][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.58:075][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.58:699][613]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto0
+[2024.04.29-10.22.58:699][613]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto065F1BAAC43BE873A1F52B0BEF8CC2286.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto0.umap'
+[2024.04.29-10.22.58:701][613]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto0.umap is in the /Temp path, will not scan.
+[2024.04.29-10.22.58:701][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.58:701][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.59:332][613]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto0
+[2024.04.29-10.22.59:332][613]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto0F0D262F440011B3D87E6E0A08574D6FD.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto0.umap'
+[2024.04.29-10.22.59:334][613]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto0.umap is in the /Temp path, will not scan.
+[2024.04.29-10.22.59:334][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.59:334][613]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto0 is in the /Temp path, will not scan.
+[2024.04.29-10.22.59:334][613]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.883
+[2024.04.29-10.22.59:334][613]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.883
+[2024.04.29-10.32.59:562][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.29-10.33.00:178][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1
+[2024.04.29-10.33.00:178][413]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto1E466AAE64C7EEE6917F8CE88CDBF19D7.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1.umap'
+[2024.04.29-10.33.00:180][413]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.29-10.33.00:803][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1
+[2024.04.29-10.33.00:803][413]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto1FC09736D4C939FAC7DF41786EFC80E36.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1.umap'
+[2024.04.29-10.33.00:806][413]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.29-10.33.01:435][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1
+[2024.04.29-10.33.01:436][413]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto1CF387E55470455DA33BCC0AB14038732.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1.umap'
+[2024.04.29-10.33.01:438][413]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.29-10.33.01:438][413]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1 is in the /Temp path, will not scan.
+[2024.04.29-10.33.01:438][413]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1 is in the /Temp path, will not scan.
+[2024.04.29-10.33.01:438][413]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.886
+[2024.04.29-10.33.01:438][413]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.886
+[2024.04.29-10.43.01:695][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.29-10.43.02:313][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2
+[2024.04.29-10.43.02:314][213]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto2D0EC10A0484DD012C6260FA433EAB753.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2.umap'
+[2024.04.29-10.43.02:315][213]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.29-10.43.02:951][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2
+[2024.04.29-10.43.02:951][213]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto243D0DF1F4A824A20DB5B1BB3B12450EA.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2.umap'
+[2024.04.29-10.43.02:953][213]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.29-10.43.03:577][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2
+[2024.04.29-10.43.03:578][213]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto267F963DB45649DC0B54648841426033B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2.umap'
+[2024.04.29-10.43.03:579][213]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.29-10.43.03:579][213]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2 is in the /Temp path, will not scan.
+[2024.04.29-10.43.03:579][213]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2 is in the /Temp path, will not scan.
+[2024.04.29-10.43.03:579][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.894
+[2024.04.29-10.43.03:579][213]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.894
+[2024.04.29-10.49.04:542][296]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (C-Media(R) Audio), InstanceID=1
+[2024.04.29-10.49.04:599][296]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14824
+[2024.04.29-10.49.04:933][297]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ef25fa03-65a8-4d2c-9d7f-542db68ce73d}, Name=Speakers (C-Media(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=92.74
+[2024.04.29-10.49.04:933][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.29-10.49.04:935][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.29-10.53.03:753][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.29-10.53.04:376][ 13]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3
+[2024.04.29-10.53.04:377][ 13]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto31B836F234744250B8271D297248C3925.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3.umap'
+[2024.04.29-10.53.04:380][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.29-10.53.05:014][ 13]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3
+[2024.04.29-10.53.05:015][ 13]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto3925376B74C556EF4CFE44CB2C0AF86E8.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3.umap'
+[2024.04.29-10.53.05:016][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.29-10.53.05:637][ 13]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3
+[2024.04.29-10.53.05:637][ 13]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto37D50A52341F594ABB6C09FBCEBF539BE.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3.umap'
+[2024.04.29-10.53.05:638][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.29-10.53.05:638][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3 is in the /Temp path, will not scan.
+[2024.04.29-10.53.05:638][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3 is in the /Temp path, will not scan.
+[2024.04.29-10.53.05:639][ 13]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.899
+[2024.04.29-10.53.05:639][ 13]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.899
+[2024.04.29-10.55.25:212][433]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (MAJOR IV), InstanceID=1
+[2024.04.29-10.55.25:519][433]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14824
+[2024.04.29-10.55.25:853][434]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{30197ff5-86dd-4abb-9e25-2d62d481956e}, Name=Casque (MAJOR IV)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=63.51
+[2024.04.29-10.55.25:853][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.29-10.55.25:855][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.29-11.03.05:786][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.29-11.03.06:437][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto4
+[2024.04.29-11.03.06:438][813]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto482BDA1EB4769C32C4F5AA98DAD698B66.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto4.umap'
+[2024.04.29-11.03.06:439][813]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.29-11.03.07:090][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto4
+[2024.04.29-11.03.07:093][813]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto4E84FADD84418B9FD25E5ACA03DFD519C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto4.umap'
+[2024.04.29-11.03.07:094][813]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.29-11.03.07:761][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto4
+[2024.04.29-11.03.07:761][813]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto41F7D2C324553659B14A73F8114ACCC6C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto4.umap'
+[2024.04.29-11.03.07:763][813]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.29-11.03.07:763][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto4 is in the /Temp path, will not scan.
+[2024.04.29-11.03.07:763][813]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto4 is in the /Temp path, will not scan.
+[2024.04.29-11.03.07:763][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.990
+[2024.04.29-11.03.07:763][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.990
+[2024.04.29-11.08.20:307][901]LogDerivedDataCache: C:/Users/erwan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.169 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7110 files in 9016 folders with total size 1250 MiB.
+[2024.04.29-11.13.08:074][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.29-11.13.08:717][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5
+[2024.04.29-11.13.08:717][763]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto5B70CA8D24064FC2203E2E6870EF73015.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5.umap'
+[2024.04.29-11.13.08:719][763]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.29-11.13.09:376][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5
+[2024.04.29-11.13.09:376][763]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto5BA9DA154492A0946D9A6C49E8FE658A0.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5.umap'
+[2024.04.29-11.13.09:378][763]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.29-11.13.10:033][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5
+[2024.04.29-11.13.10:034][763]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto515D47CDF43D79FC38C89C9B41F7D6264.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5.umap'
+[2024.04.29-11.13.10:035][763]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.29-11.13.10:035][763]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5 is in the /Temp path, will not scan.
+[2024.04.29-11.13.10:035][763]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5 is in the /Temp path, will not scan.
+[2024.04.29-11.13.10:036][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.975
+[2024.04.29-11.13.10:036][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.975
+[2024.04.29-11.13.20:287][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pnj/IA_Pnj.IA_Pnj
+[2024.04.29-11.13.20:288][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.13.20:289][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.20.01:588][998]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CompileSuccess...
+[2024.04.29-11.20.01:591][998]LogAudio: Display: Chunk sizes for SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.29-11.20.13:526][390]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.20.13:590][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.29-11.20.16:245][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.20.16:253][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.20.16:253][535]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:20:16)
+[2024.04.29-11.20.16:254][535]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.20.16:257][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002457s)
+[2024.04.29-11.20.16:257][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.002500s)
+[2024.04.29-11.20.16:269][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-11.20.16:274][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.20.16:274][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.20.16:274][535]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.20.16:275][535]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2024.04.29-11.20.16:275][535]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.20.16:275][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.20.16:275][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.20.16:275][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.20.16:275][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.20.16:275][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.20.16:278][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.20.16:292][535]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.20.16:293][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.20.16:293][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.20.16:293][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.20.16:294][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.04.29-11.20.16:294][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.04.29-11.20.16:295][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.04.29-11.20.16:295][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.04.29-11.20.16:295][535]LogInit: FAudioDevice initialized with ID 41.
+[2024.04.29-11.20.16:295][535]LogAudio: Display: Audio Device (ID: 41) registered with world 'MainWorld'.
+[2024.04.29-11.20.16:295][535]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.29-11.20.16:301][535]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.20.16:964][535]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.20.16
+[2024.04.29-11.20.16:967][535]LogWorld: Bringing up level for play took: 0.003242
+[2024.04.29-11.20.16:972][535]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.04.29-11.20.16:978][535]PIE: Server logged in
+[2024.04.29-11.20.16:979][535]PIE: Play in editor total start time 0,725 seconds.
+[2024.04.29-11.20.21:108][550]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.20.21:304][553]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.22:134][569]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-123.71 Y=-84.83 Z=0.00 Location: X=0.21 Y=-10477.88 Z=182.27 Normal: X=-0.04 Y=-0.01 Z=1.00 PenetrationDepth:5.645 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_5 (0 other events since notify)
+[2024.04.29-11.20.23:493][596]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.24:265][612]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.25:672][641]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.20.25:958][646]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.27:168][669]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.28:945][703]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.30:015][723]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.20.31:447][751]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=69.37 Y=-49.85 Z=0.00 Location: X=331.17 Y=-8841.38 Z=189.43 Normal: X=0.67 Y=0.74 Z=-0.00 PenetrationDepth:0.130 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_5_0_2 (0 other events since notify)
+[2024.04.29-11.20.32:023][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.20.32:023][765]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.20.32:045][765]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.20.32:045][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.20.32:053][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.20.32:058][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.20.32:067][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.20.32:069][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.29-11.20.32:069][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.29-11.20.32:071][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.29-11.20.32:075][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.20.32:337][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.29-11.20.32:417][766]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.04.29-11.20.32:428][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-11.21.40:012][787]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.21.40:079][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.29-11.23.25:902][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.29-11.23.26:570][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto6
+[2024.04.29-11.23.26:571][240]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto6F9AA583F4AD435E0F06228B5B20C064D.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto6.umap'
+[2024.04.29-11.23.26:573][240]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.29-11.23.27:243][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto6
+[2024.04.29-11.23.27:244][240]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto63217461647E765231F2AAEBD2F984B6B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto6.umap'
+[2024.04.29-11.23.27:246][240]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.29-11.23.27:923][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto6
+[2024.04.29-11.23.27:923][240]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto653AD807A46B233D62E2DB7806E17C11A.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto6.umap'
+[2024.04.29-11.23.27:924][240]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.29-11.23.27:924][240]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto6 is in the /Temp path, will not scan.
+[2024.04.29-11.23.27:924][240]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto6 is in the /Temp path, will not scan.
+[2024.04.29-11.23.27:925][240]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 2.038
+[2024.04.29-11.23.27:925][240]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.038
+[2024.04.29-11.23.27:925][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.29-11.23.27:942][240]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.29-11.23.27:943][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.29-11.23.27:961][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2024.04.29-11.23.27:963][240]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter_Auto6EA06704F448AAA477052E1B00F4D2A67.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2024.04.29-11.23.27:963][240]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.04.29-11.24.15:856][425]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.24.15:901][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-11.24.17:265][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.24.17:274][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.24.17:274][493]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:24:17)
+[2024.04.29-11.24.17:274][493]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.24.17:276][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001642s)
+[2024.04.29-11.24.17:276][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001698s)
+[2024.04.29-11.24.17:286][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.29-11.24.17:290][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.24.17:290][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.24.17:291][493]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.24.17:291][493]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2024.04.29-11.24.17:291][493]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.24.17:291][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.24.17:291][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.24.17:291][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.24.17:291][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.24.17:291][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.24.17:293][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.24.17:306][493]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.24.17:306][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.24.17:306][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.24.17:306][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.24.17:307][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.04.29-11.24.17:307][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.04.29-11.24.17:309][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.04.29-11.24.17:309][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.04.29-11.24.17:309][493]LogInit: FAudioDevice initialized with ID 42.
+[2024.04.29-11.24.17:309][493]LogAudio: Display: Audio Device (ID: 42) registered with world 'MainWorld'.
+[2024.04.29-11.24.17:309][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.29-11.24.17:311][493]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.24.17:824][493]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.24.17
+[2024.04.29-11.24.17:825][493]LogWorld: Bringing up level for play took: 0.002001
+[2024.04.29-11.24.17:828][493]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.04.29-11.24.17:832][493]PIE: Server logged in
+[2024.04.29-11.24.17:833][493]PIE: Play in editor total start time 0,56 seconds.
+[2024.04.29-11.24.21:616][505]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.24.21:760][507]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.24.23:790][548]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.24.23:821][548]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.24.25:117][575]LogBlueprintUserMessages: [IA_Pnj_C_5] Hit
+[2024.04.29-11.24.25:614][585]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.24.25:647][585]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.24.27:229][617]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.24.28:531][643]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=93.54 Y=62.58 Z=0.00 Location: X=312.23 Y=-8953.75 Z=219.78 Normal: X=-0.25 Y=-0.96 Z=0.08 PenetrationDepth:0.231 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_9_0_1 (0 other events since notify)
+[2024.04.29-11.24.28:886][650]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.24.29:186][656]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.24.31:413][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.24.31:413][701]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.24.31:438][701]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.24.31:438][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.24.31:441][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.24.31:446][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.24.31:457][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.24.31:457][701]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.29-11.24.31:457][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.29-11.24.31:459][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.29-11.24.31:463][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.24.31:727][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-11.24.31:801][702]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.04.29-11.24.31:810][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.29-11.25.12:108][ 75]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.25.12:151][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.29-11.25.13:713][155]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.25.13:723][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.25.13:723][155]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:25:13)
+[2024.04.29-11.25.13:724][155]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.25.13:725][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002160s)
+[2024.04.29-11.25.13:727][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.002206s)
+[2024.04.29-11.25.13:739][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.25.13:745][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.25.13:745][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.25.13:745][155]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.25.13:746][155]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2024.04.29-11.25.13:746][155]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.25.13:746][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.25.13:746][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.25.13:746][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.25.13:746][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.25.13:746][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.25.13:748][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.25.13:764][155]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.25.13:766][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.25.13:766][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.25.13:766][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.25.13:766][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.04.29-11.25.13:766][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.04.29-11.25.13:768][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.04.29-11.25.13:768][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.04.29-11.25.13:768][155]LogInit: FAudioDevice initialized with ID 43.
+[2024.04.29-11.25.13:768][155]LogAudio: Display: Audio Device (ID: 43) registered with world 'MainWorld'.
+[2024.04.29-11.25.13:768][155]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.29-11.25.13:770][155]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.25.14:425][155]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.25.14
+[2024.04.29-11.25.14:427][155]LogWorld: Bringing up level for play took: 0.001913
+[2024.04.29-11.25.14:429][155]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.04.29-11.25.14:434][155]PIE: Server logged in
+[2024.04.29-11.25.14:436][155]PIE: Play in editor total start time 0,712 seconds.
+[2024.04.29-11.25.18:331][165]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.25.18:528][168]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.25.22:905][257]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-103.70 Y=108.38 Z=0.00 Location: X=399.24 Y=-9768.19 Z=183.53 Normal: X=-0.38 Y=-0.92 Z=0.00 PenetrationDepth:2.012 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_10_2_0 (0 other events since notify)
+[2024.04.29-11.25.23:056][260]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.25.26:631][332]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.25.28:535][371]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-101.35 Y=-110.58 Z=0.00 Location: X=335.38 Y=-9655.79 Z=204.04 Normal: X=0.72 Y=0.38 Z=0.57 PenetrationDepth:0.735 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_1_2 (0 other events since notify)
+[2024.04.29-11.25.31:883][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.25.31:883][439]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.25.31:911][439]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.25.31:911][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.25.31:917][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.25.31:921][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.25.31:932][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.25.31:932][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.29-11.25.31:932][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.29-11.25.31:935][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.29-11.25.31:939][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.25.32:225][439]LogUObjectHash: Compacting FUObjectHashTables data took  20.58ms
+[2024.04.29-11.25.32:308][440]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.04.29-11.25.32:318][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.29-11.26.57:226][489]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Dockable_Window_Pick_Up...
+[2024.04.29-11.26.57:231][489]LogAudio: Display: Chunk sizes for SoundWave /Engine/VREditor/Sounds/UI/Dockable_Window_Pick_Up.Dockable_Window_Pick_Up: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.29-11.26.58:223][548]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.26.58:270][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.29-11.26.59:350][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.26.59:359][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.26.59:359][600]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:26:59)
+[2024.04.29-11.26.59:359][600]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.26.59:361][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001638s)
+[2024.04.29-11.26.59:361][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001679s)
+[2024.04.29-11.26.59:373][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.29-11.26.59:377][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.26.59:377][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.26.59:378][600]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.26.59:378][600]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2024.04.29-11.26.59:378][600]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.26.59:378][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.26.59:378][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.26.59:379][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.26.59:379][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.26.59:379][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.26.59:381][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.26.59:395][600]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.26.59:395][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.26.59:395][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.26.59:395][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.26.59:396][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.04.29-11.26.59:396][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.04.29-11.26.59:397][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.04.29-11.26.59:397][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.04.29-11.26.59:397][600]LogInit: FAudioDevice initialized with ID 44.
+[2024.04.29-11.26.59:397][600]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainWorld'.
+[2024.04.29-11.26.59:397][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.29-11.26.59:400][600]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.26.59:926][600]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.26.59
+[2024.04.29-11.26.59:927][600]LogWorld: Bringing up level for play took: 0.001843
+[2024.04.29-11.26.59:930][600]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.04.29-11.26.59:933][600]PIE: Server logged in
+[2024.04.29-11.26.59:934][600]PIE: Play in editor total start time 0,575 seconds.
+[2024.04.29-11.27.03:710][611]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.03:907][614]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.27.05:922][655]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.06:337][663]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.27.10:573][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.10:573][753]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.27.10:599][753]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.27.10:599][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.10:603][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.27.10:607][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.10:619][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.27.10:619][753]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.29-11.27.10:619][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.29-11.27.10:621][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.29-11.27.10:625][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.10:888][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-11.27.10:971][754]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.04.29-11.27.10:981][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.29-11.27.16:278][ 57]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Fire_Sparks01...
+[2024.04.29-11.27.16:308][ 57]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.29-11.27.22:863][437]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.27.22:913][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.04.29-11.27.24:285][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.27.24:293][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.27.24:293][505]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:27:24)
+[2024.04.29-11.27.24:296][505]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.27.24:298][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001968s)
+[2024.04.29-11.27.24:298][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.002044s)
+[2024.04.29-11.27.24:308][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.29-11.27.24:313][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.27.24:313][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.27.24:313][505]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.27.24:314][505]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2024.04.29-11.27.24:314][505]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.27.24:314][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.27.24:314][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.27.24:314][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.27.24:314][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.27.24:314][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.27.24:316][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.27.24:329][505]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.27.24:329][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.27.24:329][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.27.24:329][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.27.24:330][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.04.29-11.27.24:330][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.04.29-11.27.24:331][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.04.29-11.27.24:331][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.04.29-11.27.24:331][505]LogInit: FAudioDevice initialized with ID 45.
+[2024.04.29-11.27.24:331][505]LogAudio: Display: Audio Device (ID: 45) registered with world 'MainWorld'.
+[2024.04.29-11.27.24:331][505]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.29-11.27.24:334][505]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.27.24:859][505]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.27.24
+[2024.04.29-11.27.24:861][505]LogWorld: Bringing up level for play took: 0.001662
+[2024.04.29-11.27.24:863][505]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.04.29-11.27.24:868][505]PIE: Server logged in
+[2024.04.29-11.27.24:869][505]PIE: Play in editor total start time 0,575 seconds.
+[2024.04.29-11.27.28:491][513]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.28:656][515]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.27.32:923][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.32:923][600]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.27.32:950][600]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.27.32:950][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.32:955][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.27.32:959][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.32:971][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.27.32:971][600]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.29-11.27.32:971][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.29-11.27.32:973][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.29-11.27.32:977][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.33:245][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.29-11.27.33:320][601]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.04.29-11.27.33:329][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.29-11.27.43:417][189]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave VR_teleport...
+[2024.04.29-11.27.43:425][189]LogAudio: Display: Chunk sizes for SoundWave /Engine/VREditor/Sounds/VR_teleport.VR_teleport: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.29-11.27.44:977][281]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.27.45:037][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.29-11.27.46:141][333]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.27.46:150][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.27.46:150][333]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:27:46)
+[2024.04.29-11.27.46:150][333]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.27.46:151][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2024.04.29-11.27.46:151][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001658s)
+[2024.04.29-11.27.46:162][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-11.27.46:166][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.27.46:166][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.27.46:166][333]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.27.46:167][333]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2024.04.29-11.27.46:167][333]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.27.46:167][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.27.46:167][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.27.46:167][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.27.46:167][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.27.46:167][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.27.46:169][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.27.46:181][333]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.27.46:181][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.27.46:181][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.27.46:181][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.27.46:182][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.04.29-11.27.46:182][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.04.29-11.27.46:183][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.04.29-11.27.46:183][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.04.29-11.27.46:183][333]LogInit: FAudioDevice initialized with ID 46.
+[2024.04.29-11.27.46:183][333]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainWorld'.
+[2024.04.29-11.27.46:183][333]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.29-11.27.46:187][333]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.27.46:706][333]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.27.46
+[2024.04.29-11.27.46:707][333]LogWorld: Bringing up level for play took: 0.002056
+[2024.04.29-11.27.46:710][333]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.04.29-11.27.46:713][333]PIE: Server logged in
+[2024.04.29-11.27.46:715][333]PIE: Play in editor total start time 0,566 seconds.
+[2024.04.29-11.27.50:309][341]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.50:516][344]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.27.52:774][389]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.53:020][394]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.53:457][402]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.27.55:272][439]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.27.55:320][440]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.27.59:623][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.59:623][526]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.27.59:647][526]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.27.59:648][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.59:652][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.27.59:658][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.27.59:670][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.27.59:670][526]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.29-11.27.59:670][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.29-11.27.59:671][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.29-11.27.59:675][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.27.59:955][526]LogUObjectHash: Compacting FUObjectHashTables data took  19.04ms
+[2024.04.29-11.28.00:040][527]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.04.29-11.28.00:050][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.29-11.28.13:885][352]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.28.13:930][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-11.28.18:995][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.28.19:003][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.28.19:003][643]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:28:19)
+[2024.04.29-11.28.19:003][643]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.28.19:005][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001495s)
+[2024.04.29-11.28.19:005][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001533s)
+[2024.04.29-11.28.19:015][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-11.28.19:019][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.28.19:019][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.28.19:020][643]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.28.19:020][643]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2024.04.29-11.28.19:020][643]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.28.19:020][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.28.19:020][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.28.19:020][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.28.19:020][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.28.19:020][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.28.19:022][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.28.19:035][643]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.28.19:035][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.28.19:035][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.28.19:035][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.28.19:036][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.04.29-11.28.19:036][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.04.29-11.28.19:038][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.04.29-11.28.19:038][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.04.29-11.28.19:038][643]LogInit: FAudioDevice initialized with ID 47.
+[2024.04.29-11.28.19:038][643]LogAudio: Display: Audio Device (ID: 47) registered with world 'MainWorld'.
+[2024.04.29-11.28.19:038][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.29-11.28.19:041][643]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.28.19:561][643]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.28.19
+[2024.04.29-11.28.19:563][643]LogWorld: Bringing up level for play took: 0.002210
+[2024.04.29-11.28.19:566][643]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.29-11.28.19:570][643]PIE: Server logged in
+[2024.04.29-11.28.19:571][643]PIE: Play in editor total start time 0,568 seconds.
+[2024.04.29-11.28.23:322][655]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.28.23:511][658]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.28.26:993][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.28.26:993][732]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.28.27:018][732]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.28.27:018][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.28.27:023][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.28.27:027][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.28.27:040][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.28.27:040][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.29-11.28.27:040][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.29-11.28.27:041][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.29-11.28.27:046][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.28.27:328][732]LogUObjectHash: Compacting FUObjectHashTables data took  18.04ms
+[2024.04.29-11.28.27:403][733]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.29-11.28.27:413][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.29-11.28.31:369][955]BlueprintLog: New page: Compile IA_Pnj
+[2024.04.29-11.28.31:445][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.28.35:907][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.28.35:915][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.28.35:915][216]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:28:35)
+[2024.04.29-11.28.35:915][216]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.28.35:916][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2024.04.29-11.28.35:916][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001544s)
+[2024.04.29-11.28.35:927][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.28.35:931][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.28.35:931][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.28.35:931][216]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.28.35:931][216]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2024.04.29-11.28.35:931][216]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.28.35:931][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.28.35:931][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.28.35:931][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.28.35:931][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.28.35:931][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.28.35:933][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.28.35:946][216]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.28.35:946][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.28.35:946][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.28.35:946][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.28.35:947][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.04.29-11.28.35:947][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.04.29-11.28.35:948][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.04.29-11.28.35:948][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.04.29-11.28.35:948][216]LogInit: FAudioDevice initialized with ID 48.
+[2024.04.29-11.28.35:948][216]LogAudio: Display: Audio Device (ID: 48) registered with world 'MainWorld'.
+[2024.04.29-11.28.35:948][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.29-11.28.35:951][216]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.28.36:468][216]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.28.36
+[2024.04.29-11.28.36:469][216]LogWorld: Bringing up level for play took: 0.001709
+[2024.04.29-11.28.36:471][216]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.04.29-11.28.36:476][216]PIE: Server logged in
+[2024.04.29-11.28.36:477][216]PIE: Play in editor total start time 0,562 seconds.
+[2024.04.29-11.28.40:028][226]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.28.40:173][228]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.28.43:928][303]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.28.44:271][309]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.28.50:173][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.28.50:173][426]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.28.50:199][426]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.28.50:199][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.28.50:203][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.28.50:206][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.28.50:218][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.28.50:218][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.29-11.28.50:219][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.29-11.28.50:220][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.29-11.28.50:225][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.28.50:488][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.29-11.28.50:566][427]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.04.29-11.28.50:578][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.29-11.29.06:895][383]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.29.06:956][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.29-11.29.08:325][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.29.08:333][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.29.08:333][456]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:29:08)
+[2024.04.29-11.29.08:333][456]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.29.08:335][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001549s)
+[2024.04.29-11.29.08:335][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001584s)
+[2024.04.29-11.29.08:345][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.29-11.29.08:350][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.29.08:350][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.29.08:350][456]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.29.08:350][456]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2024.04.29-11.29.08:350][456]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.04.29-11.29.08:350][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.29.08:350][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.29.08:350][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.29.08:350][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.29.08:350][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.29.08:351][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.29.08:351][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.29.08:351][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.29.08:351][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.29.08:351][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.29.08:351][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.29.08:353][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.29.08:366][456]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.29.08:366][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.29.08:366][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.29.08:366][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.29.08:367][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.04.29-11.29.08:367][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.04.29-11.29.08:369][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.04.29-11.29.08:369][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.04.29-11.29.08:369][456]LogInit: FAudioDevice initialized with ID 49.
+[2024.04.29-11.29.08:369][456]LogAudio: Display: Audio Device (ID: 49) registered with world 'MainWorld'.
+[2024.04.29-11.29.08:369][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.29-11.29.08:371][456]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.29.08:916][456]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.29.08
+[2024.04.29-11.29.08:917][456]LogWorld: Bringing up level for play took: 0.002191
+[2024.04.29-11.29.08:920][456]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.04.29-11.29.08:926][456]PIE: Server logged in
+[2024.04.29-11.29.08:927][456]PIE: Play in editor total start time 0,594 seconds.
+[2024.04.29-11.29.12:677][467]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.29.12:819][469]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.29.18:543][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.29.18:543][584]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.29.18:570][584]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.29.18:571][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.29.18:574][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.29.18:578][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.29.18:590][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.29.18:590][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.29-11.29.18:590][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.29-11.29.18:591][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.29-11.29.18:594][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.29.18:857][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.29-11.29.18:936][585]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.04.29-11.29.18:948][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-11.31.45:782][715]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.29-11.32.08:157][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.29-11.32.25:076][922]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.32.25:406][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.29-11.33.32:658][681]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.33.32:669][681]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a LightComponent, therefore ' Target ' must have a connection.
+[2024.04.29-11.33.32:712][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-11.33.39:915][100]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.33.39:964][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.29-11.33.41:194][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.33.41:202][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.33.41:202][162]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:33:41)
+[2024.04.29-11.33.41:202][162]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.33.41:203][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001705s)
+[2024.04.29-11.33.41:203][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001742s)
+[2024.04.29-11.33.41:214][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.29-11.33.41:219][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.33.41:219][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.33.41:219][162]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.33.41:220][162]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2024.04.29-11.33.41:220][162]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.33.41:220][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.33.41:220][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.33.41:220][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.33.41:220][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.33.41:220][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.33.41:222][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.33.41:237][162]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.33.41:237][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.33.41:237][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.33.41:237][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.33.41:237][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.04.29-11.33.41:237][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.04.29-11.33.41:239][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.04.29-11.33.41:239][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.04.29-11.33.41:239][162]LogInit: FAudioDevice initialized with ID 50.
+[2024.04.29-11.33.41:239][162]LogAudio: Display: Audio Device (ID: 50) registered with world 'MainWorld'.
+[2024.04.29-11.33.41:239][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.29-11.33.41:242][162]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.33.41:772][162]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.33.41
+[2024.04.29-11.33.41:774][162]LogWorld: Bringing up level for play took: 0.002618
+[2024.04.29-11.33.41:776][162]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.04.29-11.33.41:781][162]PIE: Server logged in
+[2024.04.29-11.33.41:782][162]PIE: Play in editor total start time 0,581 seconds.
+[2024.04.29-11.33.45:441][173]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.33.45:580][175]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.33.51:039][284]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.33.52:660][317]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.33.52:997][323]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.33.55:310][369]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.33.55:652][375]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.33.57:320][408]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.33.57:654][414]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.33.59:881][457]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.34.00:109][461]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.34.01:707][492]LogBlueprintUserMessages: [IA_Pnj_C_3] Hit
+[2024.04.29-11.34.01:707][492]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.34.03:933][534]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=19.55 Y=63.97 Z=0.00 Location: X=308.87 Y=-9524.59 Z=161.94 Normal: X=0.96 Y=0.26 Z=0.00 PenetrationDepth:7.806 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_13_1_1 (0 other events since notify)
+[2024.04.29-11.34.04:129][537]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.34.07:113][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.34.07:113][595]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.34.07:139][595]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.34.07:139][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.34.07:143][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.34.07:148][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.34.07:160][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.34.07:160][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.29-11.34.07:160][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.29-11.34.07:162][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.29-11.34.07:166][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.34.07:437][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.29-11.34.07:518][596]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.04.29-11.34.07:530][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.29-11.34.42:240][618]LogEditorTransaction: Undo Create Pin Link
+[2024.04.29-11.35.26:550][201]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.35.26:600][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.29-11.35.27:759][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.35.27:767][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.35.27:767][258]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:35:27)
+[2024.04.29-11.35.27:767][258]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.35.27:769][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001496s)
+[2024.04.29-11.35.27:769][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001533s)
+[2024.04.29-11.35.27:780][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.29-11.35.27:786][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.35.27:786][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.35.27:786][258]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.35.27:786][258]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2024.04.29-11.35.27:786][258]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.29-11.35.27:786][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.35.27:787][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.35.27:787][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.35.27:787][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.35.27:787][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.35.27:787][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.35.27:789][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.35.27:802][258]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.35.27:802][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.35.27:802][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.35.27:802][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.35.27:803][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.29-11.35.27:803][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.29-11.35.27:804][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.29-11.35.27:804][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.29-11.35.27:804][258]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.29-11.35.27:804][258]LogAudio: Display: Audio Device (ID: 51) registered with world 'MainWorld'.
+[2024.04.29-11.35.27:804][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.29-11.35.27:807][258]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.35.28:345][258]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.35.28
+[2024.04.29-11.35.28:347][258]LogWorld: Bringing up level for play took: 0.001715
+[2024.04.29-11.35.28:349][258]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.04.29-11.35.28:353][258]PIE: Server logged in
+[2024.04.29-11.35.28:354][258]PIE: Play in editor total start time 0,587 seconds.
+[2024.04.29-11.35.32:331][273]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-11.35.32:462][275]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.35.33:811][302]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-54.89 Y=-125.89 Z=0.00 Location: X=598.27 Y=-9776.02 Z=162.62 Normal: X=0.18 Y=0.14 Z=0.97 PenetrationDepth:9.929 Actor:BP_CubeChaos_C_37 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (0 other events since notify)
+[2024.04.29-11.35.34:408][314]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-11.35.37:323][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.35.37:323][373]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.35.37:346][373]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.35.37:346][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.35.37:351][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.35.37:355][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.35.37:367][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.35.37:367][373]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.29-11.35.37:367][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.29-11.35.37:369][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.29-11.35.37:372][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.35.37:639][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.29-11.35.37:736][374]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.04.29-11.35.37:744][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.29-11.36.02:758][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.29-11.36.02:767][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/MainWorld_Auto7
+[2024.04.29-11.36.02:767][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld_Auto72182878042B75757E13C548F7F14F2D7.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto7.umap'
+[2024.04.29-11.36.02:770][578]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.29-11.36.02:770][578]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/MainWorld_Auto7 is in the /Temp path, will not scan.
+[2024.04.29-11.36.02:770][578]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/MainWorld_Auto7 is in the /Temp path, will not scan.
+[2024.04.29-11.36.03:463][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7
+[2024.04.29-11.36.03:464][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto70D24BD3E4994B188F2FC9BA5DA94156B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7.umap'
+[2024.04.29-11.36.03:465][578]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.29-11.36.04:178][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7
+[2024.04.29-11.36.04:179][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto75AA8852345D108AFEC5D33B2BE7FFDD1.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7.umap'
+[2024.04.29-11.36.04:181][578]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.29-11.36.04:883][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7
+[2024.04.29-11.36.04:883][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto7006EEE9B40A20AB9EAC66A96BFDA7A93.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7.umap'
+[2024.04.29-11.36.04:885][578]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.29-11.36.04:885][578]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7 is in the /Temp path, will not scan.
+[2024.04.29-11.36.04:885][578]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7 is in the /Temp path, will not scan.
+[2024.04.29-11.36.04:886][578]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 2.136
+[2024.04.29-11.36.04:886][578]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.136
+[2024.04.29-11.36.04:886][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.29-11.36.04:907][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.29-11.36.04:907][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.29-11.36.04:928][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.04.29-11.36.04:929][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter_Auto76A574E9B4695581CA9F2F3A4FBC36B8B.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.04.29-11.36.04:931][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/Essaie_raté/BP_Projectiles] ([2] browsable assets)...
+[2024.04.29-11.36.04:931][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Essaie_raté/BP_Projectiles]
+[2024.04.29-11.36.04:937][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Essaie_raté/BP_Projectiles_Auto7
+[2024.04.29-11.36.04:938][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto7C3DFA1264F769881B6C2F1B20CBC1045.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Essaie_raté/BP_Projectiles_Auto7.uasset'
+[2024.04.29-11.36.04:939][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pnj/IA_Pnj] ([2] browsable assets)...
+[2024.04.29-11.36.04:950][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pnj/IA_Pnj.IA_Pnj]
+[2024.04.29-11.36.04:950][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pnj/IA_Pnj]
+[2024.04.29-11.36.04:950][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pnj/IA_Pnj" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Pnj/IA_Pnj_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.04.29-11.36.04:960][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Pnj/IA_Pnj_Auto7
+[2024.04.29-11.36.04:960][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/IA_Pnj_Auto765A9A4CE4D431C8EBEE69BA783DC6BDF.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Pnj/IA_Pnj_Auto7.uasset'
+[2024.04.29-11.36.04:961][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/Essaie_raté/BP_ScaleBomb] ([2] browsable assets)...
+[2024.04.29-11.36.04:961][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Essaie_raté/BP_ScaleBomb]
+[2024.04.29-11.36.04:967][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto7
+[2024.04.29-11.36.04:967][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ScaleBomb_Auto7F08F2F6745C2705E1DC75C97D7FC3554.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto7.uasset'
+[2024.04.29-11.36.04:968][578]LogFileHelpers: Auto-saving content packages took 0.083
