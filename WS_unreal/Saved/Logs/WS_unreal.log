@@ -4597,3 +4597,158 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.29-09.51.32:810][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2024.04.29-09.51.32:877][173]LogPlayLevel: Display: Destroying online subsystem :Context_60
 [2024.04.29-09.51.32:887][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.29-09.55.23:828][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.55.35:779][319]Cmd: EDIT CUT
+[2024.04.29-09.55.35:794][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.29-09.55.35:803][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.29-09.55.35:807][319]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.04.29-09.55.37:532][421]Cmd: TRANSACTION UNDO
+[2024.04.29-09.55.37:532][421]LogEditorTransaction: Undo Cut
+[2024.04.29-09.55.39:411][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-09.55.43:364][743]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.29-09.55.43:380][743]LogActorFactory: Actor Factory attempting to spawn World /Game/LevelDesign/SubLevel/FirstLevel3.FirstLevel3
+[2024.04.29-09.55.43:380][743]LogActorFactory: Actor Factory attempting to spawn World /Game/LevelDesign/SubLevel/FirstLevel3.FirstLevel3
+[2024.04.29-09.55.43:390][743]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/LevelDesign/SubLevel/FirstLevel3 which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2024.04.29-09.55.43:390][743]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/LevelDesign/SubLevel/FirstLevel3 which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2024.04.29-09.56.18:393][780]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.23:096][ 60]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.29:359][433]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.41:303][124]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.43:607][249]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.43:607][249]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.44:451][274]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.44:451][274]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:039][307]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:039][307]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:457][330]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:457][330]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-09.56.45:975][359]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.45:975][359]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.51:134][652]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.54:345][832]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.29-09.56.56:343][939]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.56:344][939]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.56.56:947][953]Cmd: TRANSACTION UNDO
+[2024.04.29-09.56.56:947][953]LogEditorTransaction: Undo Edit Level Transform
+[2024.04.29-09.57.10:868][780]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-09.57.10:874][780]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-09.57.24:618][583]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.57.31:323][981]Cmd: DELETE
+[2024.04.29-09.57.31:323][981]Cmd: ACTOR DELETE
+[2024.04.29-09.57.31:336][981]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2024.04.29-09.57.31:352][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.29-09.57.31:356][981]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.04.29-09.57.34:417][163]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.57.34:424][163]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.57.34:437][163]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.35:010][494]Cmd: TRANSACTION UNDO
+[2024.04.29-09.58.35:010][494]LogEditorTransaction: Undo Move Elements
+[2024.04.29-09.58.36:297][543]Cmd: TRANSACTION UNDO
+[2024.04.29-09.58.36:297][543]LogEditorTransaction: Undo Move Elements
+[2024.04.29-09.58.54:330][483]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.54:336][483]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.54:348][483]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.58:269][714]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.58.59:256][770]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.59:267][770]LogViewport: Scene viewport resized to 523x165, mode Windowed.
+[2024.04.29-09.58.59:273][770]LogViewport: Scene viewport resized to 522x165, mode Windowed.
+[2024.04.29-09.59.00:254][829]Cmd: DELETE
+[2024.04.29-09.59.00:254][829]Cmd: ACTOR DELETE
+[2024.04.29-09.59.00:263][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:267][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:269][829]LogEditorActor: Deleted Actor: IA_Pnj_C
+[2024.04.29-09.59.00:287][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.29-09.59.00:293][829]LogEditorActor: Deleted 3 Actors (0.038 secs)
+[2024.04.29-09.59.01:408][893]Cmd: DELETE
+[2024.04.29-09.59.01:408][893]Cmd: ACTOR DELETE
+[2024.04.29-09.59.01:410][893]LogEditorActor: Deleted Actor: BP_Ennemy_AI_C
+[2024.04.29-09.59.01:420][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.29-09.59.01:424][893]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.04.29-09.59.18:790][856]LogEditorViewport: Clicking Background
+[2024.04.29-09.59.29:890][516]Cmd: EDIT COPY
+[2024.04.29-09.59.32:749][685]Cmd: EDIT PASTE
+[2024.04.29-09.59.48:069][267]Cmd: EDIT COPY
+[2024.04.29-09.59.50:378][403]Cmd: EDIT PASTE
+[2024.04.29-10.00.08:367][176]LogEditorViewport: Clicking Background
+[2024.04.29-10.00.27:159][284]Cmd: DELETE
+[2024.04.29-10.00.27:159][284]Cmd: ACTOR DELETE
+[2024.04.29-10.00.27:170][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:172][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:174][284]LogEditorActor: Deleted Actor: PlayerStart
+[2024.04.29-10.00.27:187][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.29-10.00.27:191][284]LogEditorActor: Deleted 3 Actors (0.032 secs)
+[2024.04.29-10.01.29:878][979]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-10.01.29:885][979]LogSlate: Window 'Level Details' being destroyed
+[2024.04.29-10.01.31:017][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-10.01.31:026][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-10.01.31:026][ 47]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 14:01:31)
+[2024.04.29-10.01.31:026][ 47]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-10.01.31:028][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2024.04.29-10.01.31:028][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.002108s)
+[2024.04.29-10.01.31:037][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.29-10.01.31:043][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-10.01.31:043][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-10.01.31:043][ 47]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-10.01.31:043][ 47]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2024.04.29-10.01.31:043][ 47]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-10.01.31:043][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-10.01.31:043][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-10.01.31:044][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-10.01.31:046][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-10.01.31:060][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-10.01.31:061][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.29-10.01.31:061][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.29-10.01.31:062][ 47]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.29-10.01.31:062][ 47]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainWorld'.
+[2024.04.29-10.01.31:062][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.29-10.01.31:066][ 47]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-10.01.31:636][ 47]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-12.01.31
+[2024.04.29-10.01.31:638][ 47]LogWorld: Bringing up level for play took: 0.002000
+[2024.04.29-10.01.31:641][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.29-10.01.31:646][ 47]PIE: Server logged in
+[2024.04.29-10.01.31:647][ 47]PIE: Play in editor total start time 0,621 seconds.
+[2024.04.29-10.01.36:047][ 63]LogBlueprintUserMessages: [IA_Pnj_C_1] Hit
+[2024.04.29-10.01.36:189][ 65]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.42:274][187]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.44:497][230]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.48:167][300]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.29-10.01.48:528][307]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1 0 0 0
+[2024.04.29-10.01.48:986][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.29-10.01.55:953][502]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.01.58:085][557]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.00:055][607]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.01:092][632]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.02:387][665]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.29-10.02.02:547][669]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel2 0 0 0
+[2024.04.29-10.02.02:866][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-10.02.04:807][782]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.06:792][874]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.08:347][943]PIE: Warning: BP_Projectiles_C_9.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.09:447][994]PIE: Warning: BP_Projectiles_C_10.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.12:088][115]PIE: Warning: BP_Projectiles_C_11.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-10.02.14:683][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-10.02.14:683][231]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-10.02.14:690][231]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-10.02.14:690][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-10.02.14:694][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-10.02.14:697][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-10.02.14:706][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-10.02.14:707][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.29-10.02.14:707][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.29-10.02.14:709][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.29-10.02.14:804][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2024.04.29-10.02.14:872][232]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.29-10.02.14:882][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
