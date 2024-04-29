@@ -5686,3 +5686,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.29-11.36.04:967][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto7
 [2024.04.29-11.36.04:967][578]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ScaleBomb_Auto7F08F2F6745C2705E1DC75C97D7FC3554.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Essaie_raté/BP_ScaleBomb_Auto7.uasset'
 [2024.04.29-11.36.04:968][578]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.04.29-11.38.42:126][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-11.38.42:196][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.29-11.38.42:871][596]LogSavePackage: Moving output files for package: /Game/LevelDesign/SubLevel/FirstLevel1
+[2024.04.29-11.38.42:872][596]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel106D4875441A2FACF5B962FBFF03D5953.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/SubLevel/FirstLevel1.umap'
+[2024.04.29-11.38.42:879][596]LogFileHelpers: Saving map 'FirstLevel1' took 0.697
+[2024.04.29-11.38.42:887][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 761 ms (total: 3.62 sec)
+[2024.04.29-11.38.42:889][596]AssetCheck: New page: Asset Save: FirstLevel1
+[2024.04.29-11.38.42:889][596]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelDesign/SubLevel/FirstLevel1.FirstLevel1
+[2024.04.29-11.43.16:585][601]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.43.16:636][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.29-11.44.33:963][204]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.44.34:020][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.29-11.44.49:798][118]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.44.49:855][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.45.11:185][376]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.45.11:236][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.29-11.45.16:929][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-11.45.16:995][708]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.29-11.45.16:996][708]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter748A1E884C50D2585F64208F182B6158.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.29-11.45.17:009][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.70 sec)
+[2024.04.29-11.45.17:010][708]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.29-11.45.17:010][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.29-11.45.17:903][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-11.45.17:945][762]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.29-11.45.17:946][762]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter2806E799473831218C73DCAD4A912992.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.29-11.45.17:953][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.75 sec)
+[2024.04.29-11.45.17:955][762]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.29-11.45.17:955][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
