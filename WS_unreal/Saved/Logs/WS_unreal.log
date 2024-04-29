@@ -5714,3 +5714,807 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.29-11.45.17:953][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.75 sec)
 [2024.04.29-11.45.17:955][762]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.29-11.45.17:955][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.29-11.47.30:333][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/Essaie_raté/BP_ScaleBomb.BP_ScaleBomb
+[2024.04.29-11.47.30:333][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.47.30:334][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.48.53:471][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.29-11.48.54:146][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8
+[2024.04.29-11.48.54:147][283]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto8D8B4A7834A40021B03A3DCA614699A8D.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8.umap'
+[2024.04.29-11.48.54:150][283]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-11.48.54:815][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8
+[2024.04.29-11.48.54:815][283]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto84E58BF7A44235D712542E28F531F8449.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8.umap'
+[2024.04.29-11.48.54:819][283]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.29-11.48.54:819][283]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-11.48.54:819][283]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto8 is in the /Temp path, will not scan.
+[2024.04.29-11.48.54:819][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.360
+[2024.04.29-11.48.54:819][283]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.360
+[2024.04.29-11.49.11:339][239]LogBlueprint: Warning: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\Essaie_raté\BP_ScaleBomb.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Component Hit (Sphere)  and was replaced as a Custom Event!
+[2024.04.29-11.50.12:747][760]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.50.12:782][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.29-11.50.14:476][850]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.50.14:484][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.50.14:484][850]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:50:14)
+[2024.04.29-11.50.14:485][850]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.50.14:487][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001757s)
+[2024.04.29-11.50.14:487][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001798s)
+[2024.04.29-11.50.14:498][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-11.50.14:503][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.50.14:503][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.50.14:503][850]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.50.14:504][850]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2024.04.29-11.50.14:504][850]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.50.14:504][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.50.14:504][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.50.14:504][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.50.14:504][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.50.14:504][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.50.14:506][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.50.14:520][850]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.50.14:521][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.50.14:521][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.50.14:521][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.50.14:521][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.29-11.50.14:521][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.29-11.50.14:522][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.29-11.50.14:522][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.29-11.50.14:522][850]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.29-11.50.14:522][850]LogAudio: Display: Audio Device (ID: 52) registered with world 'MainWorld'.
+[2024.04.29-11.50.14:522][850]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.29-11.50.14:525][850]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.50.15:049][850]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.50.15
+[2024.04.29-11.50.15:050][850]LogWorld: Bringing up level for play took: 0.002169
+[2024.04.29-11.50.15:052][850]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.04.29-11.50.15:058][850]PIE: Server logged in
+[2024.04.29-11.50.15:059][850]PIE: Play in editor total start time 0,574 seconds.
+[2024.04.29-11.50.19:123][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.50.19:123][867]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.50.19:149][867]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.50.19:149][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.50.19:153][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.50.19:157][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.50.19:171][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.50.19:171][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.29-11.50.19:171][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.29-11.50.19:173][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.29-11.50.19:176][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.50.19:439][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.29-11.50.19:492][868]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.04.29-11.50.19:502][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.29-11.50.30:465][504]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.50.30:512][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.29-11.50.31:884][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.50.31:893][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.50.31:893][571]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:50:31)
+[2024.04.29-11.50.31:893][571]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.50.31:895][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001738s)
+[2024.04.29-11.50.31:895][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001774s)
+[2024.04.29-11.50.31:905][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.29-11.50.31:910][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.50.31:910][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.50.31:911][571]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.50.31:911][571]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2024.04.29-11.50.31:911][571]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.50.31:911][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.50.31:911][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.50.31:911][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.50.31:911][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.50.31:911][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.50.31:913][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.50.31:926][571]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.50.31:926][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.50.31:926][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.50.31:926][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.50.31:927][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.04.29-11.50.31:927][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.04.29-11.50.31:929][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.04.29-11.50.31:929][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.04.29-11.50.31:929][571]LogInit: FAudioDevice initialized with ID 53.
+[2024.04.29-11.50.31:929][571]LogAudio: Display: Audio Device (ID: 53) registered with world 'MainWorld'.
+[2024.04.29-11.50.31:929][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.29-11.50.31:931][571]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.50.32:451][571]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.50.32
+[2024.04.29-11.50.32:453][571]LogWorld: Bringing up level for play took: 0.002318
+[2024.04.29-11.50.32:456][571]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.04.29-11.50.32:459][571]PIE: Server logged in
+[2024.04.29-11.50.32:460][571]PIE: Play in editor total start time 0,567 seconds.
+[2024.04.29-11.50.50:699][824]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=10.97 Y=-149.60 Z=0.00 Location: X=324.13 Y=-2108.94 Z=178.82 Normal: X=-0.98 Y=-0.06 Z=0.20 PenetrationDepth:0.115 Actor:BP_CubeChaos_C_157 Component:GeometryCollectionComponent0 BoneName:None (0 other events since notify)
+[2024.04.29-11.50.53:116][862]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=37.45 Y=109.09 Z=0.00 Location: X=295.70 Y=-8976.80 Z=187.42 Normal: X=0.87 Y=-0.48 Z=0.11 PenetrationDepth:0.185 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_9_2 (0 other events since notify)
+[2024.04.29-11.50.55:590][901]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=43.65 Y=83.28 Z=0.00 Location: X=-57.86 Y=-6453.86 Z=194.20 Normal: X=0.24 Y=-0.97 Z=0.00 PenetrationDepth:0.553 Actor:Baricades_C_3 Component:GeometryCollectionComponent0 BoneName:SM_Cube_9_1 (0 other events since notify)
+[2024.04.29-11.50.58:966][954]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=34.04 Y=35.26 Z=0.00 Location: X=-40.08 Y=-6498.18 Z=192.90 Normal: X=0.15 Y=0.98 Z=0.11 PenetrationDepth:0.070 Actor:Baricades_C_2 Component:GeometryCollectionComponent0 BoneName:SM_Cube_4_1_4 (0 other events since notify)
+[2024.04.29-11.51.03:446][ 22]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=6.14 Y=50.94 Z=0.00 Location: X=-50.62 Y=-6475.91 Z=232.65 Normal: X=0.57 Y=-0.10 Z=0.82 PenetrationDepth:0.882 Actor:Baricades_C_3 Component:GeometryCollectionComponent0 BoneName:SM_Cube_9_1_1 (3 other events since notify)
+[2024.04.29-11.51.06:507][ 68]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=105.49 Y=67.01 Z=0.00 Location: X=147.78 Y=-10432.52 Z=182.53 Normal: X=0.72 Y=0.17 Z=0.67 PenetrationDepth:1.370 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:None (0 other events since notify)
+[2024.04.29-11.51.16:667][221]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=73.30 Y=-94.39 Z=0.00 Location: X=106.61 Y=-2182.41 Z=112.97 Normal: X=0.39 Y=0.69 Z=0.61 PenetrationDepth:1.897 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (0 other events since notify)
+[2024.04.29-11.51.17:727][237]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=28.26 Y=-37.10 Z=0.00 Location: X=110.41 Y=-2176.80 Z=111.87 Normal: X=0.38 Y=0.71 Z=0.59 PenetrationDepth:0.069 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (2 other events since notify)
+[2024.04.29-11.51.18:787][253]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-28.79 Y=-147.21 Z=0.00 Location: X=109.86 Y=-2172.19 Z=110.58 Normal: X=-1.00 Y=-0.04 Z=-0.00 PenetrationDepth:0.031 Actor:BP_CubeChaos_C_158 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (13 other events since notify)
+[2024.04.29-11.51.20:238][296]LogSlate: Window 'BP_Projectiles' being destroyed
+[2024.04.29-11.51.20:437][299]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-10.91 Y=-39.65 Z=0.00 Location: X=105.09 Y=-2167.26 Z=110.92 Normal: X=0.30 Y=0.73 Z=0.61 PenetrationDepth:0.113 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (2 other events since notify)
+[2024.04.29-11.51.24:377][372]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=1.51 Y=51.78 Z=0.00 Location: X=99.97 Y=-2150.53 Z=107.92 Normal: X=0.31 Y=0.73 Z=0.61 PenetrationDepth:0.001 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (2 other events since notify)
+[2024.04.29-11.51.27:421][426]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=103.69 Y=-65.47 Z=0.00 Location: X=104.80 Y=-2152.64 Z=107.40 Normal: X=0.32 Y=0.75 Z=0.57 PenetrationDepth:0.057 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (5 other events since notify)
+[2024.04.29-11.51.28:700][447]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=45.06 Y=-20.87 Z=0.00 Location: X=117.55 Y=-2158.12 Z=109.77 Normal: X=0.33 Y=0.76 Z=0.56 PenetrationDepth:0.037 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (2 other events since notify)
+[2024.04.29-11.51.30:385][473]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=4.71 Y=-70.44 Z=0.00 Location: X=106.06 Y=-2189.52 Z=102.78 Normal: X=-0.98 Y=0.20 Z=0.00 PenetrationDepth:0.266 Actor:BP_CubeChaos_C_158 Component:GeometryCollectionComponent0 BoneName:None (0 other events since notify)
+[2024.04.29-11.51.30:577][476]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=85.09 Y=123.53 Z=0.00 Location: X=-194.55 Y=-2999.34 Z=135.02 Normal: X=0.03 Y=-1.00 Z=0.00 PenetrationDepth:1.650 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (1 other events since notify)
+[2024.04.29-11.51.32:437][505]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=25.25 Y=-42.83 Z=0.00 Location: X=-208.88 Y=-3028.72 Z=104.48 Normal: X=-0.73 Y=0.46 Z=0.51 PenetrationDepth:0.036 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19_1 (4 other events since notify)
+[2024.04.29-11.51.33:471][521]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=102.30 Y=-109.70 Z=0.00 Location: X=-209.11 Y=-3028.88 Z=98.82 Normal: X=-0.79 Y=0.42 Z=0.44 PenetrationDepth:0.083 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19_1 (15 other events since notify)
+[2024.04.29-11.51.34:660][541]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=57.75 Y=-37.98 Z=0.00 Location: X=-214.35 Y=-3027.98 Z=96.46 Normal: X=-0.22 Y=-0.92 Z=0.32 PenetrationDepth:0.035 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (8 other events since notify)
+[2024.04.29-11.51.35:888][562]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=44.44 Y=16.48 Z=0.00 Location: X=-211.66 Y=-3027.82 Z=97.58 Normal: X=-0.14 Y=0.99 Z=-0.00 PenetrationDepth:0.079 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:None (9 other events since notify)
+[2024.04.29-11.51.36:921][578]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=88.30 Y=-50.24 Z=0.00 Location: X=-206.02 Y=-3025.44 Z=97.89 Normal: X=-0.18 Y=-0.89 Z=0.42 PenetrationDepth:0.167 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (12 other events since notify)
+[2024.04.29-11.51.38:021][595]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-6.80 Y=-47.95 Z=0.00 Location: X=-231.96 Y=-3028.13 Z=106.42 Normal: X=0.86 Y=-0.38 Z=-0.35 PenetrationDepth:0.431 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (2 other events since notify)
+[2024.04.29-11.51.38:413][601]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=101.54 Y=-23.33 Z=0.00 Location: X=11.98 Y=-3152.19 Z=200.66 Normal: X=0.68 Y=0.73 Z=-0.00 PenetrationDepth:0.575 Actor:BP_CubeChaos_C_170 Component:GeometryCollectionComponent0 BoneName:None (0 other events since notify)
+[2024.04.29-11.51.39:656][620]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=28.83 Y=-44.01 Z=0.00 Location: X=43.74 Y=-3133.72 Z=201.08 Normal: X=-0.77 Y=-0.30 Z=0.57 PenetrationDepth:0.020 Actor:BP_CubeChaos_C_170 Component:GeometryCollectionComponent0 BoneName:None (2 other events since notify)
+[2024.04.29-11.51.41:807][652]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-26.34 Y=-64.97 Z=0.00 Location: X=-201.16 Y=-3022.00 Z=91.65 Normal: X=-0.10 Y=1.00 Z=-0.00 PenetrationDepth:0.574 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:None (2 other events since notify)
+[2024.04.29-11.51.42:854][668]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-1.11 Y=-150.00 Z=0.00 Location: X=-201.19 Y=-3021.90 Z=91.66 Normal: X=0.92 Y=-0.38 Z=-0.00 PenetrationDepth:0.154 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (17 other events since notify)
+[2024.04.29-11.51.45:980][715]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=37.31 Y=32.68 Z=0.00 Location: X=-185.41 Y=-2997.98 Z=94.64 Normal: X=-0.84 Y=0.43 Z=0.32 PenetrationDepth:2.503 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19_1 (9 other events since notify)
+[2024.04.29-11.51.46:400][721]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-53.86 Y=-140.00 Z=0.00 Location: X=120.40 Y=-3057.49 Z=192.71 Normal: X=-0.89 Y=0.17 Z=0.42 PenetrationDepth:0.019 Actor:BP_CubeChaos_C_170 Component:GeometryCollectionComponent0 BoneName:None (9 other events since notify)
+[2024.04.29-11.51.47:239][734]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-22.04 Y=95.24 Z=0.00 Location: X=-184.51 Y=-2991.35 Z=91.48 Normal: X=0.97 Y=-0.20 Z=-0.17 PenetrationDepth:0.026 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (16 other events since notify)
+[2024.04.29-11.51.47:650][740]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-20.20 Y=-48.01 Z=0.00 Location: X=107.87 Y=-3109.50 Z=206.13 Normal: X=1.00 Y=-0.02 Z=0.00 PenetrationDepth:0.126 Actor:BP_CubeChaos_C_170 Component:GeometryCollectionComponent0 BoneName:None (3 other events since notify)
+[2024.04.29-11.51.48:441][752]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-73.62 Y=68.85 Z=0.00 Location: X=-183.37 Y=-2988.88 Z=91.44 Normal: X=-0.87 Y=0.49 Z=0.00 PenetrationDepth:0.030 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19_1 (16 other events since notify)
+[2024.04.29-11.51.49:181][763]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=66.19 Y=-133.21 Z=0.00 Location: X=102.96 Y=-2289.88 Z=91.67 Normal: X=0.51 Y=0.86 Z=0.06 PenetrationDepth:1.494 Actor:BP_CubeChaos_C_159 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (1 other events since notify)
+[2024.04.29-11.51.49:313][765]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.29-11.51.49:589][769]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=-80.59 Y=71.95 Z=0.00 Location: X=-182.76 Y=-2976.09 Z=91.65 Normal: X=-0.26 Y=-0.96 Z=-0.00 PenetrationDepth:0.002 Actor:BP_CubeChaos_C_169 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (12 other events since notify)
+[2024.04.29-11.51.49:730][771]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1 0 0 0
+[2024.04.29-11.51.50:273][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.29-11.51.51:969][819]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-117.23 Y=49.70 Z=0.00 Location: X=-54.11 Y=-10726.33 Z=124.17 Normal: X=-0.10 Y=-1.00 Z=-0.00 PenetrationDepth:0.043 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_4 (0 other events since notify)
+[2024.04.29-11.51.53:390][853]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=135.92 Y=-63.45 Z=0.00 Location: X=-8.21 Y=-10742.52 Z=102.90 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:0.041 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_4 (3 other events since notify)
+[2024.04.29-11.51.54:410][877]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=19.52 Y=-148.72 Z=0.00 Location: X=-36.41 Y=-10801.78 Z=105.93 Normal: X=-0.93 Y=0.35 Z=0.11 PenetrationDepth:2.643 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19 (4 other events since notify)
+[2024.04.29-11.51.58:701][980]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=149.19 Y=-15.56 Z=0.00 Location: X=-3.60 Y=-10688.43 Z=131.34 Normal: X=-0.20 Y=-0.87 Z=0.45 PenetrationDepth:0.007 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12 (10 other events since notify)
+[2024.04.29-11.52.01:413][ 44]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=121.36 Y=-88.16 Z=0.00 Location: X=337.10 Y=-9657.33 Z=159.13 Normal: X=0.54 Y=0.70 Z=0.46 PenetrationDepth:31.058 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_3_0 (0 other events since notify)
+[2024.04.29-11.52.02:256][ 64]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=135.71 Y=9.88 Z=0.00 Location: X=-16.06 Y=-10699.77 Z=101.24 Normal: X=0.25 Y=-0.97 Z=0.00 PenetrationDepth:1.316 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_11 (0 other events since notify)
+[2024.04.29-11.52.03:294][103]LogSlate: Window 'BP_ScaleBomb' being destroyed
+[2024.04.29-11.52.04:351][143]LogSlate: Window 'BP_ScaleBomb' being destroyed
+[2024.04.29-11.52.05:748][184]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=23.36 Y=-107.54 Z=0.00 Location: X=-32.60 Y=-10803.55 Z=125.43 Normal: X=0.47 Y=-0.17 Z=0.87 PenetrationDepth:0.418 Actor:BP_CubeChaos_C_49 Component:GeometryCollectionComponent0 BoneName:SM_Cube_2 (11 other events since notify)
+[2024.04.29-11.52.06:153][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.52.06:154][195]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.52.06:170][195]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.52.06:170][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.52.06:175][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.52.06:179][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.52.06:190][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.52.06:190][195]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.29-11.52.06:190][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.29-11.52.06:192][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.29-11.52.06:197][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.52.06:400][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.29-11.52.06:456][196]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.04.29-11.52.06:466][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.29-11.52.43:529][410]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.52.43:563][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.29-11.52.45:123][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.52.45:131][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.52.45:131][493]PIE: New page: PIE session: MainWorld (29 avr. 2024 à 15:52:45)
+[2024.04.29-11.52.45:131][493]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.52.45:134][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001610s)
+[2024.04.29-11.52.45:134][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001645s)
+[2024.04.29-11.52.45:145][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.29-11.52.45:151][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.52.45:151][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.52.45:152][493]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.29-11.52.45:152][493]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2024.04.29-11.52.45:152][493]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.52.45:152][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.52.45:152][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.52.45:152][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.52.45:152][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.52.45:152][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.52.45:153][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.52.45:167][493]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.52.45:167][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.52.45:167][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.52.45:167][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.52.45:168][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.04.29-11.52.45:168][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2024.04.29-11.52.45:169][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.04.29-11.52.45:169][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.04.29-11.52.45:169][493]LogInit: FAudioDevice initialized with ID 54.
+[2024.04.29-11.52.45:169][493]LogAudio: Display: Audio Device (ID: 54) registered with world 'MainWorld'.
+[2024.04.29-11.52.45:169][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.29-11.52.45:171][493]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.52.45:689][493]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.29-13.52.45
+[2024.04.29-11.52.45:690][493]LogWorld: Bringing up level for play took: 0.001758
+[2024.04.29-11.52.45:693][493]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2024.04.29-11.52.45:696][493]PIE: Server logged in
+[2024.04.29-11.52.45:696][493]PIE: Play in editor total start time 0,566 seconds.
+[2024.04.29-11.52.55:383][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.52.55:383][616]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.29-11.52.55:411][616]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.52.55:411][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.52.55:415][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.52.55:420][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.52.55:432][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.52.55:432][616]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.29-11.52.55:432][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.29-11.52.55:433][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.29-11.52.55:438][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.52.55:736][616]LogUObjectHash: Compacting FUObjectHashTables data took  20.93ms
+[2024.04.29-11.52.55:808][617]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.04.29-11.52.55:820][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.29-11.52.57:105][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.29-11.52.58:090][689]LogSlate: Window 'Save Content' being destroyed
+[2024.04.29-11.52.58:103][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-11.52.58:146][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.29-11.52.58:814][689]LogSavePackage: Moving output files for package: /Game/LevelDesign/SubLevel/FirstLevel1
+[2024.04.29-11.52.58:815][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1BCFAF03D45DD8C3F9D93A59781AD8EE6.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/SubLevel/FirstLevel1.umap'
+[2024.04.29-11.52.58:822][689]LogFileHelpers: Saving map 'FirstLevel1' took 0.687
+[2024.04.29-11.52.58:833][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.29-11.52.59:511][689]LogSavePackage: Moving output files for package: /Game/LevelDesign/SubLevel/FirstLevel2
+[2024.04.29-11.52.59:511][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2C3399AC14B67DA0BEDEB999ECBB52D10.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/SubLevel/FirstLevel2.umap'
+[2024.04.29-11.52.59:518][689]LogFileHelpers: Saving map 'FirstLevel2' took 0.695
+[2024.04.29-11.52.59:529][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.29-11.53.00:201][689]LogSavePackage: Moving output files for package: /Game/LevelDesign/SubLevel/FirstLevel3
+[2024.04.29-11.53.00:201][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3920C01B740CA2563FFCA06A781D3D958.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/SubLevel/FirstLevel3.umap'
+[2024.04.29-11.53.00:209][689]LogFileHelpers: Saving map 'FirstLevel3' took 0.690
+[2024.04.29-11.53.00:246][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.29-11.53.00:254][689]LogSavePackage: Moving output files for package: /Game/LevelDesign/MainWorld
+[2024.04.29-11.53.00:255][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld6926668C4AF848B820EDC0804585D2C7.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/MainWorld.umap'
+[2024.04.29-11.53.00:262][689]LogFileHelpers: Saving map 'MainWorld' took 0.054
+[2024.04.29-11.53.00:269][689]LogSavePackage: Moving output files for package: /Game/Fracture/Essaie_raté/BP_Projectiles
+[2024.04.29-11.53.00:269][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles5847743D42847AF5492D98BC01CB7EEE.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/Essaie_raté/BP_Projectiles.uasset'
+[2024.04.29-11.53.00:283][689]LogSavePackage: Moving output files for package: /Game/Fracture/Essaie_raté/BP_ScaleBomb
+[2024.04.29-11.53.00:284][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ScaleBombB3B1BE7848CAD0574E450D8F34EE13CF.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/Essaie_raté/BP_ScaleBomb.uasset'
+[2024.04.29-11.53.00:320][689]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.29-11.53.00:320][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacterEAF1C2D141C4E327C7796D9E08909D1E.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.29-11.53.00:321][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pnj/IA_Pnj" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Pnj/IA_Pnj.uasset" SILENT=true
+[2024.04.29-11.53.00:330][689]LogSavePackage: Moving output files for package: /Game/Pnj/IA_Pnj
+[2024.04.29-11.53.00:331][689]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/IA_Pnj99B5505F4910F8FA482CAB83386995DD.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Pnj/IA_Pnj.uasset'
+[2024.04.29-11.53.00:339][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.23 sec (total: 5.99 sec)
+[2024.04.29-11.53.00:408][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.53.00:416][689]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.29-11.53.00:417][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.53.00:417][689]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.53.00:736][689]LogMaterial: LandscapeMaterialInstanceConstant_0-SM6-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM6_1677771108__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_4170038053_SLWDPDB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EAC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43165D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_077204F3CE0C4459388557E81DE05752C3D36790F47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523ACE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43168A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_035066ECBC7ACAFB429F4F029D7F02660C69AAB0A52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0E427B9138BA536F768FD73ED5EBD629434FE712F591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_077204F3CE0C4459388557E81DE05752C3D36790FB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F1EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_06124D99229D9D82CAA55E03425A9B9C0FD582F11CC43E529207B75738B69C90E919763AEC6FA2C8A_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F44B0907314254191B2CD2AB68713039EAE1FF9DD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316898AEA5165589EBF175921373DEB413FB7F34F22_FLumenCardPS<true>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EA41F02910936F61C1A29244FA8FAF42D1FD72AAB7_TLightMapDensityPSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523AED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431618CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431626DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F111D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431623AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B1AB185D497ECF113738AA51019A3FA6D2691650F_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431673C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523AE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0CCFA47BD7FA67195CAFC899931E16F7252214F020074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431634F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AE9B320E6FDD6F686446B30A2D13BF882DEB44F5B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703FAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0FB485F5439BD76F00750BD2209A5467644596B0496E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6CDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipelineDD15B90C8D28726D03CD8AD4366F13DECAE368AB_DepthNoPixelPipelineAE9B320E6FDD6F686446B30A2D13BF882DEB44F5_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_Nanite::FVertexFactory61FC001D468CB473F21C182F6ECFAE57E566561D_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE2160101414144444144414441414141414444474010101010101311130010101424464512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101013034343444144444444414151515101030010131151616161602404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221444141444444424141414441444141414141313131313131314141444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441444141314143244444444441412143434141413141414141412241434342424242424241434343414341414441313131313144424441214144313131414444444341212121212434414144444444142222121644210221212121213144444444444444405101510151011640444414150051515151616161616101010101015151121010011014101010101010101010151010101010103044510110101010101010101010101010101010101010101010106001404044414040421213131344141010101016101010101010101310100024313131416161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040404341444331433144433143314341434143314331314331432142413141414131314411144246444444044464444444444044401410101510151015100110101010101010101010101010100022224342423131313131100004441404041412101010000101010101010144444242313101014044444444444444444444444444444444444444444444444444444444444444444444444444040121213131222222220101010101011010101010404424241414121010101010101010141410101510101010004044444451510101000404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121414444444241414143414141414141414141313131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424242424242414343434143414144414141313131343244414141244141313134444443414141212124212131444444444141010151515151515151515151010101010101010101515151510101015101510151015101510151010101010101015101615101510151015101510151015101510151015101313151515151015101510151015101015101510164614141540141510101616173634043131313131313131442222314141410101010101110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000A0000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.04.29-11.53.01:955][689]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.53.01:955][689]LogWorldPartition: Display: WorldPartition initialize took 1.53 sec (total: 1.83 sec)
+[2024.04.29-11.53.01:979][689]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Fracture/TestFractureMap.TestFractureMap
+[2024.04.29-11.53.01:980][689]Cmd: MAP LOAD FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/TestFractureMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.29-11.53.01:980][689]LightingResults: New page: Lighting Build
+[2024.04.29-11.53.02:003][689]LoadErrors: New page: Loading map: TestFractureMap.umap
+[2024.04.29-11.53.02:082][689]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.02:083][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.02:083][689]LogWorld: UWorld::CleanupWorld for FirstLevel2, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.02:083][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.02:083][689]LogWorld: UWorld::CleanupWorld for FirstLevel1, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.02:083][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.02:083][689]LogWorld: UWorld::CleanupWorld for FirstLevel3, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.02:083][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.02:086][689]MapCheck: New page: Map Check
+[2024.04.29-11.53.02:086][689]LightingResults: New page: Lighting Build
+[2024.04.29-11.53.02:099][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.53.02:105][689]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2024.04.29-11.53.02:111][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.29-11.53.02:119][689]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.02:120][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.02:123][689]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.53.02:153][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.29-11.53.02:164][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.53.02:174][689]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestFractureMap'.
+[2024.04.29-11.53.02:174][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.53.02:175][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.53.02:175][689]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.53.02:175][689]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.29-11.53.02:175][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.53.02:175][689]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.53.02:191][689]LogMaterial: LandscapeMaterialInstanceConstant_0-SM6-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM6_1677771108__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_4170038053_SLWDPDB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EAC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43165D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_077204F3CE0C4459388557E81DE05752C3D36790F47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523ACE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43168A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_035066ECBC7ACAFB429F4F029D7F02660C69AAB0A52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0E427B9138BA536F768FD73ED5EBD629434FE712F591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_077204F3CE0C4459388557E81DE05752C3D36790FB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F1EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_06124D99229D9D82CAA55E03425A9B9C0FD582F11CC43E529207B75738B69C90E919763AEC6FA2C8A_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F44B0907314254191B2CD2AB68713039EAE1FF9DD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316898AEA5165589EBF175921373DEB413FB7F34F22_FLumenCardPS<true>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EA41F02910936F61C1A29244FA8FAF42D1FD72AAB7_TLightMapDensityPSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523AED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431618CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431626DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F111D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431623AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B1AB185D497ECF113738AA51019A3FA6D2691650F_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431673C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523AE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0CCFA47BD7FA67195CAFC899931E16F7252214F020074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431634F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AE9B320E6FDD6F686446B30A2D13BF882DEB44F5B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703FAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0FB485F5439BD76F00750BD2209A5467644596B0496E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6CDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipelineDD15B90C8D28726D03CD8AD4366F13DECAE368AB_DepthNoPixelPipelineAE9B320E6FDD6F686446B30A2D13BF882DEB44F5_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_Nanite::FVertexFactory61FC001D468CB473F21C182F6ECFAE57E566561D_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE2160101414144444144414441414141414444474010101010101311130010101424464512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101013034343444144444444414151515101030010131151616161602404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221444141444444424141414441444141414141313131313131314141444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441444141314143244444444441412143434141413141414141412241434342424242424241434343414341414441313131313144424441214144313131414444444341212121212434414144444444142222121644210221212121213144444444444444405101510151011640444414150051515151616161616101010101015151121010011014101010101010101010151010101010103044510110101010101010101010101010101010101010101010106001404044414040421213131344141010101016101010101010101310100024313131416161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040404341444331433144433143314341434143314331314331432142413141414131314411144246444444044464444444444044401410101510151015100110101010101010101010101010100022224342423131313131100004441404041412101010000101010101010144444242313101014044444444444444444444444444444444444444444444444444444444444444444444444444040121213131222222220101010101011010101010404424241414121010101010101010141410101510101010004044444451510101000404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121414444444241414143414141414141414141313131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424242424242414343434143414144414141313131343244414141244141313134444443414141212124212131444444444141010151515151515151515151010101010101010101515151510101015101510151015101510151010101010101015101615101510151015101510151015101510151015101313151515151015101510151015101015101510164614141540141510101616173634043131313131313131442222314141410101010101110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000A0000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.04.29-11.53.02:314][689]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.53.02:314][689]LogWorldPartition: Display: WorldPartition initialize took 139 ms (total: 1.96 sec)
+[2024.04.29-11.53.02:423][689]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.29-11.53.02:443][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.29-11.53.02:450][689]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.29-11.53.02:453][689]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,203ms to complete.
+[2024.04.29-11.53.02:471][689]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.29-11.53.02:471][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/Essaie_raté/BP_Projectiles.BP_Projectiles
+[2024.04.29-11.53.02:471][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/Essaie_raté/BP_ScaleBomb.BP_ScaleBomb
+[2024.04.29-11.53.02:471][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.29-11.53.02:471][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pnj/IA_Pnj.IA_Pnj
+[2024.04.29-11.53.02:630][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.29-11.53.09:698][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.53.09:705][884]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-11.53.09:707][884]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-11.53.09:729][884]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 21 ms
+[2024.04.29-11.53.09:729][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.53.09:729][884]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 15:53:09)
+[2024.04.29-11.53.09:729][884]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.53.09:789][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059509s)
+[2024.04.29-11.53.09:789][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.059570s)
+[2024.04.29-11.53.09:801][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.29-11.53.09:803][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.53.09:803][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.53.09:804][884]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.53.09:804][884]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-11.53.09:804][884]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.53.09:804][884]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.53.09:805][884]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-11.53.09:822][884]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.53.09:822][884]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 1.98 sec)
+[2024.04.29-11.53.09:823][884]LogPlayLevel: PIE: World Init took: (0.018637s)
+[2024.04.29-11.53.09:823][884]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.53.09:823][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.53.09:823][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.53.09:823][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.53.09:823][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.53.09:823][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.53.09:824][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.53.09:836][884]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.53.09:838][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.53.09:838][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.53.09:838][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.53.09:839][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.04.29-11.53.09:839][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.04.29-11.53.09:841][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.04.29-11.53.09:841][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.04.29-11.53.09:841][884]LogInit: FAudioDevice initialized with ID 55.
+[2024.04.29-11.53.09:841][884]LogAudio: Display: Audio Device (ID: 55) registered with world 'TestFractureMap'.
+[2024.04.29-11.53.09:841][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.29-11.53.09:842][884]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.53.09:878][884]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-13.53.09
+[2024.04.29-11.53.09:878][884]LogWorld: Bringing up level for play took: 0.035949
+[2024.04.29-11.53.09:880][884]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.04.29-11.53.09:885][884]PIE: Server logged in
+[2024.04.29-11.53.09:886][884]PIE: Play in editor total start time 0,18 seconds.
+[2024.04.29-11.53.51:075][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.53.51:075][649]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.53.51:076][649]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.53.51:083][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.51:084][649]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.53.51:089][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.53.51:096][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.53.51:127][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.53.51:213][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.29-11.53.51:213][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.29-11.53.51:215][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.29-11.53.51:273][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.29-11.53.51:293][650]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.04.29-11.55.08:026][253]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.29-11.55.18:469][871]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-11.55.24:273][201]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.29-11.55.31:835][641]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.55.31:875][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.29-11.55.41:807][220]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.55.41:829][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.29-11.55.43:004][286]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.55.43:011][286]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-11.55.43:011][286]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-11.55.43:014][286]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 24 ms)
+[2024.04.29-11.55.43:014][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.55.43:014][286]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 15:55:43)
+[2024.04.29-11.55.43:014][286]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.55.43:070][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055250s)
+[2024.04.29-11.55.43:070][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.055291s)
+[2024.04.29-11.55.43:083][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.29-11.55.43:087][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.55.43:087][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.55.43:087][286]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.55.43:088][286]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-11.55.43:088][286]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.55.43:088][286]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.55.43:088][286]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-11.55.43:105][286]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.55.43:105][286]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.00 sec)
+[2024.04.29-11.55.43:105][286]LogPlayLevel: PIE: World Init took: (0.018496s)
+[2024.04.29-11.55.43:105][286]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.55.43:105][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.55.43:105][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.55.43:106][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.55.43:106][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.55.43:106][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.55.43:108][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.55.43:121][286]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.55.43:122][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.55.43:122][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.55.43:122][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.55.43:123][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.04.29-11.55.43:123][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.04.29-11.55.43:124][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.04.29-11.55.43:124][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.04.29-11.55.43:124][286]LogInit: FAudioDevice initialized with ID 56.
+[2024.04.29-11.55.43:124][286]LogAudio: Display: Audio Device (ID: 56) registered with world 'TestFractureMap'.
+[2024.04.29-11.55.43:124][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.29-11.55.43:126][286]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.55.43:154][286]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-13.55.43
+[2024.04.29-11.55.43:154][286]LogWorld: Bringing up level for play took: 0.027228
+[2024.04.29-11.55.43:155][286]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.04.29-11.55.43:160][286]PIE: Server logged in
+[2024.04.29-11.55.43:161][286]PIE: Play in editor total start time 0,15 seconds.
+[2024.04.29-11.56.07:813][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.56.07:813][135]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.56.07:814][135]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.56.07:820][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.56.07:821][135]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.56.07:824][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.56.07:830][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.56.07:873][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.56.07:875][135]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.29-11.56.07:875][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.29-11.56.07:877][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.29-11.56.07:881][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.56.07:933][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2024.04.29-11.56.07:949][136]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.04.29-11.56.43:270][255]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.56.43:291][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.29-11.56.44:778][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.56.44:784][338]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-11.56.44:785][338]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-11.56.44:787][338]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 26 ms)
+[2024.04.29-11.56.44:788][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.56.44:788][338]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 15:56:44)
+[2024.04.29-11.56.44:788][338]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.56.44:843][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055988s)
+[2024.04.29-11.56.44:843][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.056020s)
+[2024.04.29-11.56.44:855][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.29-11.56.44:859][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.56.44:859][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.56.44:859][338]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.56.44:859][338]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-11.56.44:859][338]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.56.44:859][338]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.56.44:859][338]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-11.56.44:877][338]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.56.44:877][338]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.02 sec)
+[2024.04.29-11.56.44:877][338]LogPlayLevel: PIE: World Init took: (0.018504s)
+[2024.04.29-11.56.44:877][338]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.56.44:877][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.56.44:877][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.56.44:877][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.56.44:877][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.56.44:877][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.56.44:879][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.56.44:892][338]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.56.44:892][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.56.44:892][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.56.44:892][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.56.44:893][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.04.29-11.56.44:893][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.04.29-11.56.44:894][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.04.29-11.56.44:894][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.04.29-11.56.44:894][338]LogInit: FAudioDevice initialized with ID 57.
+[2024.04.29-11.56.44:895][338]LogAudio: Display: Audio Device (ID: 57) registered with world 'TestFractureMap'.
+[2024.04.29-11.56.44:895][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.29-11.56.44:897][338]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.56.44:925][338]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-13.56.44
+[2024.04.29-11.56.44:925][338]LogWorld: Bringing up level for play took: 0.027967
+[2024.04.29-11.56.44:928][338]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.04.29-11.56.44:931][338]PIE: Server logged in
+[2024.04.29-11.56.44:932][338]PIE: Play in editor total start time 0,147 seconds.
+[2024.04.29-11.57.07:913][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.57.07:913][105]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.57.07:914][105]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.57.07:920][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.57.07:921][105]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.57.07:923][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.57.07:929][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.57.07:981][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.57.07:981][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.29-11.57.07:981][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.29-11.57.07:983][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.29-11.57.07:988][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.57.08:035][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.29-11.57.08:053][106]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.04.29-11.57.37:604][865]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-11.57.37:651][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.29-11.57.38:795][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.57.38:804][924]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-11.57.38:804][924]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-11.57.38:805][924]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 29 ms)
+[2024.04.29-11.57.38:805][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.57.38:805][924]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 15:57:38)
+[2024.04.29-11.57.38:805][924]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.57.38:861][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055477s)
+[2024.04.29-11.57.38:861][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.055509s)
+[2024.04.29-11.57.38:874][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.29-11.57.38:879][924]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.57.38:879][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.57.38:880][924]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.57.38:880][924]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-11.57.38:880][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.57.38:880][924]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.57.38:880][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-11.57.38:898][924]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.57.38:898][924]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.03 sec)
+[2024.04.29-11.57.38:898][924]LogPlayLevel: PIE: World Init took: (0.019063s)
+[2024.04.29-11.57.38:898][924]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.57.38:898][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.57.38:898][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.57.38:899][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.57.38:899][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.57.38:899][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.57.38:900][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.57.38:914][924]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.57.38:914][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.57.38:914][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.57.38:914][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.57.38:914][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.04.29-11.57.38:914][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.04.29-11.57.38:916][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.04.29-11.57.38:916][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.04.29-11.57.38:916][924]LogInit: FAudioDevice initialized with ID 58.
+[2024.04.29-11.57.38:916][924]LogAudio: Display: Audio Device (ID: 58) registered with world 'TestFractureMap'.
+[2024.04.29-11.57.38:916][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.29-11.57.38:918][924]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.57.38:946][924]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-13.57.38
+[2024.04.29-11.57.38:946][924]LogWorld: Bringing up level for play took: 0.027183
+[2024.04.29-11.57.38:948][924]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.04.29-11.57.38:953][924]PIE: Server logged in
+[2024.04.29-11.57.38:954][924]PIE: Play in editor total start time 0,15 seconds.
+[2024.04.29-11.57.46:873][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.57.46:873][210]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.57.46:874][210]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.57.46:879][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.57.46:879][210]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.57.46:883][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.57.46:886][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.57.46:900][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.57.46:901][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.29-11.57.46:901][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.29-11.57.46:902][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.29-11.57.46:906][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.57.46:953][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.29-11.57.46:970][211]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.04.29-11.57.54:819][677]BlueprintLog: New page: Compile BP_ScaleBomb
+[2024.04.29-11.57.54:851][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.29-11.57.56:224][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-11.57.56:233][751]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-11.57.56:233][751]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-11.57.56:237][751]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 4 ms (total: 33 ms)
+[2024.04.29-11.57.56:237][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-11.57.56:237][751]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 15:57:56)
+[2024.04.29-11.57.56:237][751]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.57.56:295][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057407s)
+[2024.04.29-11.57.56:295][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.057446s)
+[2024.04.29-11.57.56:308][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.29-11.57.56:313][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-11.57.56:313][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-11.57.56:313][751]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-11.57.56:313][751]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-11.57.56:313][751]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-11.57.56:315][751]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-11.57.56:315][751]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-11.57.56:332][751]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-11.57.56:332][751]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.05 sec)
+[2024.04.29-11.57.56:332][751]LogPlayLevel: PIE: World Init took: (0.019148s)
+[2024.04.29-11.57.56:332][751]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-11.57.56:332][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-11.57.56:332][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-11.57.56:332][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-11.57.56:332][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-11.57.56:332][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-11.57.56:335][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-11.57.56:348][751]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-11.57.56:348][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-11.57.56:348][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-11.57.56:348][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-11.57.56:349][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.04.29-11.57.56:349][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.04.29-11.57.56:350][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.04.29-11.57.56:350][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.04.29-11.57.56:350][751]LogInit: FAudioDevice initialized with ID 59.
+[2024.04.29-11.57.56:350][751]LogAudio: Display: Audio Device (ID: 59) registered with world 'TestFractureMap'.
+[2024.04.29-11.57.56:350][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.04.29-11.57.56:353][751]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-11.57.56:381][751]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-13.57.56
+[2024.04.29-11.57.56:382][751]LogWorld: Bringing up level for play took: 0.027780
+[2024.04.29-11.57.56:384][751]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.04.29-11.57.56:388][751]PIE: Server logged in
+[2024.04.29-11.57.56:389][751]PIE: Play in editor total start time 0,156 seconds.
+[2024.04.29-11.58.03:703][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.58.03:703][973]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-11.58.03:703][973]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-11.58.03:709][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.58.03:709][973]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-11.58.03:711][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-11.58.03:715][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-11.58.03:735][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-11.58.03:735][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.04.29-11.58.03:735][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.04.29-11.58.03:738][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.04.29-11.58.03:742][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-11.58.03:795][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.04.29-11.58.03:812][974]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.04.29-12.02.14:329][650]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-12.02.14:392][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.29-12.02.24:189][213]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-12.02.24:238][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.29-12.02.27:180][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-12.02.27:188][379]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-12.02.27:188][379]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-12.02.27:190][379]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 35 ms)
+[2024.04.29-12.02.27:191][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-12.02.27:191][379]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 16:02:27)
+[2024.04.29-12.02.27:191][379]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-12.02.27:247][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056914s)
+[2024.04.29-12.02.27:247][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.056959s)
+[2024.04.29-12.02.27:258][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.29-12.02.27:263][379]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-12.02.27:264][379]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-12.02.27:264][379]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-12.02.27:264][379]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-12.02.27:264][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-12.02.27:264][379]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-12.02.27:264][379]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-12.02.27:281][379]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-12.02.27:281][379]LogWorldPartition: Display: WorldPartition initialize took 16 ms (total: 2.07 sec)
+[2024.04.29-12.02.27:281][379]LogPlayLevel: PIE: World Init took: (0.018231s)
+[2024.04.29-12.02.27:281][379]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-12.02.27:281][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-12.02.27:281][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-12.02.27:282][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-12.02.27:282][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-12.02.27:282][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-12.02.27:284][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-12.02.27:297][379]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-12.02.27:297][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-12.02.27:297][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-12.02.27:297][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-12.02.27:298][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.04.29-12.02.27:298][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.04.29-12.02.27:299][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.04.29-12.02.27:299][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.04.29-12.02.27:299][379]LogInit: FAudioDevice initialized with ID 60.
+[2024.04.29-12.02.27:299][379]LogAudio: Display: Audio Device (ID: 60) registered with world 'TestFractureMap'.
+[2024.04.29-12.02.27:299][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.04.29-12.02.27:302][379]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-12.02.27:329][379]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-14.02.27
+[2024.04.29-12.02.27:330][379]LogWorld: Bringing up level for play took: 0.026718
+[2024.04.29-12.02.27:332][379]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2024.04.29-12.02.27:337][379]PIE: Server logged in
+[2024.04.29-12.02.27:337][379]PIE: Play in editor total start time 0,149 seconds.
+[2024.04.29-12.02.30:653][512]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.32:776][589]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.34:149][640]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.39:278][848]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.42:065][960]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.44:977][ 76]PIE: Warning: BP_Projectiles_C_9.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.45:436][ 94]PIE: Warning: BP_Projectiles_C_10.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.49:910][271]PIE: Warning: BP_Projectiles_C_11.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.51:187][321]PIE: Warning: BP_Projectiles_C_12.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.52:634][377]PIE: Warning: BP_Projectiles_C_13.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.55:725][490]PIE: Warning: BP_Projectiles_C_14.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.58:371][587]PIE: Warning: BP_Projectiles_C_15.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.02.59:496][623]PIE: Warning: BP_Projectiles_C_16.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.00:357][651]PIE: Warning: BP_Projectiles_C_17.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.00:904][669]PIE: Warning: BP_Projectiles_C_18.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.01:475][688]PIE: Warning: BP_Projectiles_C_19.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.03:038][739]PIE: Warning: BP_Projectiles_C_20.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.04:628][792]PIE: Warning: BP_Projectiles_C_21.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.05:950][835]PIE: Warning: BP_Projectiles_C_22.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.07:825][894]PIE: Warning: BP_Projectiles_C_23.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.10:093][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-12.03.10:093][966]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-12.03.10:095][966]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-12.03.10:101][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-12.03.10:102][966]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-12.03.10:105][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-12.03.10:113][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-12.03.10:169][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.29-12.03.10:169][966]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.04.29-12.03.10:169][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.04.29-12.03.10:171][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.04.29-12.03.10:176][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-12.03.10:250][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.04.29-12.03.10:300][967]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2024.04.29-12.03.15:689][284]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.29-12.03.15:742][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.29-12.03.17:082][354]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.29-12.03.17:089][354]LogContentBundle: [TestFractureMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.29-12.03.17:089][354]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' started...
+[2024.04.29-12.03.17:091][354]LogWorldPartition: Display: GenerateStreaming for 'TestFractureMap' took 2 ms (total: 38 ms)
+[2024.04.29-12.03.17:092][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-12.03.17:092][354]PIE: New page: PIE session: TestFractureMap (29 avr. 2024 à 16:03:17)
+[2024.04.29-12.03.17:092][354]LogPlayLevel: Creating play world package: /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-12.03.17:150][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057770s)
+[2024.04.29-12.03.17:150][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fracture/TestFractureMap.TestFractureMap to /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap (0.057828s)
+[2024.04.29-12.03.17:161][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.29-12.03.17:166][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-12.03.17:166][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-12.03.17:166][354]LogAIModule: Creating AISystem for world TestFractureMap
+[2024.04.29-12.03.17:167][354]LogWorldPartition: ULevel::OnLevelLoaded(TestFractureMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.29-12.03.17:167][354]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.29-12.03.17:167][354]LogWorldPartition: UWorldPartition::Initialize : World = TestFractureMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.29-12.03.17:167][354]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.29-12.03.17:185][354]LogContentBundle: [TestFractureMap(Standalone)] Creating new contrainer.
+[2024.04.29-12.03.17:185][354]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.09 sec)
+[2024.04.29-12.03.17:185][354]LogPlayLevel: PIE: World Init took: (0.018572s)
+[2024.04.29-12.03.17:185][354]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-12.03.17:185][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-12.03.17:185][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-12.03.17:186][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-12.03.17:186][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-12.03.17:186][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-12.03.17:187][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-12.03.17:201][354]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.29-12.03.17:201][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-12.03.17:201][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-12.03.17:201][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-12.03.17:202][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.04.29-12.03.17:202][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2024.04.29-12.03.17:203][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.04.29-12.03.17:203][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.04.29-12.03.17:203][354]LogInit: FAudioDevice initialized with ID 61.
+[2024.04.29-12.03.17:203][354]LogAudio: Display: Audio Device (ID: 61) registered with world 'TestFractureMap'.
+[2024.04.29-12.03.17:203][354]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.04.29-12.03.17:206][354]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.29-12.03.17:232][354]LogWorld: Bringing World /Game/Fracture/UEDPIE_0_TestFractureMap.TestFractureMap up for play (max tick rate 60) at 2024.04.29-14.03.17
+[2024.04.29-12.03.17:232][354]LogWorld: Bringing up level for play took: 0.026130
+[2024.04.29-12.03.17:235][354]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.04.29-12.03.17:238][354]PIE: Server logged in
+[2024.04.29-12.03.17:239][354]PIE: Play in editor total start time 0,149 seconds.
+[2024.04.29-12.03.19:463][431]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.22:631][535]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.24:743][606]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.26:652][669]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.27:891][709]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.29:327][757]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.36:022][ 15]PIE: Warning: BP_Projectiles_C_14.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.36:934][ 50]PIE: Warning: BP_Projectiles_C_15.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.37:601][ 76]PIE: Warning: BP_Projectiles_C_16.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.38:588][115]PIE: Warning: BP_Projectiles_C_17.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.29-12.03.43:104][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-12.03.43:104][295]LogWorld: BeginTearingDown for /Game/Fracture/UEDPIE_0_TestFractureMap
+[2024.04.29-12.03.43:105][295]LogWorld: UWorld::CleanupWorld for TestFractureMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-12.03.43:110][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-12.03.43:110][295]LogContentBundle: [TestFractureMap(Standalone)] Deleting container.
+[2024.04.29-12.03.43:113][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-12.03.43:120][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-12.03.43:140][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-12.03.43:187][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.04.29-12.03.43:187][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.04.29-12.03.43:189][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.04.29-12.03.43:241][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.04.29-12.03.43:291][296]LogPlayLevel: Display: Destroying online subsystem :Context_85
