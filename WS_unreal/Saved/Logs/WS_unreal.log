@@ -4222,3 +4222,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.30-11.48.02:541][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2024.04.30-11.48.02:611][342]LogPlayLevel: Display: Destroying online subsystem :Context_63
 [2024.04.30-11.48.02:621][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.30-11.50.36:772][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.30-11.50.37:477][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7
+[2024.04.30-11.50.37:478][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto7E7C67B7E450B205F90D44282921DA958.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7.umap'
+[2024.04.30-11.50.37:479][443]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.30-11.50.38:149][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7
+[2024.04.30-11.50.38:149][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto7D8F6F0DC4BAC3867AE28A684CEFAAD76.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7.umap'
+[2024.04.30-11.50.38:153][443]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.30-11.50.38:828][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7
+[2024.04.30-11.50.38:828][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto77E843F444C36F3A1C70B85A53EC1E034.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7.umap'
+[2024.04.30-11.50.38:831][443]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.30-11.50.38:831][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 2.070
+[2024.04.30-11.50.38:831][443]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.070
+[2024.04.30-11.50.38:832][443]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.30-11.50.38:832][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-11.50.38:880][443]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.04.30-11.50.38:891][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.30-11.50.38:891][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.30-11.50.38:917][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.04.30-11.50.38:918][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ThirdPersonCharacter_Auto7E7AF414F434F554EB1F4F2BEA3B81610.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.04.30-11.50.38:919][443]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Fracture/BP_Projectiles] ([2] browsable assets)...
+[2024.04.30-11.50.38:924][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fracture/BP_Projectiles.BP_Projectiles]
+[2024.04.30-11.50.38:924][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/BP_Projectiles]
+[2024.04.30-11.50.38:931][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/BP_Projectiles_Auto7
+[2024.04.30-11.50.38:931][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto70DB6383941CD12DC91CB168E9B6E65C2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/BP_Projectiles_Auto7.uasset'
+[2024.04.30-11.50.38:933][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/Chaos_BP/Voiture] ([2] browsable assets)...
+[2024.04.30-11.50.38:938][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fracture/Chaos_BP/Voiture.Voiture]
+[2024.04.30-11.50.38:938][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Chaos_BP/Voiture]
+[2024.04.30-11.50.38:943][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Chaos_BP/Voiture_Auto7
+[2024.04.30-11.50.38:943][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Voiture_Auto75ED0CBC541A8C07778F426989CF15921.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Chaos_BP/Voiture_Auto7.uasset'
+[2024.04.30-11.50.38:945][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/Chaos_BP/Baricades] ([2] browsable assets)...
+[2024.04.30-11.50.38:950][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fracture/Chaos_BP/Baricades.Baricades]
+[2024.04.30-11.50.38:950][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Chaos_BP/Baricades]
+[2024.04.30-11.50.38:955][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Chaos_BP/Baricades_Auto7
+[2024.04.30-11.50.38:955][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Baricades_Auto715BB40D0476F298856A626BC32EF1750.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Chaos_BP/Baricades_Auto7.uasset'
+[2024.04.30-11.50.38:956][443]LogFileHelpers: Auto-saving content packages took 0.125
