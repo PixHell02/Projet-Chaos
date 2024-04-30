@@ -4257,3 +4257,528 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.30-11.50.38:955][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Chaos_BP/Baricades_Auto7
 [2024.04.30-11.50.38:955][443]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Baricades_Auto715BB40D0476F298856A626BC32EF1750.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Chaos_BP/Baricades_Auto7.uasset'
 [2024.04.30-11.50.38:956][443]LogFileHelpers: Auto-saving content packages took 0.125
+[2024.04.30-11.51.38:872][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-11.51.38:881][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-11.51.38:881][738]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 15:51:38)
+[2024.04.30-11.51.38:881][738]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-11.51.38:883][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001757s)
+[2024.04.30-11.51.38:883][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001790s)
+[2024.04.30-11.51.38:893][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.30-11.51.38:894][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-11.51.38:894][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-11.51.38:895][738]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-11.51.38:895][738]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2024.04.30-11.51.38:895][738]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-11.51.38:895][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-11.51.38:895][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-11.51.38:896][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-11.51.38:896][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-11.51.38:896][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-11.51.38:898][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-11.51.38:911][738]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-11.51.38:911][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-11.51.38:911][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-11.51.38:911][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-11.51.38:912][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.04.30-11.51.38:912][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.04.30-11.51.38:914][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.04.30-11.51.38:914][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.04.30-11.51.38:914][738]LogInit: FAudioDevice initialized with ID 34.
+[2024.04.30-11.51.38:914][738]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainWorld'.
+[2024.04.30-11.51.38:914][738]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.30-11.51.38:917][738]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-11.51.39:351][738]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-13.51.39
+[2024.04.30-11.51.39:353][738]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.04.30-11.51.39:355][738]LogWorld: Bringing up level for play took: 0.004038
+[2024.04.30-11.51.39:358][738]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-11.51.39:358][738]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-11.51.39:358][738]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-11.51.39:358][738]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-11.51.39:358][738]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-11.51.39:358][738]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2024.04.30-11.51.39:364][738]PIE: Server logged in
+[2024.04.30-11.51.39:365][738]PIE: Play in editor total start time 0,484 seconds.
+[2024.04.30-11.51.42:707][904]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.51.43:835][972]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.51.43:835][972]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.51.43:861][973]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.51.45:037][ 44]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.51.45:037][ 44]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.51.45:139][ 49]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.51.50:397][363]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-17.17 Y=-18.17 Z=0.00 Location: X=-448.95 Y=-294.25 Z=191.80 Normal: X=-0.51 Y=0.86 Z=-0.00 PenetrationDepth:0.017 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:SM_Cube_0 (0 other events since notify)
+[2024.04.30-11.51.54:149][588]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.51.54:149][588]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.51.54:242][593]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.01:021][999]PIE: Warning: BP_Projectiles_C_4.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.01:848][ 49]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.01:848][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.01:922][ 53]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.03:792][165]PIE: Warning: BP_Projectiles_C_6.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.04:586][213]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.04:586][213]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.04:761][223]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.05:490][267]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.05:490][267]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.05:698][279]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.06:275][314]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.06:275][314]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.06:549][330]PIE: Warning: BP_Projectiles_C_9.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.08:673][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-11.52.08:673][455]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-11.52.08:683][455]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.52.08:683][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.52.08:684][455]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2024.04.30-11.52.08:684][455]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2024.04.30-11.52.08:684][455]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2024.04.30-11.52.08:686][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-11.52.08:690][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.52.08:703][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-11.52.08:704][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.30-11.52.08:704][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.30-11.52.08:706][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.30-11.52.08:743][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.04.30-11.52.08:817][456]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.04.30-11.52.08:829][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.30-11.52.17:992][997]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.17:992][997]LogChaos: NewSimplicial: InitialSize: 131, ImplicitExterior: 0, FullCopy: 1, FinalSize: 47
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 147, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 60, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 400, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 117, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 15, ImplicitExterior: 0, FullCopy: 1, FinalSize: 11
+[2024.04.30-11.52.17:993][997]LogChaos: NewSimplicial: InitialSize: 26, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 194, ImplicitExterior: 0, FullCopy: 1, FinalSize: 49
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 140, ImplicitExterior: 0, FullCopy: 1, FinalSize: 43
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 28, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 129, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.17:994][997]LogChaos: NewSimplicial: InitialSize: 37, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 16
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 639, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 68, ImplicitExterior: 0, FullCopy: 1, FinalSize: 28
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 99, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.17:995][997]LogChaos: NewSimplicial: InitialSize: 72, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 249, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 98, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 89, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.17:996][997]LogChaos: NewSimplicial: InitialSize: 18, ImplicitExterior: 0, FullCopy: 1, FinalSize: 12
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 336, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 115, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 79, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.17:997][997]LogChaos: NewSimplicial: InitialSize: 58, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 360, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 32, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 116, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.17:998][997]LogChaos: NewSimplicial: InitialSize: 50, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 49, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 127, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 404, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.17:999][997]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 15
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 81, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 17
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 345, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 63, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.18:000][997]LogChaos: NewSimplicial: InitialSize: 34, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 61, ImplicitExterior: 0, FullCopy: 1, FinalSize: 27
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 141, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 17, ImplicitExterior: 0, FullCopy: 1, FinalSize: 9
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 48, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 101, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 39, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 240, ImplicitExterior: 0, FullCopy: 1, FinalSize: 55
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 59, ImplicitExterior: 0, FullCopy: 1, FinalSize: 26
+[2024.04.30-11.52.18:001][997]LogChaos: NewSimplicial: InitialSize: 155, ImplicitExterior: 0, FullCopy: 1, FinalSize: 44
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 14
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 96, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 224, ImplicitExterior: 0, FullCopy: 1, FinalSize: 48
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 20, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 106, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 269, ImplicitExterior: 0, FullCopy: 1, FinalSize: 58
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:003][997]LogChaos: NewSimplicial: InitialSize: 52, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 44, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 90, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 198, ImplicitExterior: 0, FullCopy: 1, FinalSize: 51
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 22, ImplicitExterior: 0, FullCopy: 1, FinalSize: 10
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 45, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 82, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.18:004][997]LogChaos: NewSimplicial: InitialSize: 162, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.18:005][997]LogChaos: NewSimplicial: InitialSize: 343, ImplicitExterior: 0, FullCopy: 1, FinalSize: 57
+[2024.04.30-11.52.18:005][997]LogChaos: NewSimplicial: InitialSize: 4843, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:085][ 58]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 131, ImplicitExterior: 0, FullCopy: 1, FinalSize: 47
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 147, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 60, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 400, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.19:086][ 58]LogChaos: NewSimplicial: InitialSize: 117, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 15, ImplicitExterior: 0, FullCopy: 1, FinalSize: 11
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 26, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 194, ImplicitExterior: 0, FullCopy: 1, FinalSize: 49
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 140, ImplicitExterior: 0, FullCopy: 1, FinalSize: 43
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 28, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 129, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.19:087][ 58]LogChaos: NewSimplicial: InitialSize: 37, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 16
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 639, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 68, ImplicitExterior: 0, FullCopy: 1, FinalSize: 28
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 99, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.19:088][ 58]LogChaos: NewSimplicial: InitialSize: 72, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 249, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 98, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 89, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 18, ImplicitExterior: 0, FullCopy: 1, FinalSize: 12
+[2024.04.30-11.52.19:089][ 58]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 336, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 115, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 79, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 58, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 360, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:090][ 58]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 32, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 116, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 50, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 49, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 127, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 404, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.19:091][ 58]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 15
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 81, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 17
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 345, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 63, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 34, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 61, ImplicitExterior: 0, FullCopy: 1, FinalSize: 27
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 141, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.19:093][ 58]LogChaos: NewSimplicial: InitialSize: 17, ImplicitExterior: 0, FullCopy: 1, FinalSize: 9
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 48, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 101, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 39, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 240, ImplicitExterior: 0, FullCopy: 1, FinalSize: 55
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 59, ImplicitExterior: 0, FullCopy: 1, FinalSize: 26
+[2024.04.30-11.52.19:094][ 58]LogChaos: NewSimplicial: InitialSize: 155, ImplicitExterior: 0, FullCopy: 1, FinalSize: 44
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 14
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 96, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 224, ImplicitExterior: 0, FullCopy: 1, FinalSize: 48
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 20, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.19:095][ 58]LogChaos: NewSimplicial: InitialSize: 106, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 269, ImplicitExterior: 0, FullCopy: 1, FinalSize: 58
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 52, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 44, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 90, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 198, ImplicitExterior: 0, FullCopy: 1, FinalSize: 51
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.19:096][ 58]LogChaos: NewSimplicial: InitialSize: 22, ImplicitExterior: 0, FullCopy: 1, FinalSize: 10
+[2024.04.30-11.52.19:097][ 58]LogChaos: NewSimplicial: InitialSize: 45, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:097][ 58]LogChaos: NewSimplicial: InitialSize: 82, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.19:097][ 58]LogChaos: NewSimplicial: InitialSize: 162, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.19:097][ 58]LogChaos: NewSimplicial: InitialSize: 343, ImplicitExterior: 0, FullCopy: 1, FinalSize: 57
+[2024.04.30-11.52.19:098][ 58]LogChaos: NewSimplicial: InitialSize: 4843, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:561][141]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.20:561][141]LogChaos: NewSimplicial: InitialSize: 131, ImplicitExterior: 0, FullCopy: 1, FinalSize: 47
+[2024.04.30-11.52.20:561][141]LogChaos: NewSimplicial: InitialSize: 147, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.20:561][141]LogChaos: NewSimplicial: InitialSize: 60, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.20:562][141]LogChaos: NewSimplicial: InitialSize: 400, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:562][141]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.20:562][141]LogChaos: NewSimplicial: InitialSize: 117, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.20:562][141]LogChaos: NewSimplicial: InitialSize: 15, ImplicitExterior: 0, FullCopy: 1, FinalSize: 11
+[2024.04.30-11.52.20:562][141]LogChaos: NewSimplicial: InitialSize: 26, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 194, ImplicitExterior: 0, FullCopy: 1, FinalSize: 49
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 140, ImplicitExterior: 0, FullCopy: 1, FinalSize: 43
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 28, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 129, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 37, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.20:563][141]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 16
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 639, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 68, ImplicitExterior: 0, FullCopy: 1, FinalSize: 28
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 99, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 72, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.20:564][141]LogChaos: NewSimplicial: InitialSize: 249, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 19
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 98, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 89, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 18, ImplicitExterior: 0, FullCopy: 1, FinalSize: 12
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 54, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.20:565][141]LogChaos: NewSimplicial: InitialSize: 336, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 115, ImplicitExterior: 0, FullCopy: 1, FinalSize: 50
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 79, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 58, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 360, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.20:566][141]LogChaos: NewSimplicial: InitialSize: 32, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 116, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 50, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 49, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.20:567][141]LogChaos: NewSimplicial: InitialSize: 127, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 404, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 53, ImplicitExterior: 0, FullCopy: 1, FinalSize: 30
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 15
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 81, ImplicitExterior: 0, FullCopy: 1, FinalSize: 25
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 17
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 345, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.04.30-11.52.20:568][141]LogChaos: NewSimplicial: InitialSize: 63, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 108, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 36, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 34, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 61, ImplicitExterior: 0, FullCopy: 1, FinalSize: 27
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 141, ImplicitExterior: 0, FullCopy: 1, FinalSize: 37
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 17, ImplicitExterior: 0, FullCopy: 1, FinalSize: 9
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 48, ImplicitExterior: 0, FullCopy: 1, FinalSize: 20
+[2024.04.30-11.52.20:569][141]LogChaos: NewSimplicial: InitialSize: 101, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 39, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 240, ImplicitExterior: 0, FullCopy: 1, FinalSize: 55
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 62, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 78, ImplicitExterior: 0, FullCopy: 1, FinalSize: 34
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 59, ImplicitExterior: 0, FullCopy: 1, FinalSize: 26
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 155, ImplicitExterior: 0, FullCopy: 1, FinalSize: 44
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 27, ImplicitExterior: 0, FullCopy: 1, FinalSize: 14
+[2024.04.30-11.52.20:570][141]LogChaos: NewSimplicial: InitialSize: 76, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 96, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 224, ImplicitExterior: 0, FullCopy: 1, FinalSize: 48
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 20, ImplicitExterior: 0, FullCopy: 1, FinalSize: 13
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 41, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 84, ImplicitExterior: 0, FullCopy: 1, FinalSize: 35
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 106, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 269, ImplicitExterior: 0, FullCopy: 1, FinalSize: 58
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 35, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 52, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 44, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.04.30-11.52.20:571][141]LogChaos: NewSimplicial: InitialSize: 90, ImplicitExterior: 0, FullCopy: 1, FinalSize: 40
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 198, ImplicitExterior: 0, FullCopy: 1, FinalSize: 51
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 46, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 22, ImplicitExterior: 0, FullCopy: 1, FinalSize: 10
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 45, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 82, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 162, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.04.30-11.52.20:573][141]LogChaos: NewSimplicial: InitialSize: 343, ImplicitExterior: 0, FullCopy: 1, FinalSize: 57
+[2024.04.30-11.52.20:574][141]LogChaos: NewSimplicial: InitialSize: 4843, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.04.30-11.52.22:769][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-11.52.22:819][271]LogSavePackage: Moving output files for package: /Game/Fracture/FractionFolder/SM_Cube9_GeometryCollection
+[2024.04.30-11.52.22:819][271]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/SM_Cube9_GeometryCollection120A219843ADF4A49B141496F2FCFC77.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/FractionFolder/SM_Cube9_GeometryCollection.uasset'
+[2024.04.30-11.52.22:828][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.23 sec)
+[2024.04.30-11.52.22:830][271]AssetCheck: New page: Asset Save: SM_Cube9_GeometryCollection
+[2024.04.30-11.52.22:830][271]LogContentValidation: Display: Validating /Script/GeometryCollectionEngine.GeometryCollection /Game/Fracture/FractionFolder/SM_Cube9_GeometryCollection.SM_Cube9_GeometryCollection
+[2024.04.30-11.52.24:067][344]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-11.52.24:076][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-11.52.24:076][344]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 15:52:24)
+[2024.04.30-11.52.24:076][344]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-11.52.24:077][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001588s)
+[2024.04.30-11.52.24:077][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.001621s)
+[2024.04.30-11.52.24:086][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.30-11.52.24:088][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-11.52.24:088][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-11.52.24:088][344]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-11.52.24:088][344]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2024.04.30-11.52.24:088][344]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-11.52.24:090][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-11.52.24:090][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-11.52.24:090][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-11.52.24:090][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-11.52.24:090][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-11.52.24:091][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-11.52.24:104][344]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-11.52.24:104][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-11.52.24:104][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-11.52.24:104][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-11.52.24:104][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.04.30-11.52.24:104][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.04.30-11.52.24:106][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.04.30-11.52.24:106][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.04.30-11.52.24:106][344]LogInit: FAudioDevice initialized with ID 35.
+[2024.04.30-11.52.24:106][344]LogAudio: Display: Audio Device (ID: 35) registered with world 'MainWorld'.
+[2024.04.30-11.52.24:106][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.30-11.52.24:108][344]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-11.52.24:552][344]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-13.52.24
+[2024.04.30-11.52.24:554][344]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.04.30-11.52.24:555][344]LogWorld: Bringing up level for play took: 0.003854
+[2024.04.30-11.52.24:559][344]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-11.52.24:559][344]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-11.52.24:559][344]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-11.52.24:560][344]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-11.52.24:560][344]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-11.52.24:560][344]LogNet: GameNetDriver IpNetDriver_29 IpNetDriver listening on port 17777
+[2024.04.30-11.52.24:565][344]PIE: Server logged in
+[2024.04.30-11.52.24:566][344]PIE: Play in editor total start time 0,49 seconds.
+[2024.04.30-11.52.25:371][368]PIE: Warning: BP_Projectiles_C_0.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.26:763][437]PIE: Warning: BP_Projectiles_C_1.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.28:406][525]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.28:406][525]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.28:541][532]PIE: Warning: BP_Projectiles_C_2.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.30:259][626]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-11.52.30:260][626]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.30:260][626]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.30:313][629]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=119.27 Y=90.96 Z=0.00 Location: X=-325.06 Y=-1057.74 Z=194.58 Normal: X=0.71 Y=-0.70 Z=0.00 PenetrationDepth:0.598 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15 (0 other events since notify)
+[2024.04.30-11.52.30:324][629]PIE: Warning: BP_Projectiles_C_3.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.31:694][706]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.31:694][706]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.32:457][748]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.32:457][748]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.32:724][762]PIE: Warning: BP_Projectiles_C_5.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.34:005][834]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.34:006][834]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.36:528][976]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.52.36:529][976]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.52.36:736][988]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.BP_CubeChaos_C_134
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-11.52.36:736][988]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-11.52.36:816][990]PIE: Warning: BP_Projectiles_C_7.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.45:477][470]PIE: Warning: BP_Projectiles_C_8.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.47:173][562]PIE: Warning: BP_Projectiles_C_9.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.52:413][845]PIE: Warning: BP_Projectiles_C_10.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.59:170][195]PIE: Warning: BP_Projectiles_C_11.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.52.59:951][231]PIE: Warning: BP_Projectiles_C_12.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.02:256][336]PIE: Warning: BP_Projectiles_C_13.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.06:008][502]PIE: Warning: BP_Projectiles_C_14.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.08:828][632]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-11.53.08:828][632]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-11.53.08:892][634]PIE: Warning: BP_Projectiles_C_15.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.09:497][660]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-33.98 Y=10.38 Z=0.00 Location: X=-43.52 Y=-1631.43 Z=213.03 Normal: X=0.93 Y=0.36 Z=-0.00 PenetrationDepth:0.044 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:None (1 other events since notify)
+[2024.04.30-11.53.10:512][704]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=10.48 Y=149.63 Z=0.00 Location: X=-44.85 Y=-1628.55 Z=215.60 Normal: X=0.96 Y=0.28 Z=0.00 PenetrationDepth:0.064 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:None (27 other events since notify)
+[2024.04.30-11.53.11:533][747]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=10.48 Y=149.63 Z=0.00 Location: X=-44.85 Y=-1628.55 Z=215.60 Normal: X=0.96 Y=0.28 Z=0.00 PenetrationDepth:0.061 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:None (42 other events since notify)
+[2024.04.30-11.53.13:898][848]PIE: Warning: BP_Projectiles_C_16.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.16:397][961]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-36.92 Y=-2.30 Z=0.00 Location: X=600.64 Y=-9697.61 Z=193.76 Normal: X=0.33 Y=-0.94 Z=0.00 PenetrationDepth:0.018 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_0_1 (0 other events since notify)
+[2024.04.30-11.53.17:411][  6]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-123.41 Y=-35.76 Z=0.00 Location: X=600.64 Y=-9697.66 Z=193.84 Normal: X=0.33 Y=-0.94 Z=0.00 PenetrationDepth:0.011 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_0_1 (38 other events since notify)
+[2024.04.30-11.53.17:945][ 30]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.30-11.53.18:432][ 52]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-117.56 Y=-51.87 Z=0.00 Location: X=600.64 Y=-9697.66 Z=193.84 Normal: X=0.33 Y=-0.94 Z=0.00 PenetrationDepth:0.014 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_0_1 (45 other events since notify)
+[2024.04.30-11.53.19:366][ 94]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1 0 0 0
+[2024.04.30-11.53.19:480][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.30-11.53.23:275][324]PIE: Warning: BP_Projectiles_C_17.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.25:035][430]PIE: Warning: BP_Projectiles_C_18.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.26:346][508]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=5.44 Y=-31.83 Z=0.00 Location: X=639.61 Y=-9495.63 Z=212.32 Normal: X=-0.81 Y=0.57 Z=0.10 PenetrationDepth:0.001 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_17_4_1 (0 other events since notify)
+[2024.04.30-11.53.31:618][822]PIE: Warning: BP_Projectiles_C_19.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.32:472][873]PIE: Warning: BP_Projectiles_C_20.Sphere Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-11.53.39:474][293]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.30-11.53.39:640][303]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel2 0 0 0
+[2024.04.30-11.53.39:713][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.30-11.53.44:513][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-11.53.44:513][591]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-11.53.44:516][591]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.53.44:516][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.53.44:517][591]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2024.04.30-11.53.44:517][591]LogNet: DestroyNamedNetDriver IpNetDriver_29 [GameNetDriver]
+[2024.04.30-11.53.44:517][591]LogExit: GameNetDriver IpNetDriver_29 shut down
+[2024.04.30-11.53.44:519][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-11.53.44:523][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.53.44:533][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-11.53.44:533][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.30-11.53.44:533][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.30-11.53.44:535][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.30-11.53.44:538][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-11.53.44:551][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.30-11.53.44:625][592]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.04.30-11.53.44:637][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.30-11.53.55:960][261]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.53.55:960][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.53.57:411][340]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-11.53.57:413][340]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.53.57:413][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.53.58:928][427]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-11.53.58:928][427]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.53.58:928][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.53.59:979][486]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-11.53.59:979][486]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.53.59:979][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.54.00:997][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-11.54.00:997][543]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.54.00:997][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-11.54.03:195][672]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-11.54.03:195][672]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-11.54.03:195][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
