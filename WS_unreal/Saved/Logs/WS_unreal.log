@@ -1888,3 +1888,730 @@ GroupActor24
 [2024.04.30-12.15.05:827][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2024.04.30-12.15.05:869][509]LogPlayLevel: Display: Destroying online subsystem :Context_8
 [2024.04.30-12.15.05:874][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.04.30-12.16.56:763][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.16.56:801][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.16.57:633][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fracture/BP_Projectiles.BP_Projectiles
+[2024.04.30-12.16.57:633][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.16.57:633][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.16.57:641][727]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.30-12.16.58:151][727]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.30-12.17.02:842][  4]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.04.30-12.18.55:098][218]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.18.55:120][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.30-12.19.01:041][565]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline.Cocktail_Molotov_avec_outline
+[2024.04.30-12.19.01:047][565]LogTexture: Display: Building textures: /Game/Art/UX_UI/In_Game/Cocktail_Molotov_avec_outline.Cocktail_Molotov_avec_outline (TFO_AutoDXT, 1000x1000 x1x1x1) (Required Memory Estimate: 122.045726 MB), EncodeSpeed: Fast
+[2024.04.30-12.19.01:207][565]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2024.04.30-12.19.03:748][713]LogViewport: Scene viewport resized to 1415x872, mode Windowed.
+[2024.04.30-12.19.03:798][715]LogViewport: Scene viewport resized to 883x496, mode Windowed.
+[2024.04.30-12.19.03:820][716]LogViewport: Scene viewport resized to 608x302, mode Windowed.
+[2024.04.30-12.19.03:833][717]LogViewport: Scene viewport resized to 573x277, mode Windowed.
+[2024.04.30-12.19.04:216][740]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2024.04.30-12.19.04:638][765]LogSlate: Window 'Cocktail_Molotov_avec_outline' being destroyed
+[2024.04.30-12.19.07:394][929]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline.Cocktail_Molotov_sans_outline
+[2024.04.30-12.19.07:398][929]LogTexture: Display: Building textures: /Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline.Cocktail_Molotov_sans_outline (TFO_AutoDXT, 1000x1000 x1x1x1) (Required Memory Estimate: 122.045726 MB), EncodeSpeed: Fast
+[2024.04.30-12.19.07:482][929]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2024.04.30-12.20.35:708][173]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.20.35:731][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.30-12.21.29:555][526]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.30-12.21.47:228][414]LogSlate: Window 'Delete Component' being destroyed
+[2024.04.30-12.21.47:238][414]LogBlueprint: Error: [AssetLog] : [Compiler] The component that  On Component Hit (Sphere)  was bound to has been deleted! This node is no longer valid
+[2024.04.30-12.21.47:238][414]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2024.04.30-12.21.47:238][414]BlueprintLog: Error: The component that  On Component Hit (Sphere)  was bound to has been deleted! This node is no longer valid
+[2024.04.30-12.22.23:315][542]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.22.23:319][542]LogBlueprint: Error: [AssetLog] C:\Users\erwan\OneDrive\Documents\GitHub\Projet-Chaos\WS_unreal\Content\Fracture\BP_Projectiles.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2024.04.30-12.22.23:352][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.30-12.22.36:802][336]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.22.36:824][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.30-12.22.41:551][614]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-12.22.41:558][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-12.22.41:558][614]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 16:22:41)
+[2024.04.30-12.22.41:558][614]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.22.41:670][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111565s)
+[2024.04.30-12.22.41:671][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.111601s)
+[2024.04.30-12.22.41:684][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.30-12.22.41:685][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.22.41:685][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.22.41:686][614]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-12.22.41:686][614]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2024.04.30-12.22.41:686][614]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-12.22.41:686][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-12.22.41:686][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-12.22.41:687][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-12.22.41:687][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-12.22.41:687][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-12.22.41:689][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-12.22.41:703][614]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-12.22.41:703][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-12.22.41:704][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-12.22.41:704][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-12.22.41:704][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.30-12.22.41:704][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.30-12.22.41:706][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.30-12.22.41:706][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.30-12.22.41:706][614]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.30-12.22.41:706][614]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainWorld'.
+[2024.04.30-12.22.41:706][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.30-12.22.41:708][614]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-12.22.42:040][614]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-14.22.42
+[2024.04.30-12.22.42:041][614]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.30-12.22.42:043][614]LogWorld: Bringing up level for play took: 0.024843
+[2024.04.30-12.22.42:046][614]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-12.22.42:046][614]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-12.22.42:046][614]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-12.22.42:046][614]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-12.22.42:046][614]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-12.22.42:046][614]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2024.04.30-12.22.42:053][614]PIE: Server logged in
+[2024.04.30-12.22.42:053][614]PIE: Play in editor total start time 0,496 seconds.
+[2024.04.30-12.22.44:413][732]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.22.45:063][768]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-83.34 Y=13.12 Z=0.00 Location: X=494.49 Y=-9722.19 Z=193.80 Normal: X=0.58 Y=0.77 Z=0.27 PenetrationDepth:0.015 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_13_0 (0 other events since notify)
+[2024.04.30-12.22.45:081][769]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.22.45:412][787]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_32
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.22.45:412][787]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.22.46:258][834]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.22.46:545][851]PIE: Warning: BP_Projectiles_C_3.PaperSprite Cocktail_Molotov_sans_outline_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-12.22.46:596][854]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-27.29 Y=-3.22 Z=0.00 Location: X=448.51 Y=-9770.04 Z=193.76 Normal: X=-0.11 Y=0.95 Z=0.28 PenetrationDepth:0.000 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_13_0 (31 other events since notify)
+[2024.04.30-12.22.47:314][896]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_31
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.22.47:314][896]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.22.48:702][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.22.48:702][973]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.22.48:709][973]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.22.48:710][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.22.48:712][973]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2024.04.30-12.22.48:713][973]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2024.04.30-12.22.48:713][973]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2024.04.30-12.22.48:714][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-12.22.48:717][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.22.48:729][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-12.22.48:729][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.30-12.22.48:729][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.30-12.22.48:731][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.30-12.22.48:735][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.22.48:771][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.30-12.22.48:810][974]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.30-12.22.48:819][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.30-12.23.11:068][290]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.23.11:093][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.30-12.23.12:205][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-12.23.12:213][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-12.23.12:213][353]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 16:23:12)
+[2024.04.30-12.23.12:213][353]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.23.12:323][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109627s)
+[2024.04.30-12.23.12:323][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.109665s)
+[2024.04.30-12.23.12:336][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.30-12.23.12:337][353]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.23.12:337][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.23.12:338][353]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-12.23.12:338][353]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.04.30-12.23.12:338][353]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-12.23.12:338][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-12.23.12:338][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-12.23.12:339][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-12.23.12:339][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-12.23.12:339][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-12.23.12:341][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-12.23.12:353][353]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-12.23.12:353][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-12.23.12:353][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-12.23.12:353][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-12.23.12:354][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.30-12.23.12:354][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.30-12.23.12:356][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.30-12.23.12:356][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.30-12.23.12:356][353]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.30-12.23.12:356][353]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainWorld'.
+[2024.04.30-12.23.12:356][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.30-12.23.12:358][353]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-12.23.12:686][353]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-14.23.12
+[2024.04.30-12.23.12:688][353]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.30-12.23.12:689][353]LogWorld: Bringing up level for play took: 0.024082
+[2024.04.30-12.23.12:694][353]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-12.23.12:694][353]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-12.23.12:694][353]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-12.23.12:694][353]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-12.23.12:694][353]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-12.23.12:694][353]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2024.04.30-12.23.12:699][353]PIE: Server logged in
+[2024.04.30-12.23.12:699][353]PIE: Play in editor total start time 0,486 seconds.
+[2024.04.30-12.23.14:849][463]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.23.14:849][463]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_23
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.23.14:849][463]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.23.14:849][463]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.23.16:099][534]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.23.16:099][534]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.23.16:571][562]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_31
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.23.16:571][562]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.23.16:682][567]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.23.16:682][567]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.23.17:459][610]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_1
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.23.17:459][610]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.23.17:668][622]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_18
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.23.17:668][622]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.23.17:735][625]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=4.88 Y=-32.60 Z=0.00 Location: X=-227.26 Y=-951.64 Z=149.27 Normal: X=-0.67 Y=0.46 Z=0.59 PenetrationDepth:0.134 Actor:BP_CubeChaos_C_23 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19 (0 other events since notify)
+[2024.04.30-12.23.18:669][676]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.23.18:669][676]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.23.18:852][686]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=25.16 Y=1.27 Z=0.00 Location: X=-226.67 Y=-951.33 Z=149.62 Normal: X=-0.16 Y=-0.93 Z=-0.32 PenetrationDepth:0.251 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:None (9 other events since notify)
+[2024.04.30-12.23.19:008][695]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_26
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.23.19:008][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.23.19:008][695]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_25
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.23.19:008][695]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.23.19:863][740]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=149.81 Y=7.56 Z=0.00 Location: X=-226.17 Y=-951.32 Z=149.45 Normal: X=-0.67 Y=0.46 Z=0.59 PenetrationDepth:0.049 Actor:BP_CubeChaos_C_23 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19 (42 other events since notify)
+[2024.04.30-12.23.20:868][796]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=53.83 Y=-140.01 Z=0.00 Location: X=-227.30 Y=-952.72 Z=149.53 Normal: X=-0.67 Y=0.46 Z=0.59 PenetrationDepth:0.021 Actor:BP_CubeChaos_C_23 Component:GeometryCollectionComponent0 BoneName:SM_Cube_19 (43 other events since notify)
+[2024.04.30-12.23.21:142][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.23.21:142][809]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.23.21:149][809]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.23.21:151][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.23.21:152][809]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2024.04.30-12.23.21:152][809]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2024.04.30-12.23.21:153][809]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2024.04.30-12.23.21:155][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-12.23.21:159][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.23.21:171][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-12.23.21:171][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.30-12.23.21:171][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.30-12.23.21:173][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.30-12.23.21:176][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.23.21:213][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.30-12.23.21:269][810]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.30-12.23.21:281][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.30-12.25.08:439][410]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.25.08:488][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.30-12.25.09:839][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-12.25.09:847][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-12.25.09:847][487]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 16:25:09)
+[2024.04.30-12.25.09:847][487]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.25.09:959][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110960s)
+[2024.04.30-12.25.09:959][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.110998s)
+[2024.04.30-12.25.09:968][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.30-12.25.09:970][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.25.09:970][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.25.09:971][487]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-12.25.09:971][487]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2024.04.30-12.25.09:971][487]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-12.25.09:971][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-12.25.09:971][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-12.25.09:971][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-12.25.09:971][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-12.25.09:971][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-12.25.09:974][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-12.25.09:986][487]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-12.25.09:986][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-12.25.09:986][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-12.25.09:986][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-12.25.09:987][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.30-12.25.09:987][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.30-12.25.09:988][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.30-12.25.09:988][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.30-12.25.09:988][487]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.30-12.25.09:988][487]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainWorld'.
+[2024.04.30-12.25.09:988][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.30-12.25.09:990][487]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-12.25.10:326][487]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-14.25.10
+[2024.04.30-12.25.10:328][487]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.30-12.25.10:329][487]LogWorld: Bringing up level for play took: 0.024274
+[2024.04.30-12.25.10:333][487]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-12.25.10:333][487]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-12.25.10:333][487]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-12.25.10:333][487]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-12.25.10:333][487]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-12.25.10:333][487]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2024.04.30-12.25.10:338][487]PIE: Server logged in
+[2024.04.30-12.25.10:339][487]PIE: Play in editor total start time 0,492 seconds.
+[2024.04.30-12.25.12:522][598]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.25.12:656][606]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_32
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.12:656][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.13:819][672]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_2
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.25.13:819][672]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.25.14:222][695]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=104.29 Y=-107.81 Z=0.00 Location: X=-484.63 Y=-1098.08 Z=192.45 Normal: X=-0.96 Y=-0.18 Z=-0.22 PenetrationDepth:0.077 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:None (0 other events since notify)
+[2024.04.30-12.25.14:223][695]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.25.14:239][696]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.25.14:309][700]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_26
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.14:309][700]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.15:291][756]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_1
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.25.15:292][756]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.25.15:533][769]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_18
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.15:533][769]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.17:426][870]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=-6.48 Y=-26.18 Z=0.00 Location: X=-393.13 Y=-1231.14 Z=194.47 Normal: X=-0.25 Y=0.97 Z=0.01 PenetrationDepth:0.053 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:None (2 other events since notify)
+[2024.04.30-12.25.19:256][978]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_50
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.19:256][978]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.21:081][ 82]LogBlueprintUserMessages: [IA_Pnj_C_1] Server: Hit
+[2024.04.30-12.25.21:081][ 82]LogBlueprintUserMessages: [IA_Pnj_C_1] Server: Hit
+[2024.04.30-12.25.21:326][ 96]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_40
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.21:326][ 96]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.21:888][126]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=79.83 Y=-126.99 Z=0.00 Location: X=-296.21 Y=-1340.75 Z=192.67 Normal: X=-0.61 Y=0.29 Z=0.74 PenetrationDepth:9.965 Actor:Voiture_C_2 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_1 (26 other events since notify)
+[2024.04.30-12.25.25:371][323]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.25.25:371][323]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.25.25:678][340]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.25.25:696][341]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.25.26:089][363]LogBlueprintUserMessages: [IA_Pnj_C_1] Server: Hit
+[2024.04.30-12.25.26:089][363]LogBlueprintUserMessages: [IA_Pnj_C_1] Server: Hit
+[2024.04.30-12.25.26:207][369]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_39
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.26:207][369]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.26:207][369]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_40
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.26:207][369]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.26:344][376]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_48
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.25.26:344][376]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.25.28:201][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.25.28:201][471]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.25.28:209][471]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.25.28:211][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.25.28:212][471]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2024.04.30-12.25.28:213][471]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2024.04.30-12.25.28:213][471]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2024.04.30-12.25.28:214][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-12.25.28:218][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.25.28:227][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.25.28:231][471]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.30-12.25.28:231][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.30-12.25.28:233][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.30-12.25.28:276][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.30-12.25.28:323][472]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.30-12.25.28:333][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.30-12.25.57:631][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.30-12.25.57:641][961]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006982 seconds
+[2024.04.30-12.25.58:281][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/MainWorld_Auto1
+[2024.04.30-12.25.58:281][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld_Auto19A52F5314FED9170131B90BF47BE0397.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto1.umap'
+[2024.04.30-12.25.58:282][961]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.30-12.25.58:383][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1
+[2024.04.30-12.25.58:383][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto13E357F524B23B72BFCE4488C2893B091.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1.umap'
+[2024.04.30-12.25.58:384][961]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.30-12.25.59:052][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1
+[2024.04.30-12.25.59:053][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto1F860254745EB223B3680FAB0986558FE.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1.umap'
+[2024.04.30-12.25.59:054][961]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.30-12.25.59:743][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1
+[2024.04.30-12.25.59:744][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto139163A6E496AE7166AE67EB4D4695C01.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1.umap'
+[2024.04.30-12.25.59:746][961]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.30-12.25.59:746][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 2.126
+[2024.04.30-12.25.59:746][961]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.126
+[2024.04.30-12.25.59:747][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fracture/BP_Projectiles] ([2] browsable assets)...
+[2024.04.30-12.25.59:747][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/BP_Projectiles]
+[2024.04.30-12.25.59:755][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/BP_Projectiles_Auto1
+[2024.04.30-12.25.59:756][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto12D98E8AA44A60C7029CF799A15CA6DD9.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/BP_Projectiles_Auto1.uasset'
+[2024.04.30-12.25.59:757][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite] ([1] browsable assets)...
+[2024.04.30-12.25.59:761][961]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite.Cocktail_Molotov_sans_outline_Sprite]
+[2024.04.30-12.25.59:761][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite]
+[2024.04.30-12.25.59:763][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite_Auto1
+[2024.04.30-12.25.59:763][961]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cocktail_Molotov_sans_outline_Sp3454123547A99A40EC38F8B3FBDEF80C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite_Auto1.uasset'
+[2024.04.30-12.25.59:763][961]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.04.30-12.26.52:466][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-12.26.52:498][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BP_Projectiles" FILE="../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_Projectiles.uasset" SILENT=true
+[2024.04.30-12.26.52:504][556]LogSavePackage: Moving output files for package: /Game/Fracture/BP_Projectiles
+[2024.04.30-12.26.52:505][556]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles1410E392459F29E6D10E7CA4E7D0262A.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/Fracture/BP_Projectiles.uasset'
+[2024.04.30-12.26.52:513][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms
+[2024.04.30-12.26.52:517][556]AssetCheck: New page: Asset Save: BP_Projectiles
+[2024.04.30-12.26.52:517][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Fracture/BP_Projectiles.BP_Projectiles
+[2024.04.30-12.27.32:954][250]LogTexture: Display: Building textures: /Game/Art/UX_UI/In_Game/Overlay_Pause.Overlay_Pause (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 168.460938 MB), EncodeSpeed: Fast
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: ================================================
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: Total job queries 91, among them cache hits 36 (39.56%)
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: Tracking 55 distinct input hashes that result in 47 distinct outputs (85.45%)
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: RAM used: 1,27 MiB of 819,20 MiB budget. Usage: 0.16%
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.30-12.27.33:619][284]LogShaderCompilers: Display: ================================================
+[2024.04.30-12.27.35:395][380]Cmd: TRANSACTION UNDO
+[2024.04.30-12.27.35:395][380]LogEditorTransaction: Undo Create Actors
+[2024.04.30-12.28.28:262][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-12.28.28:333][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.30-12.28.28:982][527]LogSavePackage: Moving output files for package: /Game/LevelDesign/MainWorld
+[2024.04.30-12.28.28:983][527]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld0A1B4B0545EB30CD5DDE1AB6E49BECB2.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Content/LevelDesign/MainWorld.umap'
+[2024.04.30-12.28.28:992][527]LogFileHelpers: Saving map 'MainWorld' took 0.694
+[2024.04.30-12.28.28:997][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 735 ms (total: 784 ms)
+[2024.04.30-12.28.28:999][527]AssetCheck: New page: Asset Save: MainWorld
+[2024.04.30-12.28.28:999][527]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelDesign/MainWorld.MainWorld
+[2024.04.30-12.29.59:698][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chunk/BP_ChunkLoad.BP_ChunkLoad
+[2024.04.30-12.29.59:698][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.29.59:698][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.30.04:315][975]BlueprintLog: New page: Compile BP_ChunkLoad
+[2024.04.30-12.30.04:341][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.30-12.30.09:422][274]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-12.30.09:428][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-12.30.09:429][274]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 16:30:09)
+[2024.04.30-12.30.09:429][274]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.30.09:552][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122260s)
+[2024.04.30-12.30.09:552][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.122307s)
+[2024.04.30-12.30.09:559][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.30-12.30.09:561][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.30.09:561][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.30.09:561][274]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-12.30.09:561][274]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.04.30-12.30.09:563][274]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-12.30.09:563][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-12.30.09:563][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-12.30.09:563][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-12.30.09:563][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-12.30.09:563][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-12.30.09:566][274]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-12.30.09:579][274]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-12.30.09:579][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-12.30.09:580][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-12.30.09:580][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-12.30.09:580][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.30-12.30.09:580][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.30-12.30.09:582][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.30-12.30.09:582][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.30-12.30.09:582][274]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.30-12.30.09:582][274]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainWorld'.
+[2024.04.30-12.30.09:582][274]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.30-12.30.09:584][274]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-12.30.09:928][274]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-14.30.09
+[2024.04.30-12.30.09:931][274]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.30-12.30.09:932][274]LogWorld: Bringing up level for play took: 0.022430
+[2024.04.30-12.30.09:936][274]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-12.30.09:936][274]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-12.30.09:936][274]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-12.30.09:936][274]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-12.30.09:936][274]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-12.30.09:936][274]LogNet: GameNetDriver IpNetDriver_7 IpNetDriver listening on port 17777
+[2024.04.30-12.30.09:941][274]PIE: Server logged in
+[2024.04.30-12.30.09:941][274]PIE: Play in editor total start time 0,513 seconds.
+[2024.04.30-12.30.14:973][554]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-24.32 Y=-24.57 Z=0.00 Location: X=141.80 Y=-1702.84 Z=191.15 Normal: X=-0.18 Y=0.80 Z=-0.58 PenetrationDepth:9.845 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:SM_Cube_12_0_1 (0 other events since notify)
+[2024.04.30-12.30.15:168][565]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_39
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.15:168][565]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.15:168][565]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.30.15:229][568]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.30.17:258][687]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=127.50 Y=-79.02 Z=0.00 Location: X=-270.29 Y=-1985.06 Z=187.42 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:4.190 Actor:BP_CubeChaos_C_42 Component:Cube BoneName:None (0 other events since notify)
+[2024.04.30-12.30.17:807][719]PIE: Warning: BP_Projectiles_C_1.PaperSprite Cocktail_Molotov_sans_outline_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-12.30.17:863][722]LogCharacterMovement: IA_Pnj_C_5 is stuck and failed to move! Velocity: X=140.41 Y=52.77 Z=0.00 Location: X=-345.21 Y=-1765.60 Z=194.75 Normal: X=-0.15 Y=0.62 Z=0.77 PenetrationDepth:1.088 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:SM_Cube_10_1_1 (0 other events since notify)
+[2024.04.30-12.30.18:663][769]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_3
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.18:663][769]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.18:813][778]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_48
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.18:813][778]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.22:610][991]PIE: Warning: BP_Projectiles_C_3.PaperSprite Cocktail_Molotov_sans_outline_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-12.30.22:611][991]LogCharacterMovement: IA_Pnj_C_3 is stuck and failed to move! Velocity: X=-5.78 Y=-149.89 Z=0.00 Location: X=578.13 Y=-9693.16 Z=206.99 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.301 Actor:Baricades_C_4 Component:GeometryCollectionComponent0 BoneName:SM_Cube_15_0_1 (0 other events since notify)
+[2024.04.30-12.30.23:916][ 60]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_77
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.23:916][ 60]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.25:019][115]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.25:019][115]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.25:019][115]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.25:019][115]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.25:243][126]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_76
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.25:243][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.25:275][127]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_85
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.25:275][127]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.26:782][191]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.26:782][191]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.26:806][192]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.26:806][192]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.26:850][194]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_77
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.26:850][194]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.26:850][194]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_77
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.26:850][194]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.26:850][194]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_76
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.26:850][194]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.27:957][243]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.27:957][243]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.27:957][243]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_4
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.30.27:957][243]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.30.28:089][249]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_76
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.28:089][249]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.28:109][250]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_76
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.28:109][250]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.28:224][255]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_85
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.28:224][255]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.28:224][255]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_85
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.28:224][255]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.30:786][367]PIE: Warning: BP_Projectiles_C_8.PaperSprite Cocktail_Molotov_sans_outline_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-12.30.32:375][433]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.BP_CubeChaos_C_3
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.32:376][433]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.32:439][435]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel2.FirstLevel2:PersistentLevel.BP_CubeChaos_C_7
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.30.32:439][435]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.30.34:377][509]LogLevel: Warning: Failed to find streaming level object associated with 'None'
+[2024.04.30-12.30.34:551][516]LogLevel: ActivateLevel /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1 0 0 0
+[2024.04.30-12.30.34:623][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.30-12.30.37:124][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.30.37:124][663]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.30.37:128][663]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.30.37:130][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.30.37:132][663]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2024.04.30-12.30.37:132][663]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2024.04.30-12.30.37:132][663]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2024.04.30-12.30.37:134][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-12.30.37:138][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.30.37:150][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-12.30.37:150][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.30-12.30.37:150][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.30-12.30.37:151][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.30-12.30.37:155][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.30.37:186][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.30-12.30.37:254][664]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.30-12.30.37:264][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.30-12.31.46:872][751]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.31.46:894][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.30-12.31.53:419][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.31.56:787][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.30-12.31.56:787][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.31.56:787][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.31.57:089][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.35.29:433][251]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.35.29:467][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.30-12.35.35:436][596]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.35.35:436][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.36.31:412][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chunk/BP_ChunkLoad.BP_ChunkLoad
+[2024.04.30-12.36.31:413][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.36.31:413][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.37.42:719][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.30-12.37.42:814][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2
+[2024.04.30-12.37.42:815][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto2FBDDFC8B4E789ED9B70332928D237050.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2.umap'
+[2024.04.30-12.37.42:816][114]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.30-12.37.43:487][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2
+[2024.04.30-12.37.43:488][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto2140C78F84B46B2467FCC76AA01B39CD8.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2.umap'
+[2024.04.30-12.37.43:491][114]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.30-12.37.44:166][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2
+[2024.04.30-12.37.44:167][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto23CC6A4204A461A48494480B12748AC39.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2.umap'
+[2024.04.30-12.37.44:169][114]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.30-12.37.44:169][114]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.462
+[2024.04.30-12.37.44:170][114]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.462
+[2024.04.30-12.37.44:170][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fracture/BP_Projectiles] ([2] browsable assets)...
+[2024.04.30-12.37.44:170][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/BP_Projectiles]
+[2024.04.30-12.37.44:176][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/BP_Projectiles_Auto2
+[2024.04.30-12.37.44:177][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Projectiles_Auto207EA0ACD434C7F866F54FAB30B07065D.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/BP_Projectiles_Auto2.uasset'
+[2024.04.30-12.37.44:178][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chunk/BP_ChunkLoad] ([2] browsable assets)...
+[2024.04.30-12.37.44:178][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chunk/BP_ChunkLoad]
+[2024.04.30-12.37.44:183][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Chunk/BP_ChunkLoad_Auto2
+[2024.04.30-12.37.44:184][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ChunkLoad_Auto2C5BC5C254AC66C882F4D7D8F4BBD9047.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Chunk/BP_ChunkLoad_Auto2.uasset'
+[2024.04.30-12.37.44:185][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite] ([1] browsable assets)...
+[2024.04.30-12.37.44:185][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite]
+[2024.04.30-12.37.44:186][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite_Auto2
+[2024.04.30-12.37.44:186][114]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Cocktail_Molotov_sans_outline_Sp0D719FD5471BFB743ED4B0B87E53F479.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Art/UX_UI/In_Game/Cocktail_Molotov_sans_outline_Sprite_Auto2.uasset'
+[2024.04.30-12.37.44:187][114]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.04.30-12.38.46:216][778]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.38.46:253][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.30-12.40.39:407][232]BlueprintLog: New page: Compile BP_Projectiles
+[2024.04.30-12.40.39:441][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.30-12.40.42:824][423]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-12.40.42:833][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-12.40.42:833][423]PIE: New page: PIE session: MainWorld (30 avr. 2024 à 16:40:42)
+[2024.04.30-12.40.42:833][423]LogPlayLevel: Creating play world package: /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.40.42:940][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106982s)
+[2024.04.30-12.40.42:940][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/MainWorld.MainWorld to /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld (0.107021s)
+[2024.04.30-12.40.42:951][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.30-12.40.42:956][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-12.40.42:956][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-12.40.42:956][423]LogAIModule: Creating AISystem for world MainWorld
+[2024.04.30-12.40.42:957][423]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2024.04.30-12.40.42:957][423]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-12.40.42:957][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-12.40.42:957][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-12.40.42:957][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-12.40.42:957][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-12.40.42:957][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-12.40.42:959][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-12.40.42:973][423]LogAudioMixer: Display: Using Audio Hardware Device Casque (MAJOR IV)
+[2024.04.30-12.40.42:973][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-12.40.42:974][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-12.40.42:974][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-12.40.42:974][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.30-12.40.42:974][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.30-12.40.42:976][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.30-12.40.42:976][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.30-12.40.42:976][423]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.30-12.40.42:976][423]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainWorld'.
+[2024.04.30-12.40.42:976][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.30-12.40.42:978][423]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-12.40.43:293][423]LogWorld: Bringing World /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2024.04.30-14.40.43
+[2024.04.30-12.40.43:295][423]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.30-12.40.43:297][423]LogWorld: Bringing up level for play took: 0.022935
+[2024.04.30-12.40.43:301][423]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.30-12.40.43:301][423]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.30-12.40.43:301][423]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.30-12.40.43:301][423]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.30-12.40.43:302][423]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.30-12.40.43:302][423]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2024.04.30-12.40.43:307][423]PIE: Server logged in
+[2024.04.30-12.40.43:307][423]PIE: Play in editor total start time 0,474 seconds.
+[2024.04.30-12.40.44:641][481]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_13
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.44:641][481]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.45:827][547]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.40.45:827][547]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.40.45:953][554]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_22
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.45:953][554]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.46:049][558]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_31
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.46:049][558]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.47:188][619]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.40.47:207][620]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.40.47:225][621]LogBlueprintUserMessages: [IA_Pnj_C_5] Server: Hit
+[2024.04.30-12.40.47:726][649]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_40
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.47:726][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.48:549][693]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.40.48:549][693]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.40.48:829][708]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_39
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.48:829][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.50:161][784]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.40.50:161][784]LogBlueprintUserMessages: [IA_Pnj_C_3] Server: Hit
+[2024.04.30-12.40.50:162][784]PIE: Warning: BP_Projectiles_C_4.PaperSprite Cocktail_Molotov_sans_outline_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2024.04.30-12.40.51:508][863]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	Voiture_C /Game/LevelDesign/SubLevel/UEDPIE_0_FirstLevel1.FirstLevel1:PersistentLevel.Voiture_C_3
+	Function /Game/Fracture/Chaos_BP/Voiture.Voiture_C:ExecuteUbergraph_Voiture:0015
+[2024.04.30-12.40.51:508][863]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph Voiture Blueprint:  Voiture
+[2024.04.30-12.40.51:947][888]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_58
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.51:947][888]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.51:947][888]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_59
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.51:947][888]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.52:143][896]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_60
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.52:143][896]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.53:513][967]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_46
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.53:513][967]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.53:629][973]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_55
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.53:629][973]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.56:687][132]LogCharacterMovement: IA_Pnj_C_1 is stuck and failed to move! Velocity: X=30.64 Y=3.17 Z=0.00 Location: X=-201.13 Y=-1989.70 Z=189.85 Normal: X=-0.94 Y=-0.04 Z=0.33 PenetrationDepth:0.093 Actor:Baricades_C_0 Component:GeometryCollectionComponent0 BoneName:SM_Cube_0_3_1 (0 other events since notify)
+[2024.04.30-12.40.58:445][228]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_82
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.58:446][228]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.58:446][228]LogScript: Warning: Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)
+	BP_CubeChaos_C /Game/LevelDesign/UEDPIE_0_MainWorld.MainWorld:PersistentLevel.BP_CubeChaos_C_83
+	Function /Game/Fracture/Chaos_BP/BP_CubeChaos.BP_CubeChaos_C:ExecuteUbergraph_BP_CubeChaos:0015
+[2024.04.30-12.40.58:446][228]PIE: Error: Blueprint Runtime Error: "Attempted to access Cube via property Cube, but Cube is not valid (pending kill or garbage)". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP Cube Chaos Blueprint:  BP_CubeChaos
+[2024.04.30-12.40.59:302][274]Set new viewmode: Wireframe
+[2024.04.30-12.41.00:875][355]Set new viewmode: Unlit
+[2024.04.30-12.41.01:100][367]Set new viewmode: Lit
+[2024.04.30-12.41.03:582][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.41.03:582][499]LogWorld: BeginTearingDown for /Game/LevelDesign/UEDPIE_0_MainWorld
+[2024.04.30-12.41.03:589][499]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-12.41.03:591][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.41.03:591][499]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2024.04.30-12.41.03:591][499]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2024.04.30-12.41.03:591][499]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2024.04.30-12.41.03:593][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-12.41.03:597][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-12.41.03:606][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-12.41.03:606][499]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.30-12.41.03:606][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.30-12.41.03:608][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.30-12.41.03:613][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-12.41.03:661][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.30-12.41.03:722][500]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.30-12.41.03:731][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
