@@ -5868,3 +5868,12 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.05.16-14.11.24:709][322]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5.umap is in the /Temp path, will not scan.
 [2024.05.16-14.11.24:709][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.398
 [2024.05.16-14.11.24:709][322]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.398
+[2024.05.16-14.15.07:922][128]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-14.15.07:922][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-14.15.08:985][190]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-14.15.08:986][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-14.15.11:364][312]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-14.15.11:364][312]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-14.15.11:364][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-14.15.18:583][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.16-14.15.20:212][742]LogSlate: Window 'Save Content' being destroyed
