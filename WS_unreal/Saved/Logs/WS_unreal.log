@@ -2304,3 +2304,512 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.05.17-13.06.03:897][475]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{f9c921b4-71ea-49e6-a8de-acc9088f0e68}, Name=Casque (Redmi Buds 3 Lite)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=363.67
 [2024.05.17-13.06.03:898][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.05.17-13.06.03:900][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.17-13.12.59:007][379]LogDerivedDataCache: C:/Users/valen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:50.169 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27338 files in 25211 folders with total size 459 MiB.
+[2024.05.17-13.22.50:132][733]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-13.22.50:148][733]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-13.22.50:165][734]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-13.22.51:504][815]LogContentBrowser: Attempting asset rename: NewFolder -> Cop
+[2024.05.17-13.22.51:504][815]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-13.23.02:357][990]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\valen\Downloads\Walking(1).fbx)
+[2024.05.17-13.23.02:363][990]LogFbx: Loading FBX Scene from C:\Users\valen\Downloads\Walking(1).fbx
+[2024.05.17-13.23.02:388][990]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-13.23.05:260][990]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.17-13.23.05:291][990]LogFbx: Valid bind pose for Pose (BindPose) - BaseMesh
+[2024.05.17-13.23.05:294][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/Corps.Corps needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:338][990]LogFbx: Triangulating skeletal mesh BaseMesh
+[2024.05.17-13.23.05:403][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/Casque.Casque needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:436][990]LogFbx: Triangulating skeletal mesh LowCopCasque
+[2024.05.17-13.23.05:458][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/Gloves_and_Armbands.Gloves_and_Armbands needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:489][990]LogFbx: Triangulating skeletal mesh LowCopoudieres
+[2024.05.17-13.23.05:503][990]LogFbx: Triangulating skeletal mesh LowCopGants
+[2024.05.17-13.23.05:533][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/Shirt.Shirt needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:563][990]LogFbx: Triangulating skeletal mesh LowCopShirt
+[2024.05.17-13.23.05:594][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/GiletPareBalles.GiletPareBalles needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:626][990]LogFbx: Triangulating skeletal mesh LowCopGiletPareBalles
+[2024.05.17-13.23.05:651][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/Pants.Pants needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:680][990]LogFbx: Triangulating skeletal mesh LowCopTrousers
+[2024.05.17-13.23.05:718][990]LogFbx: Triangulating skeletal mesh LowCopGenouillere
+[2024.05.17-13.23.05:722][990]LogMaterial: Display: Material /Game/Valou/Animation/Cop/DamienBoots.DamienBoots needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.17-13.23.05:753][990]LogFbx: Triangulating skeletal mesh LowCopBoots
+[2024.05.17-13.23.05:811][990]LogFbx: Bones digested - 41  Depth of hierarchy - 12
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 0: Material=0, 4624 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 1: Material=1, 1464 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 2: Material=2, 2952 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 3: Material=3, 2004 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 4: Material=4, 1564 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 5: Material=5, 2916 triangles
+[2024.05.17-13.23.06:272][990]LogSkeletalMesh: Section 6: Material=6, 2928 triangles
+[2024.05.17-13.23.06:302][990]LogSkeletalMesh: Building Skeletal Mesh Walking_1_...
+[2024.05.17-13.23.06:319][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Walking_1_) ...
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Total job queries 556, among them cache hits 416 (74.82%)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 24 distinct outputs (57.14%)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: RAM used: 970,01 KiB of 819,20 MiB budget. Usage: 0.12%
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.52 s
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 0.55
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Shader code size: average 36,668 KiB, min 35,891 KiB, max 37,445 KiB
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.55 s
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Average processing rate: 3.62 jobs/sec
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Total thread time: 0,629 s
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Total thread preprocess time: 0,059 s
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Percentage time preprocessing: 9.35%
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.29% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 49.71% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.05.17-13.23.06:321][990]LogShaderCompilers: Display: ================================================
+[2024.05.17-13.23.06:652][990]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Valou/Animation/Cop/Walking_1_.Walking_1_
+[2024.05.17-13.23.06:885][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.06:886][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.06:902][990]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-13.23.06:902][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(0) Hips
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(1) Spine
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(2) Spine1
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(3) Spine2
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(4) Neck
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(5) Head
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(19) RightShoulder
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(20) RightArm
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(21) RightForeArm
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(22) RightHand
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(23) RightHandThumb1
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(24) RightHandThumb2
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(25) RightHandThumb3
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(26) RightHandThumb4
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(27) RightHandIndex1
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(28) RightHandIndex2
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(29) RightHandIndex3
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(30) RightHandIndex4
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(31) LeftUpLeg
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(32) LeftLeg
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(33) LeftFoot
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(34) LeftToeBase
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(35) LeftToe_End
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(36) RightUpLeg
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(37) RightLeg
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(38) RightFoot
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(39) RightToeBase
+[2024.05.17-13.23.06:915][990]LogFbx: SortedLinks :(40) RightToe_End
+[2024.05.17-13.23.06:915][990]LogFbx: Parsing AnimStack mixamo.com
+[2024.05.17-13.23.07:325][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Valou/Animation/Cop/Walking_1__Anim.Walking_1__Anim
+[2024.05.17-13.23.07:343][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Valou/Animation/Cop/Walking_1__Anim.Walking_1__Anim, at AnimationSequence/fc752927705e3454079906e7eab71b50c063d58c
+[2024.05.17-13.23.07:344][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Walking_1_) ...
+[2024.05.17-13.23.07:361][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-13.23.07:452][990]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\valen\Downloads\Jumping.fbx)
+[2024.05.17-13.23.07:458][990]LogFbx: Loading FBX Scene from C:\Users\valen\Downloads\Jumping.fbx
+[2024.05.17-13.23.07:483][990]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-13.23.07:486][990]LogFbx: Valid bind pose for Pose (BindPose) - BaseMesh
+[2024.05.17-13.23.07:488][990]LogFbx: Triangulating skeletal mesh BaseMesh
+[2024.05.17-13.23.07:553][990]LogFbx: Triangulating skeletal mesh LowCopCasque
+[2024.05.17-13.23.07:574][990]LogFbx: Triangulating skeletal mesh LowCopoudieres
+[2024.05.17-13.23.07:588][990]LogFbx: Triangulating skeletal mesh LowCopGants
+[2024.05.17-13.23.07:618][990]LogFbx: Triangulating skeletal mesh LowCopShirt
+[2024.05.17-13.23.07:647][990]LogFbx: Triangulating skeletal mesh LowCopGiletPareBalles
+[2024.05.17-13.23.07:671][990]LogFbx: Triangulating skeletal mesh LowCopTrousers
+[2024.05.17-13.23.07:708][990]LogFbx: Triangulating skeletal mesh LowCopGenouillere
+[2024.05.17-13.23.07:713][990]LogFbx: Triangulating skeletal mesh LowCopBoots
+[2024.05.17-13.23.07:766][990]LogFbx: Bones digested - 41  Depth of hierarchy - 12
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 0: Material=0, 4624 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 1: Material=1, 1464 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 2: Material=2, 2952 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 3: Material=3, 2004 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 4: Material=4, 1564 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 5: Material=5, 2916 triangles
+[2024.05.17-13.23.08:229][990]LogSkeletalMesh: Section 6: Material=6, 2928 triangles
+[2024.05.17-13.23.08:259][990]LogSkeletalMesh: Building Skeletal Mesh Jumping...
+[2024.05.17-13.23.08:276][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Jumping) ...
+[2024.05.17-13.23.08:610][990]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Valou/Animation/Cop/Jumping.Jumping
+[2024.05.17-13.23.08:844][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.08:844][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.08:859][990]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-13.23.08:860][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(0) Hips
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(1) Spine
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(2) Spine1
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(3) Spine2
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(4) Neck
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(5) Head
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(19) RightShoulder
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(20) RightArm
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(21) RightForeArm
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(22) RightHand
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(23) RightHandThumb1
+[2024.05.17-13.23.08:870][990]LogFbx: SortedLinks :(24) RightHandThumb2
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(25) RightHandThumb3
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(26) RightHandThumb4
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(27) RightHandIndex1
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(28) RightHandIndex2
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(29) RightHandIndex3
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(30) RightHandIndex4
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(31) LeftUpLeg
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(32) LeftLeg
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(33) LeftFoot
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(34) LeftToeBase
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(35) LeftToe_End
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(36) RightUpLeg
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(37) RightLeg
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(38) RightFoot
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(39) RightToeBase
+[2024.05.17-13.23.08:871][990]LogFbx: SortedLinks :(40) RightToe_End
+[2024.05.17-13.23.08:871][990]LogFbx: Parsing AnimStack mixamo.com
+[2024.05.17-13.23.09:297][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Valou/Animation/Cop/Jumping_Anim.Jumping_Anim
+[2024.05.17-13.23.09:316][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Jumping) ...
+[2024.05.17-13.23.09:317][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Valou/Animation/Cop/Jumping_Anim.Jumping_Anim, at AnimationSequence/c8bdf57594971417ba92eda7378460ccdf46bcad
+[2024.05.17-13.23.09:333][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-13.23.09:348][990]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\valen\Downloads\Orc Idle.fbx)
+[2024.05.17-13.23.09:355][990]LogFbx: Loading FBX Scene from C:\Users\valen\Downloads\Orc Idle.fbx
+[2024.05.17-13.23.09:383][990]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-13.23.09:386][990]LogFbx: Valid bind pose for Pose (BindPose) - BaseMesh
+[2024.05.17-13.23.09:387][990]LogFbx: Triangulating skeletal mesh BaseMesh
+[2024.05.17-13.23.09:451][990]LogFbx: Triangulating skeletal mesh LowCopCasque
+[2024.05.17-13.23.09:471][990]LogFbx: Triangulating skeletal mesh LowCopoudieres
+[2024.05.17-13.23.09:482][990]LogFbx: Triangulating skeletal mesh LowCopGants
+[2024.05.17-13.23.09:509][990]LogFbx: Triangulating skeletal mesh LowCopShirt
+[2024.05.17-13.23.09:537][990]LogFbx: Triangulating skeletal mesh LowCopGiletPareBalles
+[2024.05.17-13.23.09:558][990]LogFbx: Triangulating skeletal mesh LowCopTrousers
+[2024.05.17-13.23.09:593][990]LogFbx: Triangulating skeletal mesh LowCopGenouillere
+[2024.05.17-13.23.09:597][990]LogFbx: Triangulating skeletal mesh LowCopBoots
+[2024.05.17-13.23.09:649][990]LogFbx: Bones digested - 41  Depth of hierarchy - 12
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 0: Material=0, 4624 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 1: Material=1, 1464 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 2: Material=2, 2952 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 3: Material=3, 2004 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 4: Material=4, 1564 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 5: Material=5, 2916 triangles
+[2024.05.17-13.23.10:096][990]LogSkeletalMesh: Section 6: Material=6, 2928 triangles
+[2024.05.17-13.23.10:126][990]LogSkeletalMesh: Building Skeletal Mesh Orc_Idle...
+[2024.05.17-13.23.10:144][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Orc_Idle) ...
+[2024.05.17-13.23.10:475][990]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Valou/Animation/Cop/Orc_Idle.Orc_Idle
+[2024.05.17-13.23.10:717][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.10:718][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.10:732][990]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-13.23.10:733][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(0) Hips
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(1) Spine
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(2) Spine1
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(3) Spine2
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(4) Neck
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(5) Head
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(19) RightShoulder
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(20) RightArm
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(21) RightForeArm
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(22) RightHand
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(23) RightHandThumb1
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(24) RightHandThumb2
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(25) RightHandThumb3
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(26) RightHandThumb4
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(27) RightHandIndex1
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(28) RightHandIndex2
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(29) RightHandIndex3
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(30) RightHandIndex4
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(31) LeftUpLeg
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(32) LeftLeg
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(33) LeftFoot
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(34) LeftToeBase
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(35) LeftToe_End
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(36) RightUpLeg
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(37) RightLeg
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(38) RightFoot
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(39) RightToeBase
+[2024.05.17-13.23.10:744][990]LogFbx: SortedLinks :(40) RightToe_End
+[2024.05.17-13.23.10:744][990]LogFbx: Parsing AnimStack mixamo.com
+[2024.05.17-13.23.11:379][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Valou/Animation/Cop/Orc_Idle_Anim.Orc_Idle_Anim
+[2024.05.17-13.23.11:396][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Orc_Idle) ...
+[2024.05.17-13.23.11:466][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Valou/Animation/Cop/Orc_Idle_Anim.Orc_Idle_Anim, at AnimationSequence/0f55ca6058bd880be8c9174530fe6af05932fb76
+[2024.05.17-13.23.11:482][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-13.23.11:496][990]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\valen\Downloads\Running(1).fbx)
+[2024.05.17-13.23.11:503][990]LogFbx: Loading FBX Scene from C:\Users\valen\Downloads\Running(1).fbx
+[2024.05.17-13.23.11:527][990]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-13.23.11:529][990]LogFbx: Valid bind pose for Pose (BindPose) - BaseMesh
+[2024.05.17-13.23.11:531][990]LogFbx: Triangulating skeletal mesh BaseMesh
+[2024.05.17-13.23.11:594][990]LogFbx: Triangulating skeletal mesh LowCopCasque
+[2024.05.17-13.23.11:613][990]LogFbx: Triangulating skeletal mesh LowCopoudieres
+[2024.05.17-13.23.11:625][990]LogFbx: Triangulating skeletal mesh LowCopGants
+[2024.05.17-13.23.11:652][990]LogFbx: Triangulating skeletal mesh LowCopShirt
+[2024.05.17-13.23.11:678][990]LogFbx: Triangulating skeletal mesh LowCopGiletPareBalles
+[2024.05.17-13.23.11:699][990]LogFbx: Triangulating skeletal mesh LowCopTrousers
+[2024.05.17-13.23.11:732][990]LogFbx: Triangulating skeletal mesh LowCopGenouillere
+[2024.05.17-13.23.11:737][990]LogFbx: Triangulating skeletal mesh LowCopBoots
+[2024.05.17-13.23.11:787][990]LogFbx: Bones digested - 41  Depth of hierarchy - 12
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 0: Material=0, 4624 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 1: Material=1, 1464 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 2: Material=2, 2952 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 3: Material=3, 2004 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 4: Material=4, 1564 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 5: Material=5, 2916 triangles
+[2024.05.17-13.23.12:233][990]LogSkeletalMesh: Section 6: Material=6, 2928 triangles
+[2024.05.17-13.23.12:262][990]LogSkeletalMesh: Building Skeletal Mesh Running_1_...
+[2024.05.17-13.23.12:279][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Running_1_) ...
+[2024.05.17-13.23.12:610][990]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Valou/Animation/Cop/Running_1_.Running_1_
+[2024.05.17-13.23.12:850][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.12:850][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.12:866][990]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-13.23.12:866][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-13.23.12:876][990]LogFbx: SortedLinks :(0) Hips
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(1) Spine
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(2) Spine1
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(3) Spine2
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(4) Neck
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(5) Head
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(19) RightShoulder
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(20) RightArm
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(21) RightForeArm
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(22) RightHand
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(23) RightHandThumb1
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(24) RightHandThumb2
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(25) RightHandThumb3
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(26) RightHandThumb4
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(27) RightHandIndex1
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(28) RightHandIndex2
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(29) RightHandIndex3
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(30) RightHandIndex4
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(31) LeftUpLeg
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(32) LeftLeg
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(33) LeftFoot
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(34) LeftToeBase
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(35) LeftToe_End
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(36) RightUpLeg
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(37) RightLeg
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(38) RightFoot
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(39) RightToeBase
+[2024.05.17-13.23.12:878][990]LogFbx: SortedLinks :(40) RightToe_End
+[2024.05.17-13.23.12:878][990]LogFbx: Parsing AnimStack mixamo.com
+[2024.05.17-13.23.13:257][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Valou/Animation/Cop/Running_1__Anim.Running_1__Anim
+[2024.05.17-13.23.13:265][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Valou/Animation/Cop/Running_1__Anim.Running_1__Anim, at AnimationSequence/54c9e481eecd23e60aa514302482170bbb1e6309
+[2024.05.17-13.23.13:275][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Running_1_) ...
+[2024.05.17-13.23.13:281][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-13.23.13:428][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.13:641][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.13:686][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.13:750][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.13:774][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.14:776][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.14:801][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.14:827][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.15:123][ 71]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-13.23.15:129][ 71]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-13.23.16:443][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.17-13.23.16:449][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.013
+[2024.05.17-13.23.16:449][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Walking_1_] ([1] browsable assets)...
+[2024.05.17-13.23.16:455][135]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_]
+[2024.05.17-13.23.16:455][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Walking_1_]
+[2024.05.17-13.23.16:490][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Walking_1__Auto4
+[2024.05.17-13.23.16:491][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Walking_1__Auto4F249166E474CFEC2E08EC1B752BE81B9.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Walking_1__Auto4.uasset'
+[2024.05.17-13.23.16:493][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Corps] ([1] browsable assets)...
+[2024.05.17-13.23.17:583][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/Corps.Corps]
+[2024.05.17-13.23.17:583][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Corps]
+[2024.05.17-13.23.17:585][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Corps_Auto4
+[2024.05.17-13.23.17:585][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Corps_Auto44C908F9540D7A8C4C118FBA273950E50.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Corps_Auto4.uasset'
+[2024.05.17-13.23.17:586][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Casque] ([1] browsable assets)...
+[2024.05.17-13.23.17:615][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/Casque.Casque]
+[2024.05.17-13.23.17:615][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Casque]
+[2024.05.17-13.23.17:617][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Casque_Auto4
+[2024.05.17-13.23.17:617][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Casque_Auto410517B274A0CE5B714F4B4AAAE4DC68F.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Casque_Auto4.uasset'
+[2024.05.17-13.23.17:618][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Gloves_and_Armbands] ([1] browsable assets)...
+[2024.05.17-13.23.17:647][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/Gloves_and_Armbands.Gloves_and_Armbands]
+[2024.05.17-13.23.17:647][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Gloves_and_Armbands]
+[2024.05.17-13.23.17:648][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Gloves_and_Armbands_Auto4
+[2024.05.17-13.23.17:648][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Gloves_and_Armbands_Auto4D150AB9F4B4617AB5CDDB1AF00E125A8.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Gloves_and_Armbands_Auto4.uasset'
+[2024.05.17-13.23.17:649][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Shirt] ([1] browsable assets)...
+[2024.05.17-13.23.17:678][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/Shirt.Shirt]
+[2024.05.17-13.23.17:678][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Shirt]
+[2024.05.17-13.23.17:679][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Shirt_Auto4
+[2024.05.17-13.23.17:679][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Shirt_Auto4071442C54619961048382C8CF9C7FC84.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Shirt_Auto4.uasset'
+[2024.05.17-13.23.17:681][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/GiletPareBalles] ([1] browsable assets)...
+[2024.05.17-13.23.17:709][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/GiletPareBalles.GiletPareBalles]
+[2024.05.17-13.23.17:709][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/GiletPareBalles]
+[2024.05.17-13.23.17:711][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/GiletPareBalles_Auto4
+[2024.05.17-13.23.17:711][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/GiletPareBalles_Auto458A0C2E04734F82B19CF7595CFAE357A.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/GiletPareBalles_Auto4.uasset'
+[2024.05.17-13.23.17:712][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Pants] ([1] browsable assets)...
+[2024.05.17-13.23.17:741][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/Pants.Pants]
+[2024.05.17-13.23.17:741][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Pants]
+[2024.05.17-13.23.17:742][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Pants_Auto4
+[2024.05.17-13.23.17:742][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Pants_Auto453103DA44BFC5262F7D3CEB2A84F40ED.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Pants_Auto4.uasset'
+[2024.05.17-13.23.17:743][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/DamienBoots] ([1] browsable assets)...
+[2024.05.17-13.23.17:771][135]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Valou/Animation/Cop/DamienBoots.DamienBoots]
+[2024.05.17-13.23.17:771][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/DamienBoots]
+[2024.05.17-13.23.17:773][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/DamienBoots_Auto4
+[2024.05.17-13.23.17:773][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/DamienBoots_Auto4C9995ABF4325EF11F6ABA9ADBF5193D8.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/DamienBoots_Auto4.uasset'
+[2024.05.17-13.23.17:773][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Walking_1__Skeleton] ([1] browsable assets)...
+[2024.05.17-13.23.17:782][135]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Valou/Animation/Cop/Walking_1__Skeleton.Walking_1__Skeleton]
+[2024.05.17-13.23.17:782][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Walking_1__Skeleton]
+[2024.05.17-13.23.17:784][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Walking_1__Skeleton_Auto4
+[2024.05.17-13.23.17:784][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Walking_1__Skeleton_Auto4171FD65C44D6C690B50911B1193E563B.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Walking_1__Skeleton_Auto4.uasset'
+[2024.05.17-13.23.17:785][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Walking_1__PhysicsAsset] ([1] browsable assets)...
+[2024.05.17-13.23.17:794][135]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Valou/Animation/Cop/Walking_1__PhysicsAsset.Walking_1__PhysicsAsset]
+[2024.05.17-13.23.17:794][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Walking_1__PhysicsAsset]
+[2024.05.17-13.23.17:801][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Walking_1__PhysicsAsset_Auto4
+[2024.05.17-13.23.17:801][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Walking_1__PhysicsAsset_Auto4E5351A084000BAB14414B3A9F5127AF9.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Walking_1__PhysicsAsset_Auto4.uasset'
+[2024.05.17-13.23.17:801][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Walking_1__Anim] ([1] browsable assets)...
+[2024.05.17-13.23.17:808][135]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Valou/Animation/Cop/Walking_1__Anim.Walking_1__Anim]
+[2024.05.17-13.23.17:808][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Walking_1__Anim]
+[2024.05.17-13.23.17:815][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Walking_1__Anim_Auto4
+[2024.05.17-13.23.17:815][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Walking_1__Anim_Auto4A888FA74447A869C9D00E7A61FA8EF6E.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Walking_1__Anim_Auto4.uasset'
+[2024.05.17-13.23.17:816][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Jumping] ([1] browsable assets)...
+[2024.05.17-13.23.17:824][135]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping]
+[2024.05.17-13.23.17:824][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Jumping]
+[2024.05.17-13.23.17:861][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Jumping_Auto4
+[2024.05.17-13.23.17:861][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Jumping_Auto4C4EBA9AF476D0362C0333EA9BA530CB6.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Jumping_Auto4.uasset'
+[2024.05.17-13.23.17:862][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Jumping_Skeleton] ([1] browsable assets)...
+[2024.05.17-13.23.17:872][135]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Valou/Animation/Cop/Jumping_Skeleton.Jumping_Skeleton]
+[2024.05.17-13.23.17:872][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Jumping_Skeleton]
+[2024.05.17-13.23.17:874][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Jumping_Skeleton_Auto4
+[2024.05.17-13.23.17:874][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Jumping_Skeleton_Auto40AABB0C64824950D5C1F508FC7FAFDF2.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Jumping_Skeleton_Auto4.uasset'
+[2024.05.17-13.23.17:875][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Jumping_PhysicsAsset] ([1] browsable assets)...
+[2024.05.17-13.23.17:882][135]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Valou/Animation/Cop/Jumping_PhysicsAsset.Jumping_PhysicsAsset]
+[2024.05.17-13.23.17:882][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Jumping_PhysicsAsset]
+[2024.05.17-13.23.17:888][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Jumping_PhysicsAsset_Auto4
+[2024.05.17-13.23.17:888][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Jumping_PhysicsAsset_Auto4AEAA37664960053E879604B8FD1F8454.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Jumping_PhysicsAsset_Auto4.uasset'
+[2024.05.17-13.23.17:889][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Jumping_Anim] ([1] browsable assets)...
+[2024.05.17-13.23.17:896][135]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Valou/Animation/Cop/Jumping_Anim.Jumping_Anim]
+[2024.05.17-13.23.17:896][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Jumping_Anim]
+[2024.05.17-13.23.17:904][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Jumping_Anim_Auto4
+[2024.05.17-13.23.17:904][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Jumping_Anim_Auto4823249B246E9209C5F4D9BB1BEBAA761.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Jumping_Anim_Auto4.uasset'
+[2024.05.17-13.23.17:905][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Orc_Idle] ([1] browsable assets)...
+[2024.05.17-13.23.17:912][135]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Orc_Idle.Orc_Idle]
+[2024.05.17-13.23.17:912][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Orc_Idle]
+[2024.05.17-13.23.17:956][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Auto4
+[2024.05.17-13.23.17:956][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Orc_Idle_Auto44ED57B71404D9FBE1ACCB399A69675BD.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Auto4.uasset'
+[2024.05.17-13.23.17:958][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Orc_Idle_Skeleton] ([1] browsable assets)...
+[2024.05.17-13.23.17:967][135]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Valou/Animation/Cop/Orc_Idle_Skeleton.Orc_Idle_Skeleton]
+[2024.05.17-13.23.17:967][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Orc_Idle_Skeleton]
+[2024.05.17-13.23.17:969][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Skeleton_Auto4
+[2024.05.17-13.23.17:969][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Orc_Idle_Skeleton_Auto46EAA8B804B95323E5A5E6B92E536101D.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Skeleton_Auto4.uasset'
+[2024.05.17-13.23.17:970][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Orc_Idle_PhysicsAsset] ([1] browsable assets)...
+[2024.05.17-13.23.17:977][135]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Valou/Animation/Cop/Orc_Idle_PhysicsAsset.Orc_Idle_PhysicsAsset]
+[2024.05.17-13.23.17:977][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Orc_Idle_PhysicsAsset]
+[2024.05.17-13.23.17:983][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_PhysicsAsset_Auto4
+[2024.05.17-13.23.17:983][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Orc_Idle_PhysicsAsset_Auto4EDEE6DAC47CB27A1E75CADA8110782AF.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_PhysicsAsset_Auto4.uasset'
+[2024.05.17-13.23.17:984][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Orc_Idle_Anim] ([1] browsable assets)...
+[2024.05.17-13.23.17:992][135]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Valou/Animation/Cop/Orc_Idle_Anim.Orc_Idle_Anim]
+[2024.05.17-13.23.17:992][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Orc_Idle_Anim]
+[2024.05.17-13.23.17:999][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Anim_Auto4
+[2024.05.17-13.23.17:999][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Orc_Idle_Anim_Auto498EA5A8A429B956623C668B4A012793C.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Anim_Auto4.uasset'
+[2024.05.17-13.23.18:001][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Running_1_] ([1] browsable assets)...
+[2024.05.17-13.23.18:023][135]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_]
+[2024.05.17-13.23.18:023][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Running_1_]
+[2024.05.17-13.23.18:062][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Running_1__Auto4
+[2024.05.17-13.23.18:062][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Running_1__Auto4C9CEF15848BA058DC746B79CCEFA1226.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Running_1__Auto4.uasset'
+[2024.05.17-13.23.18:063][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Running_1__Skeleton] ([1] browsable assets)...
+[2024.05.17-13.23.18:072][135]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Valou/Animation/Cop/Running_1__Skeleton.Running_1__Skeleton]
+[2024.05.17-13.23.18:072][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Running_1__Skeleton]
+[2024.05.17-13.23.18:075][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Running_1__Skeleton_Auto4
+[2024.05.17-13.23.18:075][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Running_1__Skeleton_Auto4D1EA443445C5F7818CDCB78F5269D003.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Running_1__Skeleton_Auto4.uasset'
+[2024.05.17-13.23.18:076][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Running_1__PhysicsAsset] ([1] browsable assets)...
+[2024.05.17-13.23.18:083][135]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Valou/Animation/Cop/Running_1__PhysicsAsset.Running_1__PhysicsAsset]
+[2024.05.17-13.23.18:084][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Running_1__PhysicsAsset]
+[2024.05.17-13.23.18:091][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Running_1__PhysicsAsset_Auto4
+[2024.05.17-13.23.18:091][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Running_1__PhysicsAsset_Auto4F56345084AEB84351EE637BABADB61EB.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Running_1__PhysicsAsset_Auto4.uasset'
+[2024.05.17-13.23.18:091][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Running_1__Anim] ([1] browsable assets)...
+[2024.05.17-13.23.18:098][135]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Valou/Animation/Cop/Running_1__Anim.Running_1__Anim]
+[2024.05.17-13.23.18:098][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Running_1__Anim]
+[2024.05.17-13.23.18:105][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Running_1__Anim_Auto4
+[2024.05.17-13.23.18:106][135]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Running_1__Anim_Auto4C1594FB84D51A3FEF45BE1959680202C.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Running_1__Anim_Auto4.uasset'
+[2024.05.17-13.23.18:106][135]LogFileHelpers: Auto-saving content packages took 1.658
+[2024.05.17-13.23.20:298][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.17-13.23.21:211][261]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.17-13.23.21:222][261]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Valou/Animation/Cop/Corps.Corps
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/Casque.Casque
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/Gloves_and_Armbands.Gloves_and_Armbands
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/Shirt.Shirt
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/GiletPareBalles.GiletPareBalles
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/Pants.Pants
+	Asset Type: Material
+	Asset Name: /Game/Valou/Animation/Cop/DamienBoots.DamienBoots
+	Asset Type: Material
+[2024.05.17-13.23.21:473][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.17-13.23.21:479][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.17-13.23.21:485][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.17-13.23.44:578][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.46:590][708]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.05.17-13.23.46:593][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.46:593][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.46:602][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.46:602][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.46:611][708]LoadErrors: The Skeleton  SK_Mannequin  is missing bones that SkeletalMesh  SKM_Manny_Simple   needs. They will be added now. Please save the Skeleton!
+[2024.05.17-13.23.46:698][708]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.17-13.23.46:706][708]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.17-13.23.47:761][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.47:761][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-13.23.47:853][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.23.47:896][708]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.05.17-13.28.04:669][624]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-13.28.04:672][624]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-13.28.09:646][800]LogViewport: Scene viewport resized to 475x419, mode Windowed.
+[2024.05.17-13.28.09:757][802]LogViewport: Scene viewport resized to 228x154, mode Windowed.
+[2024.05.17-13.28.09:801][803]LogViewport: Scene viewport resized to 195x118, mode Windowed.
+[2024.05.17-13.28.11:248][890]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.05.17-13.28.11:687][914]LogViewport: Scene viewport resized to 475x419, mode Windowed.
+[2024.05.17-13.28.11:792][916]LogViewport: Scene viewport resized to 198x121, mode Windowed.
+[2024.05.17-13.28.11:825][917]LogViewport: Scene viewport resized to 195x118, mode Windowed.
+[2024.05.17-13.28.11:971][926]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.05.17-13.28.12:574][962]LogSlate: Window 'ABP_Manny' being destroyed
+[2024.05.17-13.28.14:444][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
