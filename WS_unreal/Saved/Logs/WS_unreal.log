@@ -2813,3 +2813,47 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.05.17-13.28.11:971][926]LogViewport: Scene viewport resized to 476x407, mode Windowed.
 [2024.05.17-13.28.12:574][962]LogSlate: Window 'ABP_Manny' being destroyed
 [2024.05.17-13.28.14:444][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-13.29.36:980][653]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-13.29.36:999][653]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-13.29.37:014][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-13.29.38:647][751]LogContentBrowser: Attempting asset rename: NewFolder -> NPC2
+[2024.05.17-13.29.38:647][751]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-13.29.42:799][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-13.29.42:909][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valou/NewLevelSequence" FILE="C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/NewLevelSequence.uasset" SILENT=true
+[2024.05.17-13.29.42:913][962]LogSavePackage: Moving output files for package: /Game/Valou/NewLevelSequence
+[2024.05.17-13.29.42:913][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/NewLevelSequence0FB8DD2C433CE0A38831E4AEEF182AFC.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/NewLevelSequence.uasset'
+[2024.05.17-13.29.42:936][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Cheering
+[2024.05.17-13.29.42:936][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Cheering88DB753B402CDDD95030A0AAE0B0E4E2.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Cheering.uasset'
+[2024.05.17-13.29.42:937][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valou/Animation/Cheering" FILE="C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/Cheering.uasset" SILENT=true
+[2024.05.17-13.29.42:938][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/Cheering
+[2024.05.17-13.29.42:939][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/CheeringB2D9EFA34505A082A8EE33B879A5BA71.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/Cheering.uasset'
+[2024.05.17-13.29.42:948][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Cheering_Anim
+[2024.05.17-13.29.42:948][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Cheering_AnimC2DC9B1140467DA6F83416AC5BEF4E41.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Cheering_Anim.uasset'
+[2024.05.17-13.29.42:956][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Cheering_PhysicsAsset
+[2024.05.17-13.29.42:956][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Cheering_PhysicsAsset4DF2FB24447BD5DCD5666FA38472CEF3.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Cheering_PhysicsAsset.uasset'
+[2024.05.17-13.29.42:959][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Cheering_Skeleton
+[2024.05.17-13.29.42:959][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Cheering_Skeleton4B7C329D4517C47B87B999B72D5D9541.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Cheering_Skeleton.uasset'
+[2024.05.17-13.29.42:961][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valou/Animation/NPC2/Idle" FILE="C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Idle.uasset" SILENT=true
+[2024.05.17-13.29.42:983][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Idle
+[2024.05.17-13.29.42:983][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/IdleD86B7C654C0E8281C7FA6DB15BA3F738.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Idle.uasset'
+[2024.05.17-13.29.42:995][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Idle_Anim
+[2024.05.17-13.29.42:995][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Idle_Anim7A2AFDD34FE3E9B1B8740786C4AF780B.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Idle_Anim.uasset'
+[2024.05.17-13.29.43:003][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Idle_PhysicsAsset
+[2024.05.17-13.29.43:003][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Idle_PhysicsAsset2BBFB94542E0226C6E50FA9F15F1EA92.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Idle_PhysicsAsset.uasset'
+[2024.05.17-13.29.43:006][962]LogSavePackage: Moving output files for package: /Game/Valou/Animation/NPC2/Idle_Skeleton
+[2024.05.17-13.29.43:006][962]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Idle_Skeleton810FDE9A4162D748A1AC22AE814C9243.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Animation/NPC2/Idle_Skeleton.uasset'
+[2024.05.17-13.29.43:016][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 2.71 sec)
+[2024.05.17-13.29.43:090][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.17-13.29.43:113][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.17-13.29.43:129][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.17-13.29.43:182][962]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-13.29.43:182][962]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Valou/NewLevelSequence.NewLevelSequence
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Valou/Animation/NPC2/Cheering.Cheering
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Valou/Animation/Cheering.Cheering
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Valou/Animation/NPC2/Cheering_Anim.Cheering_Anim
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Valou/Animation/NPC2/Cheering_PhysicsAsset.Cheering_PhysicsAsset
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Valou/Animation/NPC2/Cheering_Skeleton.Cheering_Skeleton
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Valou/Animation/NPC2/Idle.Idle
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Valou/Animation/NPC2/Idle_Anim.Idle_Anim
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Valou/Animation/NPC2/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Valou/Animation/NPC2/Idle_Skeleton.Idle_Skeleton
