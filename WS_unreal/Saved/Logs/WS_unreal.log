@@ -1779,3 +1779,728 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.17-17.45.35:004][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2024.05.17-17.45.35:010][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2024.05.17-17.45.35:019][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 5.00 sec)
+[2024.05.17-17.46.14:494][788]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.17-17.46.17:010][995]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.17-17.46.17:017][995]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.17-17.46.17:049][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.17-17.46.19:449][256]LogContentBrowser: Attempting asset rename: NewMaterial -> BarriereOrange
+[2024.05.17-17.46.19:450][256]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.17-17.46.20:719][377]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+[2024.05.17-17.46.20:753][377]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.46.20:753][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.46.20:997][377]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.46.20:997][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.46.20:997][377]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.46.21:008][377]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.05.17-17.46.21:825][414]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.46.21:825][414]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.46.21:825][414]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.46.21:825][414]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.46.23:351][497]LogViewport: Scene viewport resized to 375x456, mode Windowed.
+[2024.05.17-17.46.23:495][498]LogSlate: Window 'BarriereOrange' being destroyed
+[2024.05.17-17.46.23:507][498]MaterialEditorStats: Base pass shader: 279 instructions
+[2024.05.17-17.46.23:507][498]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.46.23:507][498]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.46.23:507][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.46.23:507][498]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.46.23:522][498]LogViewport: Scene viewport resized to 375x441, mode Windowed.
+[2024.05.17-17.46.29:354][774]LogViewport: Scene viewport resized to 374x441, mode Windowed.
+[2024.05.17-17.46.29:437][774]LogViewport: Scene viewport resized to 363x428, mode Windowed.
+[2024.05.17-17.46.29:492][774]LogViewport: Scene viewport resized to 294x382, mode Windowed.
+[2024.05.17-17.46.29:539][774]LogViewport: Scene viewport resized to 223x316, mode Windowed.
+[2024.05.17-17.46.29:577][774]LogViewport: Scene viewport resized to 164x256, mode Windowed.
+[2024.05.17-17.46.29:618][774]LogViewport: Scene viewport resized to 139x226, mode Windowed.
+[2024.05.17-17.46.29:652][774]LogViewport: Scene viewport resized to 136x220, mode Windowed.
+[2024.05.17-17.46.29:764][774]LogViewport: Scene viewport resized to 136x218, mode Windowed.
+[2024.05.17-17.46.29:999][774]LogViewport: Scene viewport resized to 136x217, mode Windowed.
+[2024.05.17-17.46.30:033][774]LogViewport: Scene viewport resized to 134x212, mode Windowed.
+[2024.05.17-17.46.30:069][774]LogViewport: Scene viewport resized to 131x193, mode Windowed.
+[2024.05.17-17.46.30:103][774]LogViewport: Scene viewport resized to 136x177, mode Windowed.
+[2024.05.17-17.46.30:138][774]LogViewport: Scene viewport resized to 140x175, mode Windowed.
+[2024.05.17-17.46.30:167][774]LogViewport: Scene viewport resized to 142x175, mode Windowed.
+[2024.05.17-17.46.30:201][774]LogViewport: Scene viewport resized to 143x175, mode Windowed.
+[2024.05.17-17.46.30:236][774]LogViewport: Scene viewport resized to 151x175, mode Windowed.
+[2024.05.17-17.46.30:270][774]LogViewport: Scene viewport resized to 161x176, mode Windowed.
+[2024.05.17-17.46.30:305][774]LogViewport: Scene viewport resized to 169x177, mode Windowed.
+[2024.05.17-17.46.30:340][774]LogViewport: Scene viewport resized to 176x171, mode Windowed.
+[2024.05.17-17.46.30:374][774]LogViewport: Scene viewport resized to 184x162, mode Windowed.
+[2024.05.17-17.46.30:409][774]LogViewport: Scene viewport resized to 188x156, mode Windowed.
+[2024.05.17-17.46.30:444][774]LogViewport: Scene viewport resized to 190x145, mode Windowed.
+[2024.05.17-17.46.30:477][774]LogViewport: Scene viewport resized to 197x128, mode Windowed.
+[2024.05.17-17.46.30:514][774]LogViewport: Scene viewport resized to 200x122, mode Windowed.
+[2024.05.17-17.46.30:548][774]LogViewport: Scene viewport resized to 201x122, mode Windowed.
+[2024.05.17-17.46.30:632][774]LogViewport: Scene viewport resized to 202x122, mode Windowed.
+[2024.05.17-17.46.30:666][774]LogViewport: Scene viewport resized to 206x123, mode Windowed.
+[2024.05.17-17.46.30:700][774]LogViewport: Scene viewport resized to 210x124, mode Windowed.
+[2024.05.17-17.46.30:791][774]LogViewport: Scene viewport resized to 212x127, mode Windowed.
+[2024.05.17-17.46.30:826][774]LogViewport: Scene viewport resized to 218x134, mode Windowed.
+[2024.05.17-17.46.30:860][774]LogViewport: Scene viewport resized to 219x138, mode Windowed.
+[2024.05.17-17.46.30:959][774]LogViewport: Scene viewport resized to 220x138, mode Windowed.
+[2024.05.17-17.46.31:000][774]LogViewport: Scene viewport resized to 220x142, mode Windowed.
+[2024.05.17-17.46.31:035][774]LogViewport: Scene viewport resized to 220x144, mode Windowed.
+[2024.05.17-17.46.31:069][774]LogViewport: Scene viewport resized to 221x146, mode Windowed.
+[2024.05.17-17.46.31:103][774]LogViewport: Scene viewport resized to 221x148, mode Windowed.
+[2024.05.17-17.46.31:138][774]LogViewport: Scene viewport resized to 222x151, mode Windowed.
+[2024.05.17-17.46.31:173][774]LogViewport: Scene viewport resized to 222x154, mode Windowed.
+[2024.05.17-17.46.31:208][774]LogViewport: Scene viewport resized to 222x155, mode Windowed.
+[2024.05.17-17.46.31:242][774]LogViewport: Scene viewport resized to 223x155, mode Windowed.
+[2024.05.17-17.46.31:367][774]LogViewport: Scene viewport resized to 222x155, mode Windowed.
+[2024.05.17-17.46.31:694][774]LogViewport: Scene viewport resized to 221x156, mode Windowed.
+[2024.05.17-17.46.31:736][774]LogViewport: Scene viewport resized to 221x157, mode Windowed.
+[2024.05.17-17.46.37:214][952]LogViewport: Scene viewport resized to 221x159, mode Windowed.
+[2024.05.17-17.46.37:256][952]LogViewport: Scene viewport resized to 221x166, mode Windowed.
+[2024.05.17-17.46.37:290][952]LogViewport: Scene viewport resized to 221x170, mode Windowed.
+[2024.05.17-17.46.37:326][952]LogViewport: Scene viewport resized to 221x176, mode Windowed.
+[2024.05.17-17.46.37:360][952]LogViewport: Scene viewport resized to 221x179, mode Windowed.
+[2024.05.17-17.46.40:706][182]LogViewport: Scene viewport resized to 219x179, mode Windowed.
+[2024.05.17-17.46.40:742][182]LogViewport: Scene viewport resized to 211x179, mode Windowed.
+[2024.05.17-17.46.40:777][182]LogViewport: Scene viewport resized to 208x179, mode Windowed.
+[2024.05.17-17.46.40:840][182]LogViewport: Scene viewport resized to 207x179, mode Windowed.
+[2024.05.17-17.46.40:874][182]LogViewport: Scene viewport resized to 206x179, mode Windowed.
+[2024.05.17-17.46.40:909][182]LogViewport: Scene viewport resized to 205x179, mode Windowed.
+[2024.05.17-17.46.40:971][182]LogViewport: Scene viewport resized to 204x179, mode Windowed.
+[2024.05.17-17.46.41:179][182]LogViewport: Scene viewport resized to 209x179, mode Windowed.
+[2024.05.17-17.46.41:215][182]LogViewport: Scene viewport resized to 211x179, mode Windowed.
+[2024.05.17-17.46.41:312][182]LogViewport: Scene viewport resized to 212x179, mode Windowed.
+[2024.05.17-17.47.03:895][  5]LogInterchangeEngine: [Pending] Importing
+[2024.05.17-17.47.03:895][  5]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/valen/Deskt...shop/Unreal/Assets2D/barrière_plastique_jaune_vandalisee.png]
+[2024.05.17-17.47.03:895][  5]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.17-17.47.03:895][  5]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/valen/Deskt...shop/Unreal/Assets2D/barrière_plastique_orange.png]
+[2024.05.17-17.47.03:896][  5]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.17-17.47.03:896][  5]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/valen/Deskt...shop/Unreal/Assets2D/barrière_plastique_orange_vandalisee.png]
+[2024.05.17-17.47.03:896][  5]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.17-17.47.03:896][  5]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/valen/Deskt...shop/Unreal/Assets2D/barrière_plastique_verte.png]
+[2024.05.17-17.47.03:897][  5]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.17-17.47.03:897][  5]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/valen/Deskt...shop/Unreal/Assets2D/barrière_plastique_verte_vandalisee.png]
+[2024.05.17-17.47.03:950][  6]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.17-17.47.03:954][  6]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.17-17.47.03:956][  6]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.17-17.47.03:956][  6]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.17-17.47.03:959][  6]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.17-17.47.03:959][  6]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.17-17.47.04:260][  6]LogTexture: Display: Building textures: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange.barrière_plastique_orange (BGRA8, 2827x1371 x1x1x1) (Required Memory Estimate: 113.414692 MB), EncodeSpeed: Fast
+[2024.05.17-17.47.04:265][  6]LogTexture: Display: Building textures: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte.barrière_plastique_verte (BGRA8, 2827x1371 x1x1x1) (Required Memory Estimate: 113.414692 MB), EncodeSpeed: Fast
+[2024.05.17-17.47.04:277][  6]LogTexture: Display: Building textures: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange_vandalisee.barrière_plastique_orange_vandalisee (BGRA8, 2827x1371 x1x1x1) (Required Memory Estimate: 113.414692 MB), EncodeSpeed: Fast
+[2024.05.17-17.47.04:280][  6]LogTexture: Display: Building textures: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte_vandalisee.barrière_plastique_verte_vandalisee (BGRA8, 2827x1371 x1x1x1) (Required Memory Estimate: 113.414692 MB), EncodeSpeed: Fast
+[2024.05.17-17.47.04:286][  6]LogTexture: Display: Building textures: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_jaune_vandalisee.barrière_plastique_jaune_vandalisee (BGRA8, 2827x1371 x1x1x1) (Required Memory Estimate: 113.414692 MB), EncodeSpeed: Fast
+[2024.05.17-17.47.04:297][  7]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.17-17.47.04:298][  7]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.17-17.47.04:298][  7]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.17-17.47.04:298][  7]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.17-17.47.04:457][  7]LogInterchangeEngine: [Success] Import Done
+[2024.05.17-17.47.04:505][  7]LogInterchangeEngine: [Success] Import Done
+[2024.05.17-17.47.10:532][288]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.47.10:532][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.47.10:532][288]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.47.10:638][291]MaterialEditorStats: Base pass shader: 279 instructions
+[2024.05.17-17.47.10:638][291]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.47.10:638][291]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.47.10:638][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.47.10:638][291]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.47.12:129][386]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.47.12:129][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.12:129][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.12:129][386]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.47.13:753][482]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.47.13:753][482]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-17.47.13:753][482]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.13:753][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.13:753][482]MaterialEditorStats: Shader Count: 3
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: Base pass shader: 283 instructions
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.14:167][506]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.47.20:693][897]LogViewport: Scene viewport resized to 212x180, mode Windowed.
+[2024.05.17-17.47.20:735][897]LogViewport: Scene viewport resized to 212x194, mode Windowed.
+[2024.05.17-17.47.20:776][897]LogViewport: Scene viewport resized to 212x227, mode Windowed.
+[2024.05.17-17.47.20:818][897]LogViewport: Scene viewport resized to 212x260, mode Windowed.
+[2024.05.17-17.47.20:860][897]LogViewport: Scene viewport resized to 212x280, mode Windowed.
+[2024.05.17-17.47.20:895][897]LogViewport: Scene viewport resized to 212x298, mode Windowed.
+[2024.05.17-17.47.20:930][897]LogViewport: Scene viewport resized to 212x316, mode Windowed.
+[2024.05.17-17.47.20:971][897]LogViewport: Scene viewport resized to 212x321, mode Windowed.
+[2024.05.17-17.47.21:033][897]LogViewport: Scene viewport resized to 212x329, mode Windowed.
+[2024.05.17-17.47.21:068][897]LogViewport: Scene viewport resized to 212x343, mode Windowed.
+[2024.05.17-17.47.21:105][897]LogViewport: Scene viewport resized to 212x352, mode Windowed.
+[2024.05.17-17.47.30:547][531]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.47.30:547][531]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.30:547][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.30:547][531]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.47.31:155][557]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.47.31:155][557]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.47.31:155][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.31:155][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.31:155][557]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.47.31:873][590]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.47.31:873][590]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-17.47.31:873][590]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.31:873][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.31:873][590]MaterialEditorStats: Shader Count: 3
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: Base pass shader: 572 instructions
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.32:572][631]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.47.41:702][124]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/Barriere.Barriere
+[2024.05.17-17.47.41:707][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.47.41:707][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.47.41:839][124]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.47.41:839][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.41:839][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.41:839][124]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.47.41:861][124]LogViewport: Scene viewport resized to 212x352, mode Windowed.
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Total job queries 7 893, among them cache hits 251 (3.18%)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Tracking 7 590 distinct input hashes that result in 5 135 distinct outputs (67.65%)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: RAM used: 109,75 MiB of 819,20 MiB budget. Usage: 13.40%
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Shaders Compiled: 7 590
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Jobs assigned 7 590, completed 7 590 (100%)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Average time worker was idle: 3.54 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Time job spent in pending queue: average 175.70 s, longest 332.15 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Job execution time: average 3.58 s, max 20.78 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Job life time (pending + execution): average 179.28 s, max 337.10
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Shader code size: average 33,549 KiB, min 2,078 KiB, max 305,281 KiB
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 378.31 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Jobs were issued in 911 batches (only local compilation was used), average 8.33 jobs/batch
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Average processing rate: 20.06 jobs/sec
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Total thread time: 2 818,455 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Total thread preprocess time: 180,104 s
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Percentage time preprocessing: 6.39%
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Effective parallelization: 7.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                   FMaterialDebugStrataTreePS (compiled    1 times, average 5.98 sec, max 5.98 sec, min 5.98 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.65 sec, max 6.00 sec, min 2.96 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.64 sec, max 9.13 sec, min 0.62 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                         FMaterialPrintInfoCS (compiled    1 times, average 2.75 sec, max 2.75 sec, min 2.75 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 2.39 sec, max 4.06 sec, min 0.73 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                             FDeferredLightPS - 16.21% of total time (compiled  408 times, average 1.12 sec, max 2.06 sec, min 0.21 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 8.48% of total time (compiled  256 times, average 0.93 sec, max 1.46 sec, min 0.41 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.64% of total time (compiled  384 times, average 0.49 sec, max 0.87 sec, min 0.19 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 2.49% of total time (compiled   96 times, average 0.73 sec, max 1.32 sec, min 0.48 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.38% of total time (compiled   55 times, average 1.22 sec, max 4.32 sec, min 0.21 sec)
+[2024.05.17-17.47.41:887][125]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.47.41:917][126]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.47.41:917][126]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.47.41:917][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.47.41:917][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.47.41:917][126]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.48.01:098][348]LogSlate: Window 'Message' being destroyed
+[2024.05.17-17.48.01:104][348]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.17-17.48.01:144][348]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.48.01:144][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.48.07:933][777]LogContentBrowser: Deferred new asset file creation: Barriere1
+[2024.05.17-17.48.07:983][777]LogContentBrowser: Creating deferred item: Barriere1
+[2024.05.17-17.48.08:001][778]LogContentBrowser: Renaming the item being created (Deferred Item: Barriere1).
+[2024.05.17-17.48.14:572][194]LogContentBrowser: Attempting asset rename: Barriere1 -> Barriere1
+[2024.05.17-17.48.14:601][194]LogContentBrowser: End creating deferred item Barriere1
+[2024.05.17-17.48.18:724][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.17-17.48.19:821][439]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.17-17.48.19:844][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.17-17.48.19:856][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.17-17.48.19:864][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.17-17.48.27:280][836]LogContentBrowser: Attempting asset rename: Barriere1 -> BarriereOrange
+[2024.05.17-17.48.27:312][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.48.27:429][836]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange
+[2024.05.17-17.48.27:429][836]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BarriereOrange8E3E53404E44C9F97D5D7494E9050D07.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/BarriereOrange.uasset'
+[2024.05.17-17.48.27:439][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 5.13 sec)
+[2024.05.17-17.48.27:451][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.17-17.48.27:459][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.17-17.48.27:466][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.17-17.48.27:467][836]AssetCheck: New page: Asset Save: BarriereOrange
+[2024.05.17-17.48.27:467][836]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+[2024.05.17-17.48.33:215][ 85]LogContentBrowser: Deferred new asset file creation: BarriereOrange1
+[2024.05.17-17.48.33:267][ 85]LogContentBrowser: Creating deferred item: BarriereOrange1
+[2024.05.17-17.48.33:285][ 86]LogContentBrowser: Renaming the item being created (Deferred Item: BarriereOrange1).
+[2024.05.17-17.48.37:305][343]LogContentBrowser: Attempting asset rename: BarriereOrange1 -> BarriereOrangeVandalisee
+[2024.05.17-17.48.37:310][343]LogContentBrowser: End creating deferred item BarriereOrange1
+[2024.05.17-17.48.40:282][515]LogContentBrowser: Deferred new asset file creation: BarriereOrangeVandalisee1
+[2024.05.17-17.48.40:301][515]LogContentBrowser: Creating deferred item: BarriereOrangeVandalisee1
+[2024.05.17-17.48.40:318][516]LogContentBrowser: Renaming the item being created (Deferred Item: BarriereOrangeVandalisee1).
+[2024.05.17-17.48.42:663][664]LogContentBrowser: Attempting asset rename: BarriereOrangeVandalisee1 -> BarriereVerte
+[2024.05.17-17.48.42:669][664]LogContentBrowser: End creating deferred item BarriereOrangeVandalisee1
+[2024.05.17-17.48.45:571][833]LogContentBrowser: Deferred new asset file creation: BarriereVerte1
+[2024.05.17-17.48.45:586][833]LogContentBrowser: Creating deferred item: BarriereVerte1
+[2024.05.17-17.48.45:604][834]LogContentBrowser: Renaming the item being created (Deferred Item: BarriereVerte1).
+[2024.05.17-17.48.51:621][211]LogContentBrowser: Attempting asset rename: BarriereVerte1 -> BarriereVerteVandalisee
+[2024.05.17-17.48.51:625][211]LogContentBrowser: End creating deferred item BarriereVerte1
+[2024.05.17-17.48.57:065][450]LogViewport: Scene viewport resized to 212x351, mode Windowed.
+[2024.05.17-17.48.57:107][450]LogViewport: Scene viewport resized to 212x315, mode Windowed.
+[2024.05.17-17.48.57:142][450]LogViewport: Scene viewport resized to 212x248, mode Windowed.
+[2024.05.17-17.48.57:177][450]LogViewport: Scene viewport resized to 212x194, mode Windowed.
+[2024.05.17-17.48.57:212][450]LogViewport: Scene viewport resized to 212x177, mode Windowed.
+[2024.05.17-17.48.57:252][450]LogViewport: Scene viewport resized to 212x168, mode Windowed.
+[2024.05.17-17.48.57:288][450]LogViewport: Scene viewport resized to 212x155, mode Windowed.
+[2024.05.17-17.48.57:322][450]LogViewport: Scene viewport resized to 212x133, mode Windowed.
+[2024.05.17-17.48.57:357][450]LogViewport: Scene viewport resized to 212x101, mode Windowed.
+[2024.05.17-17.48.57:392][450]LogViewport: Scene viewport resized to 212x89, mode Windowed.
+[2024.05.17-17.48.57:419][450]LogViewport: Scene viewport resized to 212x88, mode Windowed.
+[2024.05.17-17.48.57:454][450]LogViewport: Scene viewport resized to 212x90, mode Windowed.
+[2024.05.17-17.48.57:488][450]LogViewport: Scene viewport resized to 212x105, mode Windowed.
+[2024.05.17-17.48.57:523][450]LogViewport: Scene viewport resized to 212x123, mode Windowed.
+[2024.05.17-17.48.57:559][450]LogViewport: Scene viewport resized to 212x139, mode Windowed.
+[2024.05.17-17.48.57:593][450]LogViewport: Scene viewport resized to 212x144, mode Windowed.
+[2024.05.17-17.48.57:711][450]LogViewport: Scene viewport resized to 212x145, mode Windowed.
+[2024.05.17-17.49.04:884][884]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.04:884][884]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.04:884][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.04:884][884]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.04:941][886]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.04:941][886]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.04:941][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.04:942][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.04:942][886]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.07:905][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.07:905][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.07:905][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.07:905][ 68]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.08:515][ 98]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.08:515][ 98]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.49.08:515][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.08:515][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.08:515][ 98]MaterialEditorStats: Shader Count: 1
+[2024.05.17-17.49.10:415][200]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.10:415][200]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.10:415][200]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.10:415][200]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.11:382][263]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.11:382][263]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.49.11:382][263]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.11:382][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.11:382][263]MaterialEditorStats: Shader Count: 1
+[2024.05.17-17.49.11:487][269]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.11:487][269]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.11:487][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.11:487][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.11:487][269]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.13:079][365]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.13:080][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.13:080][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.13:080][365]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.13:133][367]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.13:134][367]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.13:134][367]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.13:134][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.13:134][367]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.13:852][411]LogMaterialEditor: Saving and Compiling material Barriere
+[2024.05.17-17.49.13:895][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.17-17.49.14:126][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.17-17.49.14:138][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.49.14:277][411]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/Barriere
+[2024.05.17-17.49.14:277][411]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Barriere45E159C8458B4846637398AD5E2FE03E.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/Barriere.uasset'
+[2024.05.17-17.49.14:287][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 5.28 sec)
+[2024.05.17-17.49.14:289][411]AssetCheck: New page: Asset Save: Barriere
+[2024.05.17-17.49.14:289][411]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/Barriere.Barriere
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.14:290][411]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.49.19:107][666]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.19:107][666]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.19:107][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.19:107][666]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.19:165][668]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.19:165][668]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.19:165][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.19:165][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.19:165][668]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.21:138][792]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.21:138][792]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.21:138][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.21:138][792]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.21:186][794]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.21:186][794]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.17-17.49.21:186][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.21:186][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.21:186][794]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.22:710][888]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.22:710][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.22:710][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.22:710][888]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.22:757][890]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.22:757][890]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.22:757][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.22:757][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.22:757][890]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.24:601][  6]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.24:601][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.24:601][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.24:601][  6]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.24:652][  8]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.24:652][  8]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.24:652][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.24:652][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.24:652][  8]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.25:297][ 47]LogMaterialEditor: Saving and Compiling material Barriere
+[2024.05.17-17.49.25:340][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.17-17.49.25:561][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.17-17.49.25:574][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.49.25:705][ 47]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/Barriere
+[2024.05.17-17.49.25:705][ 47]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Barriere5DA1D0034F9E7FD1643E148EF95461AB.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/Barriere.uasset'
+[2024.05.17-17.49.25:716][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 5.42 sec)
+[2024.05.17-17.49.25:717][ 47]AssetCheck: New page: Asset Save: Barriere
+[2024.05.17-17.49.25:717][ 47]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/Barriere.Barriere
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.25:719][ 47]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.49.26:452][ 87]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+[2024.05.17-17.49.26:457][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.49.26:457][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.49.26:587][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.26:587][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.26:587][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.26:587][ 87]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.26:602][ 87]LogViewport: Scene viewport resized to 212x145, mode Windowed.
+[2024.05.17-17.49.26:654][ 89]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.26:654][ 89]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.26:654][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.26:654][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.26:654][ 89]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.28:095][171]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.49.28:095][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.49.40:119][955]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.40:119][955]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.40:119][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.40:119][955]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.40:178][957]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.40:178][957]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.40:178][957]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.40:178][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.40:178][957]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.42:935][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.42:935][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.42:935][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.42:935][120]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.42:981][122]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.42:981][122]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.17-17.49.42:981][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-17.49.42:981][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.42:981][122]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.44:669][220]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.44:669][220]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.44:669][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.44:669][220]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.44:716][222]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.44:717][222]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.44:717][222]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.44:717][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.44:717][222]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.45:079][242]LogMaterialEditor: Saving and Compiling material BarriereOrange
+[2024.05.17-17.49.45:123][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.17-17.49.46:088][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.17-17.49.46:101][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.49.48:232][242]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.17-17.49.48:716][242]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.489926s (0.489926s overbudget)
+[2024.05.17-17.49.48:737][242]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange
+[2024.05.17-17.49.48:737][242]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BarriereOrange6062AA82489285447AA7A28F19308376.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/BarriereOrange.uasset'
+[2024.05.17-17.49.48:747][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 8.07 sec)
+[2024.05.17-17.49.48:748][242]AssetCheck: New page: Asset Save: BarriereOrange
+[2024.05.17-17.49.48:748][242]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.48:749][242]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.49.50:752][355]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.50:752][355]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.50:752][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.50:752][355]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.50:796][357]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.50:796][357]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.50:796][357]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.50:796][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.50:796][357]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.51:526][397]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrangeVandalisee.BarriereOrangeVandalisee
+[2024.05.17-17.49.51:530][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.49.51:530][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.49.51:659][397]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.51:659][397]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.51:659][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.51:659][397]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.51:674][397]LogViewport: Scene viewport resized to 212x145, mode Windowed.
+[2024.05.17-17.49.51:727][399]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.49.51:727][399]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.49.51:727][399]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.49.51:727][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.49.51:727][399]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.55:194][616]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.55:194][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.49.55:194][616]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.55:796][644]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.49.55:796][644]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.49.55:797][644]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.49.55:797][644]MaterialEditorStats: Shader Count: 1
+[2024.05.17-17.49.58:741][811]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.49.58:742][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.49.58:742][811]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.49.58:797][813]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.49.58:797][813]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.49.58:797][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.49.58:797][813]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.03:022][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.03:022][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.03:022][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.03:022][ 91]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.03:592][125]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.03:592][125]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.50.03:592][125]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.03:592][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.03:592][125]MaterialEditorStats: Shader Count: 1
+[2024.05.17-17.50.05:195][210]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.05:196][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.05:196][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.05:196][210]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.05:248][212]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.05:248][212]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.05:248][212]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.05:248][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.05:248][212]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.06:932][323]LogMaterialEditor: Saving and Compiling material BarriereOrangeVandalisee
+[2024.05.17-17.50.06:974][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.17-17.50.07:197][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.17-17.50.07:210][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.50.07:344][323]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/BarriereOrangeVandalisee
+[2024.05.17-17.50.07:344][323]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BarriereOrangeVandalisee6E45D7F44459531A1CCBD2B15EAB6BF1.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/BarriereOrangeVandalisee.uasset'
+[2024.05.17-17.50.07:354][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 8.21 sec)
+[2024.05.17-17.50.07:355][323]AssetCheck: New page: Asset Save: BarriereOrangeVandalisee
+[2024.05.17-17.50.07:355][323]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/BarriereOrangeVandalisee.BarriereOrangeVandalisee
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.07:356][323]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.50.08:353][377]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.50.08:353][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.50.10:767][431]LogSlate: Window 'Message' being destroyed
+[2024.05.17-17.50.10:775][431]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.17-17.50.11:615][476]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/BarriereVerte.BarriereVerte
+[2024.05.17-17.50.11:620][476]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.50.11:620][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.50.11:750][476]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.11:751][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.11:751][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.11:751][476]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.11:764][476]LogViewport: Scene viewport resized to 212x145, mode Windowed.
+[2024.05.17-17.50.11:819][478]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.11:819][478]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.11:819][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.11:819][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.11:819][478]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.15:186][695]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.15:186][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.15:186][695]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.15:227][697]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.50.15:227][697]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.50.15:227][697]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.15:227][697]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.16:822][789]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.16:822][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.16:822][789]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.16:878][791]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.50.16:878][791]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.50.16:878][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.16:878][791]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.18:167][866]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.18:167][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.18:167][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.18:167][866]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.18:217][868]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.18:217][868]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.18:217][868]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.18:217][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.18:217][868]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.20:946][ 22]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.20:946][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.20:946][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.20:946][ 22]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.20:995][ 24]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.20:996][ 24]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.20:996][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.20:996][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.20:996][ 24]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.22:296][ 97]LogMaterialEditor: Applying material BarriereVerte
+[2024.05.17-17.50.22:340][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.17-17.50.22:568][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.17-17.50.22:580][ 97]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-17.50.22:580][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.22:580][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.22:580][ 97]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.22:617][ 99]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.22:617][ 99]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.22:617][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.22:617][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.22:617][ 99]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.50.24:033][180]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Valou/Matériaux/MobilierUrbain/BarriereVerteVandalisee.BarriereVerteVandalisee
+[2024.05.17-17.50.24:039][180]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.50.24:039][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.50.24:181][180]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.24:181][180]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.24:181][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.24:181][180]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.24:196][180]LogViewport: Scene viewport resized to 212x145, mode Windowed.
+[2024.05.17-17.50.24:248][182]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.24:248][182]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.24:248][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.24:248][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.24:248][182]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.27:290][377]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.27:290][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.27:290][377]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.27:328][379]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.50.27:328][379]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.50.27:328][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.27:329][379]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.28:665][454]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.28:665][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.28:665][454]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.28:716][456]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.05.17-17.50.28:716][456]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.50.28:716][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.50.28:716][456]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.29:934][526]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.29:934][526]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.29:934][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.29:934][526]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.29:977][528]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.29:977][528]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.29:977][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.29:977][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.29:977][528]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.34:164][773]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.50.34:164][773]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.34:164][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.34:164][773]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.50.34:217][775]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.34:217][775]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.34:217][775]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.34:217][775]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.34:217][775]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.35:620][861]LogMaterialEditor: Applying material BarriereVerteVandalisee
+[2024.05.17-17.50.35:664][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.17-17.50.35:886][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.17-17.50.35:898][861]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-17.50.35:898][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.35:898][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.35:898][861]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.50.35:929][863]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.35:929][863]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.35:930][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.35:930][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.35:930][863]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.50.46:798][ 93]LogSlate: Window 'Message' being destroyed
+[2024.05.17-17.50.46:804][ 93]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Valou/Matériaux/MobilierUrbain/BarriereOrange.BarriereOrange
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.17-17.50.46:851][ 93]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.50.46:851][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.50.49:538][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.17-17.50.50:697][243]LogSlate: Window 'Save Content' being destroyed
+[2024.05.17-17.50.50:712][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: Total job queries 8 214, among them cache hits 544 (6.62%)
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: Tracking 7 618 distinct input hashes that result in 5 140 distinct outputs (67.47%)
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: RAM used: 110,69 MiB of 819,20 MiB budget. Usage: 13.51%
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: Shaders Compiled: 7 618
+[2024.05.17-17.50.50:852][243]LogShaderCompilers: Display: Jobs assigned 7 618, completed 7 618 (100%)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Average time worker was idle: 5.64 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Time job spent in pending queue: average 175.05 s, longest 332.15 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Job execution time: average 3.57 s, max 20.78 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Job life time (pending + execution): average 178.62 s, max 337.10
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Shader code size: average 33,664 KiB, min 2,078 KiB, max 305,281 KiB
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 386.42 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Jobs were issued in 939 batches (only local compilation was used), average 8.11 jobs/batch
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Average processing rate: 19.71 jobs/sec
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Total thread time: 2 839,565 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Total thread preprocess time: 181,551 s
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Percentage time preprocessing: 6.39%
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Effective parallelization: 7.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                   FMaterialDebugStrataTreePS (compiled    1 times, average 5.98 sec, max 5.98 sec, min 5.98 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.65 sec, max 6.00 sec, min 2.96 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.64 sec, max 9.13 sec, min 0.62 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                         FMaterialPrintInfoCS (compiled    1 times, average 2.75 sec, max 2.75 sec, min 2.75 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 2.39 sec, max 4.06 sec, min 0.73 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                             FDeferredLightPS - 16.09% of total time (compiled  408 times, average 1.12 sec, max 2.06 sec, min 0.21 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 8.42% of total time (compiled  256 times, average 0.93 sec, max 1.46 sec, min 0.41 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.59% of total time (compiled  384 times, average 0.49 sec, max 0.87 sec, min 0.19 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 2.47% of total time (compiled   96 times, average 0.73 sec, max 1.32 sec, min 0.48 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.42% of total time (compiled   57 times, average 1.20 sec, max 4.32 sec, min 0.21 sec)
+[2024.05.17-17.50.50:854][243]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.50.50:872][243]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/BarriereVerte
+[2024.05.17-17.50.50:872][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BarriereVerte93BCE7DD4D6E62F9899C4686AD11C8D3.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/BarriereVerte.uasset'
+[2024.05.17-17.50.50:900][243]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/BarriereVerteVandalisee
+[2024.05.17-17.50.50:900][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BarriereVerteVandalisee83A013AC4FB5CE2DDD6DD9A0EB25D09B.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/BarriereVerteVandalisee.uasset'
+[2024.05.17-17.50.50:967][243]LogSavePackage: Moving output files for package: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_jaune_vandalisee
+[2024.05.17-17.50.50:967][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/barrière_plastique_jaune_vandali9DEDC7024ED459389E3EA8B2437C703E.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Maps/AssetsUrbains/barrière_plastique_jaune_vandalisee.uasset'
+[2024.05.17-17.50.51:029][243]LogSavePackage: Moving output files for package: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange
+[2024.05.17-17.50.51:030][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/barrière_plastique_orangeE75E417341F224F335DDC099B6ED2F77.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Maps/AssetsUrbains/barrière_plastique_orange.uasset'
+[2024.05.17-17.50.51:096][243]LogSavePackage: Moving output files for package: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange_vandalisee
+[2024.05.17-17.50.51:097][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/barrière_plastique_orange_vandalDA0DA8314DCF0FFE22D1ED910066FB6C.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Maps/AssetsUrbains/barrière_plastique_orange_vandalisee.uasset'
+[2024.05.17-17.50.51:156][243]LogSavePackage: Moving output files for package: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte
+[2024.05.17-17.50.51:156][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/barrière_plastique_verte988F0F1249732425DF0BAFAC4146D108.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Maps/AssetsUrbains/barrière_plastique_verte.uasset'
+[2024.05.17-17.50.51:220][243]LogSavePackage: Moving output files for package: /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte_vandalisee
+[2024.05.17-17.50.51:220][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/barrière_plastique_verte_vandali5B8DB9374DC9D202EA9D09BA06CA1D07.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Maps/AssetsUrbains/barrière_plastique_verte_vandalisee.uasset'
+[2024.05.17-17.50.51:250][243]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/FeuCirculationPieton
+[2024.05.17-17.50.51:250][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/FeuCirculationPietonE19BD2A94784AD2BC3983EA4B9209EAA.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/FeuCirculationPieton.uasset'
+[2024.05.17-17.50.51:280][243]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/FeuTricolore
+[2024.05.17-17.50.51:281][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/FeuTricolore7194EDBF4EC3203DFDA785A591BC2A61.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/FeuTricolore.uasset'
+[2024.05.17-17.50.51:293][243]LogSavePackage: Moving output files for package: /Game/Valou/Assets3D/MobilierUrbain_Abribus
+[2024.05.17-17.50.51:293][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/MobilierUrbain_AbribusC74EA23E42776FA27B9B079175881AF2.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Assets3D/MobilierUrbain_Abribus.uasset'
+[2024.05.17-17.50.51:304][243]LogSavePackage: Moving output files for package: /Game/Valou/Assets3D/MobilierUrbain_BoucheIncendie
+[2024.05.17-17.50.51:304][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/MobilierUrbain_BoucheIncendieFFBE4DF641F9A15E879C26811CC5F838.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Assets3D/MobilierUrbain_BoucheIncendie.uasset'
+[2024.05.17-17.50.51:331][243]LogSavePackage: Moving output files for package: /Game/Valou/Matériaux/MobilierUrbain/Poubelle
+[2024.05.17-17.50.51:331][243]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Poubelle58766CD340BF32BF629B02A1E3EF4745.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/Valou/Matériaux/MobilierUrbain/Poubelle.uasset'
+[2024.05.17-17.50.51:341][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 628 ms (total: 8.84 sec)
+[2024.05.17-17.50.51:344][243]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/BarriereVerte.BarriereVerte
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/BarriereVerteVandalisee.BarriereVerteVandalisee
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Valou/Maps/AssetsUrbains/barrière_plastique_jaune_vandalisee.barrière_plastique_jaune_vandalisee
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange.barrière_plastique_orange
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Valou/Maps/AssetsUrbains/barrière_plastique_orange_vandalisee.barrière_plastique_orange_vandalisee
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte.barrière_plastique_verte
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Valou/Maps/AssetsUrbains/barrière_plastique_verte_vandalisee.barrière_plastique_verte_vandalisee
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/FeuCirculationPieton.FeuCirculationPieton
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/FeuTricolore.FeuTricolore
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Valou/Assets3D/MobilierUrbain_Abribus.MobilierUrbain_Abribus
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Valou/Assets3D/MobilierUrbain_BoucheIncendie.MobilierUrbain_BoucheIncendie
+[2024.05.17-17.50.51:344][243]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Valou/Matériaux/MobilierUrbain/Poubelle.Poubelle
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.50.51:345][243]MaterialEditorStats: Shader Count: 20
+[2024.05.17-17.50.52:775][327]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.50.52:775][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.50.53:274][357]LogSlate: Window 'BarriereVerteVandalisee' being destroyed
+[2024.05.17-17.50.53:304][357]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.50.53:304][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.50.55:147][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.50.55:249][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.17-17.50.55:263][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.17-17.50.55:267][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.17-17.50.55:289][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 8.98 sec)
