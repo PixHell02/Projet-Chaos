@@ -2857,3 +2857,26 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Valou/Animation/NPC2/Idle_Anim.Idle_Anim
 [2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Valou/Animation/NPC2/Idle_PhysicsAsset.Idle_PhysicsAsset
 [2024.05.17-13.29.43:183][962]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Valou/Animation/NPC2/Idle_Skeleton.Idle_Skeleton
+[2024.05.17-13.33.18:738][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.17-13.33.18:740][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2024.05.17-13.33.18:740][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Walking_1_] ([1] browsable assets)...
+[2024.05.17-13.33.18:775][746]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_]
+[2024.05.17-13.33.18:775][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Walking_1_]
+[2024.05.17-13.33.18:813][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Walking_1__Auto5
+[2024.05.17-13.33.18:813][746]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Walking_1__Auto519A8B6154229F6CF480917AE88466DD8.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Walking_1__Auto5.uasset'
+[2024.05.17-13.33.18:814][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Running_1_] ([1] browsable assets)...
+[2024.05.17-13.33.18:829][746]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_]
+[2024.05.17-13.33.18:829][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Running_1_]
+[2024.05.17-13.33.18:868][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Running_1__Auto5
+[2024.05.17-13.33.18:868][746]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Running_1__Auto5D3275BD345584B2688A40E9C7776E732.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Running_1__Auto5.uasset'
+[2024.05.17-13.33.18:871][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Jumping] ([1] browsable assets)...
+[2024.05.17-13.33.18:886][746]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping]
+[2024.05.17-13.33.18:887][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Jumping]
+[2024.05.17-13.33.18:925][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Jumping_Auto5
+[2024.05.17-13.33.18:925][746]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Jumping_Auto598DA3B1C405AACB6A41A9C9DCA761C70.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Jumping_Auto5.uasset'
+[2024.05.17-13.33.18:926][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Valou/Animation/Cop/Orc_Idle] ([1] browsable assets)...
+[2024.05.17-13.33.18:941][746]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Valou/Animation/Cop/Orc_Idle.Orc_Idle]
+[2024.05.17-13.33.18:941][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Valou/Animation/Cop/Orc_Idle]
+[2024.05.17-13.33.18:978][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Auto5
+[2024.05.17-13.33.18:978][746]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Orc_Idle_Auto5229BB7BC440CE9FAFD8D78AC92080D9A.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Valou/Animation/Cop/Orc_Idle_Auto5.uasset'
+[2024.05.17-13.33.18:979][746]LogFileHelpers: Auto-saving content packages took 0.239
