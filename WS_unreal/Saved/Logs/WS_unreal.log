@@ -10740,3 +10740,574 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.05.17-14.42.24:124][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 7.96 sec)
 [2024.05.17-14.42.24:125][ 50]AssetCheck: New page: Asset Save: NewLevelSequence
 [2024.05.17-14.42.24:125][ 50]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Valou/NewLevelSequence.NewLevelSequence
+[2024.05.17-14.43.09:357][697]LogViewport: Scene viewport resized to 1328x534, mode Windowed.
+[2024.05.17-14.43.09:371][698]LogViewport: Scene viewport resized to 1328x527, mode Windowed.
+[2024.05.17-14.43.09:388][699]LogViewport: Scene viewport resized to 1328x506, mode Windowed.
+[2024.05.17-14.43.09:408][700]LogViewport: Scene viewport resized to 1328x491, mode Windowed.
+[2024.05.17-14.43.09:427][701]LogViewport: Scene viewport resized to 1328x468, mode Windowed.
+[2024.05.17-14.43.09:447][702]LogViewport: Scene viewport resized to 1328x418, mode Windowed.
+[2024.05.17-14.43.09:465][703]LogViewport: Scene viewport resized to 1328x374, mode Windowed.
+[2024.05.17-14.43.09:485][704]LogViewport: Scene viewport resized to 1328x332, mode Windowed.
+[2024.05.17-14.43.09:503][705]LogViewport: Scene viewport resized to 1328x315, mode Windowed.
+[2024.05.17-14.43.09:522][706]LogViewport: Scene viewport resized to 1328x305, mode Windowed.
+[2024.05.17-14.43.09:540][707]LogViewport: Scene viewport resized to 1328x295, mode Windowed.
+[2024.05.17-14.43.09:557][708]LogViewport: Scene viewport resized to 1328x279, mode Windowed.
+[2024.05.17-14.43.09:575][709]LogViewport: Scene viewport resized to 1328x265, mode Windowed.
+[2024.05.17-14.43.09:595][710]LogViewport: Scene viewport resized to 1328x257, mode Windowed.
+[2024.05.17-14.43.09:614][711]LogViewport: Scene viewport resized to 1328x248, mode Windowed.
+[2024.05.17-14.43.09:631][712]LogViewport: Scene viewport resized to 1328x245, mode Windowed.
+[2024.05.17-14.43.09:651][713]LogViewport: Scene viewport resized to 1328x243, mode Windowed.
+[2024.05.17-14.43.09:671][714]LogViewport: Scene viewport resized to 1328x242, mode Windowed.
+[2024.05.17-14.44.26:186][388]LogViewport: Scene viewport resized to 1328x244, mode Windowed.
+[2024.05.17-14.44.26:199][389]LogViewport: Scene viewport resized to 1328x256, mode Windowed.
+[2024.05.17-14.44.26:216][390]LogViewport: Scene viewport resized to 1328x270, mode Windowed.
+[2024.05.17-14.44.26:234][391]LogViewport: Scene viewport resized to 1328x286, mode Windowed.
+[2024.05.17-14.44.26:253][392]LogViewport: Scene viewport resized to 1328x304, mode Windowed.
+[2024.05.17-14.44.26:272][393]LogViewport: Scene viewport resized to 1328x312, mode Windowed.
+[2024.05.17-14.44.26:292][394]LogViewport: Scene viewport resized to 1328x319, mode Windowed.
+[2024.05.17-14.44.26:309][395]LogViewport: Scene viewport resized to 1328x337, mode Windowed.
+[2024.05.17-14.44.26:329][396]LogViewport: Scene viewport resized to 1328x350, mode Windowed.
+[2024.05.17-14.44.26:348][397]LogViewport: Scene viewport resized to 1328x362, mode Windowed.
+[2024.05.17-14.44.26:366][398]LogViewport: Scene viewport resized to 1328x379, mode Windowed.
+[2024.05.17-14.44.26:386][399]LogViewport: Scene viewport resized to 1328x392, mode Windowed.
+[2024.05.17-14.44.26:404][400]LogViewport: Scene viewport resized to 1328x413, mode Windowed.
+[2024.05.17-14.44.26:423][401]LogViewport: Scene viewport resized to 1328x423, mode Windowed.
+[2024.05.17-14.44.26:442][402]LogViewport: Scene viewport resized to 1328x430, mode Windowed.
+[2024.05.17-14.44.26:463][403]LogViewport: Scene viewport resized to 1328x432, mode Windowed.
+[2024.05.17-14.44.26:564][414]LogViewport: Scene viewport resized to 1328x428, mode Windowed.
+[2024.05.17-14.44.26:577][415]LogViewport: Scene viewport resized to 1328x421, mode Windowed.
+[2024.05.17-14.44.26:596][416]LogViewport: Scene viewport resized to 1328x400, mode Windowed.
+[2024.05.17-14.44.26:614][417]LogViewport: Scene viewport resized to 1328x388, mode Windowed.
+[2024.05.17-14.44.26:631][418]LogViewport: Scene viewport resized to 1328x374, mode Windowed.
+[2024.05.17-14.44.26:651][419]LogViewport: Scene viewport resized to 1328x361, mode Windowed.
+[2024.05.17-14.44.26:672][420]LogViewport: Scene viewport resized to 1328x337, mode Windowed.
+[2024.05.17-14.44.26:688][421]LogViewport: Scene viewport resized to 1328x323, mode Windowed.
+[2024.05.17-14.44.26:702][422]LogViewport: Scene viewport resized to 1328x312, mode Windowed.
+[2024.05.17-14.44.26:723][423]LogViewport: Scene viewport resized to 1328x306, mode Windowed.
+[2024.05.17-14.44.26:737][424]LogViewport: Scene viewport resized to 1328x299, mode Windowed.
+[2024.05.17-14.44.26:755][425]LogViewport: Scene viewport resized to 1328x297, mode Windowed.
+[2024.05.17-14.44.26:774][426]LogViewport: Scene viewport resized to 1328x294, mode Windowed.
+[2024.05.17-14.44.26:791][427]LogViewport: Scene viewport resized to 1328x290, mode Windowed.
+[2024.05.17-14.44.26:810][428]LogViewport: Scene viewport resized to 1328x287, mode Windowed.
+[2024.05.17-14.44.26:959][445]LogViewport: Scene viewport resized to 1328x284, mode Windowed.
+[2024.05.17-14.44.26:973][446]LogViewport: Scene viewport resized to 1328x281, mode Windowed.
+[2024.05.17-14.44.26:995][447]LogViewport: Scene viewport resized to 1328x278, mode Windowed.
+[2024.05.17-14.44.27:016][448]LogViewport: Scene viewport resized to 1328x277, mode Windowed.
+[2024.05.17-14.44.27:032][449]LogViewport: Scene viewport resized to 1328x274, mode Windowed.
+[2024.05.17-14.44.27:047][450]LogViewport: Scene viewport resized to 1328x271, mode Windowed.
+[2024.05.17-14.44.27:066][451]LogViewport: Scene viewport resized to 1328x270, mode Windowed.
+[2024.05.17-14.44.27:087][452]LogViewport: Scene viewport resized to 1328x264, mode Windowed.
+[2024.05.17-14.44.27:102][453]LogViewport: Scene viewport resized to 1328x258, mode Windowed.
+[2024.05.17-14.44.27:120][454]LogViewport: Scene viewport resized to 1328x254, mode Windowed.
+[2024.05.17-14.44.27:139][455]LogViewport: Scene viewport resized to 1328x246, mode Windowed.
+[2024.05.17-14.44.27:156][456]LogViewport: Scene viewport resized to 1328x232, mode Windowed.
+[2024.05.17-14.44.27:175][457]LogViewport: Scene viewport resized to 1328x225, mode Windowed.
+[2024.05.17-14.44.27:194][458]LogViewport: Scene viewport resized to 1328x222, mode Windowed.
+[2024.05.17-14.44.27:213][459]LogViewport: Scene viewport resized to 1328x215, mode Windowed.
+[2024.05.17-14.44.27:232][460]LogViewport: Scene viewport resized to 1328x214, mode Windowed.
+[2024.05.17-14.44.27:250][461]LogViewport: Scene viewport resized to 1328x212, mode Windowed.
+[2024.05.17-14.44.27:266][462]LogViewport: Scene viewport resized to 1328x206, mode Windowed.
+[2024.05.17-14.44.27:285][463]LogViewport: Scene viewport resized to 1328x194, mode Windowed.
+[2024.05.17-14.44.27:303][464]LogViewport: Scene viewport resized to 1328x189, mode Windowed.
+[2024.05.17-14.44.27:321][465]LogViewport: Scene viewport resized to 1328x183, mode Windowed.
+[2024.05.17-14.44.27:339][466]LogViewport: Scene viewport resized to 1328x177, mode Windowed.
+[2024.05.17-14.44.27:358][467]LogViewport: Scene viewport resized to 1328x172, mode Windowed.
+[2024.05.17-14.44.27:375][468]LogViewport: Scene viewport resized to 1328x170, mode Windowed.
+[2024.05.17-14.44.27:398][469]LogViewport: Scene viewport resized to 1328x168, mode Windowed.
+[2024.05.17-14.45.21:635][284]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/FBX/Cars/BrokenCar.fbx)
+[2024.05.17-14.45.21:643][284]LogFbx: Loading FBX Scene from C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/FBX/Cars/BrokenCar.fbx
+[2024.05.17-14.45.21:649][284]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-14.45.23:278][284]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.17-14.45.23:428][284]LogFbx: Display: Triangulating static mesh BrokenCar
+[2024.05.17-14.45.23:459][284]LogStaticMesh: Display: Building static mesh BrokenCar_BrokenCar...
+[2024.05.17-14.45.23:478][284]LogStaticMesh: Built static mesh [0.02s] /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.23:496][284]LogFbx: Display: Triangulating static mesh PorteArriereGauche.001
+[2024.05.17-14.45.23:501][284]LogStaticMesh: Display: Building static mesh BrokenCar_PorteArriereGauche_001...
+[2024.05.17-14.45.23:506][284]LogStaticMesh: Built static mesh [0.01s] /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.23:516][284]LogFbx: Display: Triangulating static mesh PorteAvantDroite.001
+[2024.05.17-14.45.23:525][284]LogStaticMesh: Display: Building static mesh BrokenCar_PorteAvantDroite_001...
+[2024.05.17-14.45.23:532][284]LogStaticMesh: Built static mesh [0.01s] /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.23:543][284]LogFbx: Display: Triangulating static mesh RoueArriereDroite.001
+[2024.05.17-14.45.23:557][284]LogStaticMesh: Display: Building static mesh BrokenCar_RoueArriereDroite_001...
+[2024.05.17-14.45.23:566][284]LogStaticMesh: Built static mesh [0.01s] /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.23:577][284]LogFbx: Display: Triangulating static mesh RoueArriereGauche.001
+[2024.05.17-14.45.23:592][284]LogStaticMesh: Display: Building static mesh BrokenCar_RoueArriereGauche_001...
+[2024.05.17-14.45.23:603][284]LogStaticMesh: Built static mesh [0.01s] /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.23:632][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-14.45.24:501][284]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x84 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 51% occupied, 448 triangles, BrokenCar_BrokenCar
+[2024.05.17-14.45.25:835][367]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x84 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 51% occupied, 448 triangles, BrokenCar_BrokenCar
+[2024.05.17-14.45.25:921][375]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-14.45.25:931][375]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-14.45.30:590][785]LogViewport: Scene viewport resized to 1328x169, mode Windowed.
+[2024.05.17-14.45.30:604][786]LogViewport: Scene viewport resized to 1328x174, mode Windowed.
+[2024.05.17-14.45.30:624][787]LogViewport: Scene viewport resized to 1328x194, mode Windowed.
+[2024.05.17-14.45.30:643][788]LogViewport: Scene viewport resized to 1328x209, mode Windowed.
+[2024.05.17-14.45.30:661][789]LogViewport: Scene viewport resized to 1328x230, mode Windowed.
+[2024.05.17-14.45.30:685][790]LogViewport: Scene viewport resized to 1328x256, mode Windowed.
+[2024.05.17-14.45.30:704][791]LogViewport: Scene viewport resized to 1328x277, mode Windowed.
+[2024.05.17-14.45.30:721][792]LogViewport: Scene viewport resized to 1328x302, mode Windowed.
+[2024.05.17-14.45.30:741][793]LogViewport: Scene viewport resized to 1328x351, mode Windowed.
+[2024.05.17-14.45.30:759][794]LogViewport: Scene viewport resized to 1328x378, mode Windowed.
+[2024.05.17-14.45.30:777][795]LogViewport: Scene viewport resized to 1328x403, mode Windowed.
+[2024.05.17-14.45.30:796][796]LogViewport: Scene viewport resized to 1328x435, mode Windowed.
+[2024.05.17-14.45.30:814][797]LogViewport: Scene viewport resized to 1328x448, mode Windowed.
+[2024.05.17-14.45.30:832][798]LogViewport: Scene viewport resized to 1328x457, mode Windowed.
+[2024.05.17-14.45.30:851][799]LogViewport: Scene viewport resized to 1328x465, mode Windowed.
+[2024.05.17-14.45.30:868][800]LogViewport: Scene viewport resized to 1328x475, mode Windowed.
+[2024.05.17-14.45.30:887][801]LogViewport: Scene viewport resized to 1328x481, mode Windowed.
+[2024.05.17-14.45.30:906][802]LogViewport: Scene viewport resized to 1328x488, mode Windowed.
+[2024.05.17-14.45.30:925][803]LogViewport: Scene viewport resized to 1328x492, mode Windowed.
+[2024.05.17-14.45.30:981][809]LogViewport: Scene viewport resized to 1328x493, mode Windowed.
+[2024.05.17-14.45.30:997][810]LogViewport: Scene viewport resized to 1328x498, mode Windowed.
+[2024.05.17-14.45.31:761][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.31:793][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.31:795][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.05.17-14.45.31:796][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.31:796][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.31:796][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.05.17-14.45.31:797][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.31:797][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.31:797][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2024.05.17-14.45.31:798][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.31:798][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.31:798][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2024.05.17-14.45.31:799][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.31:799][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.31:799][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2024.05.17-14.45.34:330][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.34:330][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.34:332][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386090646
+[2024.05.17-14.45.34:367][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.34:367][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.34:368][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386127647
+[2024.05.17-14.45.34:393][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.34:393][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.34:394][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386153648
+[2024.05.17-14.45.34:419][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.34:419][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.34:421][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386179649
+[2024.05.17-14.45.34:447][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.34:447][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.34:449][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386207650
+[2024.05.17-14.45.37:168][309]Cmd: TRANSACTION UNDO
+[2024.05.17-14.45.37:168][309]LogEditorTransaction: Undo Create Actors
+[2024.05.17-14.45.41:433][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.41:433][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.41:433][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_28
+[2024.05.17-14.45.41:434][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.41:434][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.41:434][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_29
+[2024.05.17-14.45.41:436][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.41:436][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.41:436][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_30
+[2024.05.17-14.45.41:436][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.41:436][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.41:437][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_31
+[2024.05.17-14.45.41:437][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.41:437][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.41:437][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_36
+[2024.05.17-14.45.42:919][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.42:919][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar
+[2024.05.17-14.45.42:920][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_BrokenCar.BrokenCar_BrokenCar as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394679651
+[2024.05.17-14.45.42:946][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.42:946][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001
+[2024.05.17-14.45.42:948][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteArriereGauche_001.BrokenCar_PorteArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394706652
+[2024.05.17-14.45.42:972][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.42:973][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001
+[2024.05.17-14.45.42:974][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_PorteAvantDroite_001.BrokenCar_PorteAvantDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394732653
+[2024.05.17-14.45.43:001][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.43:001][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001
+[2024.05.17-14.45.43:003][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereDroite_001.BrokenCar_RoueArriereDroite_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394761654
+[2024.05.17-14.45.43:031][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.43:031][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001
+[2024.05.17-14.45.43:033][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cars/BrokenOne/BrokenCar_RoueArriereGauche_001.BrokenCar_RoueArriereGauche_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394791655
+[2024.05.17-14.45.43:225][755]Cmd: TRANSACTION UNDO
+[2024.05.17-14.45.43:225][755]LogEditorTransaction: Undo Create Actors
+[2024.05.17-14.45.44:308][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.45.44:414][822]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386207650 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4W/CD28S4H2LRG83MIIOZC8V3.PackageMetaData in its package
+[2024.05.17-14.45.44:414][822]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386179649 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6I/9MM66XADPS2YPD3QUWZPFB.PackageMetaData in its package
+[2024.05.17-14.45.44:414][822]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386153648 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AE/JXSCB01VASL0HPM0JSGGO0.PackageMetaData in its package
+[2024.05.17-14.45.44:414][822]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386127647 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZE/HPVB70I082B58XLYFISM64.PackageMetaData in its package
+[2024.05.17-14.45.44:414][822]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1386090646 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HS/JE07HCSLYCNZ7YEM0FSDC4.PackageMetaData in its package
+[2024.05.17-14.45.44:417][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.17-14.45.44:442][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.17-14.45.44:458][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.17-14.45.44:472][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 8.12 sec)
+[2024.05.17-14.45.44:488][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.17-14.45.49:306][238]LogViewport: Scene viewport resized to 1328x493, mode Windowed.
+[2024.05.17-14.45.49:324][239]LogViewport: Scene viewport resized to 1328x476, mode Windowed.
+[2024.05.17-14.45.49:347][240]LogViewport: Scene viewport resized to 1328x458, mode Windowed.
+[2024.05.17-14.45.49:369][241]LogViewport: Scene viewport resized to 1328x417, mode Windowed.
+[2024.05.17-14.45.49:392][242]LogViewport: Scene viewport resized to 1328x341, mode Windowed.
+[2024.05.17-14.45.49:414][243]LogViewport: Scene viewport resized to 1328x266, mode Windowed.
+[2024.05.17-14.45.49:435][244]LogViewport: Scene viewport resized to 1328x233, mode Windowed.
+[2024.05.17-14.45.49:461][245]LogViewport: Scene viewport resized to 1328x195, mode Windowed.
+[2024.05.17-14.45.49:481][246]LogViewport: Scene viewport resized to 1328x174, mode Windowed.
+[2024.05.17-14.45.49:500][247]LogViewport: Scene viewport resized to 1328x167, mode Windowed.
+[2024.05.17-14.45.49:522][248]LogViewport: Scene viewport resized to 1328x166, mode Windowed.
+[2024.05.17-14.45.49:543][249]LogViewport: Scene viewport resized to 1328x163, mode Windowed.
+[2024.05.17-14.45.49:561][250]LogViewport: Scene viewport resized to 1328x162, mode Windowed.
+[2024.05.17-14.45.49:584][251]LogViewport: Scene viewport resized to 1328x155, mode Windowed.
+[2024.05.17-14.45.49:603][252]LogViewport: Scene viewport resized to 1328x148, mode Windowed.
+[2024.05.17-14.45.49:622][253]LogViewport: Scene viewport resized to 1328x135, mode Windowed.
+[2024.05.17-14.45.49:646][254]LogViewport: Scene viewport resized to 1328x127, mode Windowed.
+[2024.05.17-14.45.49:664][255]LogViewport: Scene viewport resized to 1328x120, mode Windowed.
+[2024.05.17-14.45.49:708][256]LogViewport: Scene viewport resized to 1328x113, mode Windowed.
+[2024.05.17-14.46.17:997][421]LogViewport: Scene viewport resized to 1328x116, mode Windowed.
+[2024.05.17-14.46.18:014][422]LogViewport: Scene viewport resized to 1328x126, mode Windowed.
+[2024.05.17-14.46.18:034][423]LogViewport: Scene viewport resized to 1328x156, mode Windowed.
+[2024.05.17-14.46.18:073][424]LogViewport: Scene viewport resized to 1328x220, mode Windowed.
+[2024.05.17-14.46.18:093][425]LogViewport: Scene viewport resized to 1328x254, mode Windowed.
+[2024.05.17-14.46.18:117][426]LogViewport: Scene viewport resized to 1328x292, mode Windowed.
+[2024.05.17-14.46.18:139][427]LogViewport: Scene viewport resized to 1328x319, mode Windowed.
+[2024.05.17-14.46.18:161][428]LogViewport: Scene viewport resized to 1328x356, mode Windowed.
+[2024.05.17-14.46.18:182][429]LogViewport: Scene viewport resized to 1328x386, mode Windowed.
+[2024.05.17-14.46.18:205][430]LogViewport: Scene viewport resized to 1328x410, mode Windowed.
+[2024.05.17-14.46.18:227][431]LogViewport: Scene viewport resized to 1328x421, mode Windowed.
+[2024.05.17-14.46.18:250][432]LogViewport: Scene viewport resized to 1328x433, mode Windowed.
+[2024.05.17-14.46.18:270][433]LogViewport: Scene viewport resized to 1328x445, mode Windowed.
+[2024.05.17-14.46.18:289][434]LogViewport: Scene viewport resized to 1328x458, mode Windowed.
+[2024.05.17-14.46.18:310][435]LogViewport: Scene viewport resized to 1328x470, mode Windowed.
+[2024.05.17-14.46.18:332][436]LogViewport: Scene viewport resized to 1328x474, mode Windowed.
+[2024.05.17-14.47.30:573][122]LogSlate: Window 'Sequencer' being destroyed
+[2024.05.17-14.47.32:464][313]LogViewport: Scene viewport resized to 1328x471, mode Windowed.
+[2024.05.17-14.47.32:477][314]LogViewport: Scene viewport resized to 1328x460, mode Windowed.
+[2024.05.17-14.47.32:499][315]LogViewport: Scene viewport resized to 1328x449, mode Windowed.
+[2024.05.17-14.47.32:515][316]LogViewport: Scene viewport resized to 1328x425, mode Windowed.
+[2024.05.17-14.47.32:536][317]LogViewport: Scene viewport resized to 1328x368, mode Windowed.
+[2024.05.17-14.47.32:556][318]LogViewport: Scene viewport resized to 1328x294, mode Windowed.
+[2024.05.17-14.47.32:575][319]LogViewport: Scene viewport resized to 1328x247, mode Windowed.
+[2024.05.17-14.47.32:595][320]LogViewport: Scene viewport resized to 1328x209, mode Windowed.
+[2024.05.17-14.47.32:615][321]LogViewport: Scene viewport resized to 1328x170, mode Windowed.
+[2024.05.17-14.47.32:635][322]LogViewport: Scene viewport resized to 1328x158, mode Windowed.
+[2024.05.17-14.47.32:652][323]LogViewport: Scene viewport resized to 1328x147, mode Windowed.
+[2024.05.17-14.47.32:671][324]LogViewport: Scene viewport resized to 1328x146, mode Windowed.
+[2024.05.17-14.47.32:701][326]LogViewport: Scene viewport resized to 1328x144, mode Windowed.
+[2024.05.17-14.47.32:731][329]LogViewport: Scene viewport resized to 1328x143, mode Windowed.
+[2024.05.17-14.48.26:229][421]LogViewport: Scene viewport resized to 1328x147, mode Windowed.
+[2024.05.17-14.48.26:245][422]LogViewport: Scene viewport resized to 1328x152, mode Windowed.
+[2024.05.17-14.48.26:265][423]LogViewport: Scene viewport resized to 1328x162, mode Windowed.
+[2024.05.17-14.48.26:283][424]LogViewport: Scene viewport resized to 1328x174, mode Windowed.
+[2024.05.17-14.48.26:303][425]LogViewport: Scene viewport resized to 1328x194, mode Windowed.
+[2024.05.17-14.48.26:326][426]LogViewport: Scene viewport resized to 1328x214, mode Windowed.
+[2024.05.17-14.48.26:344][427]LogViewport: Scene viewport resized to 1328x227, mode Windowed.
+[2024.05.17-14.48.26:362][428]LogViewport: Scene viewport resized to 1328x234, mode Windowed.
+[2024.05.17-14.48.26:382][429]LogViewport: Scene viewport resized to 1328x248, mode Windowed.
+[2024.05.17-14.48.26:404][430]LogViewport: Scene viewport resized to 1328x256, mode Windowed.
+[2024.05.17-14.48.26:424][431]LogViewport: Scene viewport resized to 1328x263, mode Windowed.
+[2024.05.17-14.48.26:443][432]LogViewport: Scene viewport resized to 1328x272, mode Windowed.
+[2024.05.17-14.48.26:465][433]LogViewport: Scene viewport resized to 1328x292, mode Windowed.
+[2024.05.17-14.48.26:485][434]LogViewport: Scene viewport resized to 1328x315, mode Windowed.
+[2024.05.17-14.48.26:505][435]LogViewport: Scene viewport resized to 1328x333, mode Windowed.
+[2024.05.17-14.48.26:524][436]LogViewport: Scene viewport resized to 1328x360, mode Windowed.
+[2024.05.17-14.48.26:544][437]LogViewport: Scene viewport resized to 1328x376, mode Windowed.
+[2024.05.17-14.48.26:564][438]LogViewport: Scene viewport resized to 1328x397, mode Windowed.
+[2024.05.17-14.48.26:584][439]LogViewport: Scene viewport resized to 1328x409, mode Windowed.
+[2024.05.17-14.48.26:605][440]LogViewport: Scene viewport resized to 1328x419, mode Windowed.
+[2024.05.17-14.48.26:634][442]LogViewport: Scene viewport resized to 1328x420, mode Windowed.
+[2024.05.17-14.48.26:649][443]LogViewport: Scene viewport resized to 1328x422, mode Windowed.
+[2024.05.17-14.48.26:670][444]LogViewport: Scene viewport resized to 1328x423, mode Windowed.
+[2024.05.17-14.48.26:688][445]LogViewport: Scene viewport resized to 1328x424, mode Windowed.
+[2024.05.17-14.48.26:717][447]LogViewport: Scene viewport resized to 1328x426, mode Windowed.
+[2024.05.17-14.48.26:798][456]LogViewport: Scene viewport resized to 1328x423, mode Windowed.
+[2024.05.17-14.48.26:813][457]LogViewport: Scene viewport resized to 1328x413, mode Windowed.
+[2024.05.17-14.48.26:828][458]LogViewport: Scene viewport resized to 1328x386, mode Windowed.
+[2024.05.17-14.48.26:845][459]LogViewport: Scene viewport resized to 1328x370, mode Windowed.
+[2024.05.17-14.48.26:864][460]LogViewport: Scene viewport resized to 1328x358, mode Windowed.
+[2024.05.17-14.48.26:883][461]LogViewport: Scene viewport resized to 1328x345, mode Windowed.
+[2024.05.17-14.48.26:900][462]LogViewport: Scene viewport resized to 1328x332, mode Windowed.
+[2024.05.17-14.48.26:919][463]LogViewport: Scene viewport resized to 1328x313, mode Windowed.
+[2024.05.17-14.48.26:939][464]LogViewport: Scene viewport resized to 1328x308, mode Windowed.
+[2024.05.17-14.48.26:955][465]LogViewport: Scene viewport resized to 1328x306, mode Windowed.
+[2024.05.17-14.48.26:972][466]LogViewport: Scene viewport resized to 1328x296, mode Windowed.
+[2024.05.17-14.48.26:999][467]LogViewport: Scene viewport resized to 1328x280, mode Windowed.
+[2024.05.17-14.48.27:017][468]LogViewport: Scene viewport resized to 1328x269, mode Windowed.
+[2024.05.17-14.48.27:040][469]LogViewport: Scene viewport resized to 1328x250, mode Windowed.
+[2024.05.17-14.48.27:056][470]LogViewport: Scene viewport resized to 1328x241, mode Windowed.
+[2024.05.17-14.48.27:074][471]LogViewport: Scene viewport resized to 1328x237, mode Windowed.
+[2024.05.17-14.48.27:176][482]LogViewport: Scene viewport resized to 1328x235, mode Windowed.
+[2024.05.17-14.48.27:226][487]LogViewport: Scene viewport resized to 1328x234, mode Windowed.
+[2024.05.17-14.48.27:240][488]LogViewport: Scene viewport resized to 1328x232, mode Windowed.
+[2024.05.17-14.48.27:257][489]LogViewport: Scene viewport resized to 1328x229, mode Windowed.
+[2024.05.17-14.48.27:275][490]LogViewport: Scene viewport resized to 1328x222, mode Windowed.
+[2024.05.17-14.48.27:294][491]LogViewport: Scene viewport resized to 1328x204, mode Windowed.
+[2024.05.17-14.48.27:311][492]LogViewport: Scene viewport resized to 1328x194, mode Windowed.
+[2024.05.17-14.48.27:331][493]LogViewport: Scene viewport resized to 1328x187, mode Windowed.
+[2024.05.17-14.48.27:348][494]LogViewport: Scene viewport resized to 1328x180, mode Windowed.
+[2024.05.17-14.48.27:367][495]LogViewport: Scene viewport resized to 1328x177, mode Windowed.
+[2024.05.17-14.48.27:385][496]LogViewport: Scene viewport resized to 1328x175, mode Windowed.
+[2024.05.17-14.48.27:402][497]LogViewport: Scene viewport resized to 1328x173, mode Windowed.
+[2024.05.17-14.48.27:420][498]LogViewport: Scene viewport resized to 1328x169, mode Windowed.
+[2024.05.17-14.48.27:437][499]LogViewport: Scene viewport resized to 1328x167, mode Windowed.
+[2024.05.17-14.48.27:454][500]LogViewport: Scene viewport resized to 1328x164, mode Windowed.
+[2024.05.17-14.48.27:473][501]LogViewport: Scene viewport resized to 1328x161, mode Windowed.
+[2024.05.17-14.48.27:492][502]LogViewport: Scene viewport resized to 1328x159, mode Windowed.
+[2024.05.17-14.48.27:509][503]LogViewport: Scene viewport resized to 1328x158, mode Windowed.
+[2024.05.17-14.48.27:525][504]LogViewport: Scene viewport resized to 1328x155, mode Windowed.
+[2024.05.17-14.48.27:549][505]LogViewport: Scene viewport resized to 1328x151, mode Windowed.
+[2024.05.17-14.48.27:725][525]LogViewport: Scene viewport resized to 1328x153, mode Windowed.
+[2024.05.17-14.48.27:739][526]LogViewport: Scene viewport resized to 1328x155, mode Windowed.
+[2024.05.17-14.48.27:758][527]LogViewport: Scene viewport resized to 1328x163, mode Windowed.
+[2024.05.17-14.48.27:773][528]LogViewport: Scene viewport resized to 1328x167, mode Windowed.
+[2024.05.17-14.48.27:854][537]LogViewport: Scene viewport resized to 1328x169, mode Windowed.
+[2024.05.17-14.48.27:870][538]LogViewport: Scene viewport resized to 1328x174, mode Windowed.
+[2024.05.17-14.48.27:886][539]LogViewport: Scene viewport resized to 1328x176, mode Windowed.
+[2024.05.17-14.48.27:901][540]LogViewport: Scene viewport resized to 1328x180, mode Windowed.
+[2024.05.17-14.48.27:916][541]LogViewport: Scene viewport resized to 1328x186, mode Windowed.
+[2024.05.17-14.48.27:933][542]LogViewport: Scene viewport resized to 1328x188, mode Windowed.
+[2024.05.17-14.48.27:952][543]LogViewport: Scene viewport resized to 1328x193, mode Windowed.
+[2024.05.17-14.48.27:968][544]LogViewport: Scene viewport resized to 1328x195, mode Windowed.
+[2024.05.17-14.48.27:984][545]LogViewport: Scene viewport resized to 1328x197, mode Windowed.
+[2024.05.17-14.48.28:002][546]LogViewport: Scene viewport resized to 1328x200, mode Windowed.
+[2024.05.17-14.48.28:023][547]LogViewport: Scene viewport resized to 1328x206, mode Windowed.
+[2024.05.17-14.48.28:048][548]LogViewport: Scene viewport resized to 1328x207, mode Windowed.
+[2024.05.17-14.48.28:066][549]LogViewport: Scene viewport resized to 1328x209, mode Windowed.
+[2024.05.17-14.48.31:832][889]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:882][890]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:885][890]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:900][891]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:939][893]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:953][894]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:957][894]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:970][895]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:984][896]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.31:997][897]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:013][898]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:027][899]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:042][900]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:056][901]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:074][902]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:088][903]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:103][904]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:116][905]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:129][906]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:143][907]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:157][908]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:173][909]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:188][910]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:205][911]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:221][912]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:237][913]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:253][914]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:269][915]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:285][916]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.32:300][917]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.38:973][495]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:152][505]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:170][506]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:184][507]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:199][508]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:213][509]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:229][510]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.39:244][511]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Running_1_.Running_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.41:672][701]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.41:688][702]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.41:701][703]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Walking_1_.Walking_1_ has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.50:893][474]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.48.50:912][475]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Valou/Animation/Cop/Jumping.Jumping has no skeleton. This needs to fixed before an animation can be set
+[2024.05.17-14.49.02:983][857]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\valen\Desktop\Cours\2023-2024\Workshop\Unreal\FBX\Cop\Animation\AnimatedCop.fbx)
+[2024.05.17-14.49.02:989][857]LogFbx: Loading FBX Scene from C:\Users\valen\Desktop\Cours\2023-2024\Workshop\Unreal\FBX\Cop\Animation\AnimatedCop.fbx
+[2024.05.17-14.49.03:002][857]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.17-14.49.05:410][857]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.17-14.49.05:552][857]LogFbx: Display: Triangulating static mesh BaseMesh
+[2024.05.17-14.49.05:637][857]LogStaticMesh: Display: Building static mesh AnimatedCop_BaseMesh...
+[2024.05.17-14.49.05:678][857]LogStaticMesh: Built static mesh [0.04s] /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh
+[2024.05.17-14.49.05:704][857]LogFbx: Display: Triangulating static mesh LowCopCasque
+[2024.05.17-14.49.05:756][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopCasque...
+[2024.05.17-14.49.05:784][857]LogStaticMesh: Built static mesh [0.03s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopCasque.AnimatedCop_LowCopCasque
+[2024.05.17-14.49.05:811][857]LogFbx: Display: Triangulating static mesh LowCopoudieres
+[2024.05.17-14.49.05:837][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopoudieres...
+[2024.05.17-14.49.05:855][857]LogStaticMesh: Built static mesh [0.02s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopoudieres.AnimatedCop_LowCopoudieres
+[2024.05.17-14.49.05:869][857]LogFbx: Display: Triangulating static mesh LowCopGants
+[2024.05.17-14.49.05:910][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopGants...
+[2024.05.17-14.49.05:931][857]LogStaticMesh: Built static mesh [0.02s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopGants.AnimatedCop_LowCopGants
+[2024.05.17-14.49.05:955][857]LogFbx: Display: Triangulating static mesh LowCopShirt
+[2024.05.17-14.49.05:994][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopShirt...
+[2024.05.17-14.49.06:014][857]LogStaticMesh: Built static mesh [0.02s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopShirt.AnimatedCop_LowCopShirt
+[2024.05.17-14.49.06:039][857]LogFbx: Display: Triangulating static mesh LowCopGiletPareBalles
+[2024.05.17-14.49.06:069][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopGiletPareBalles...
+[2024.05.17-14.49.06:086][857]LogStaticMesh: Built static mesh [0.02s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopGiletPareBalles.AnimatedCop_LowCopGiletPareBalles
+[2024.05.17-14.49.06:109][857]LogFbx: Display: Triangulating static mesh LowCopTrousers
+[2024.05.17-14.49.06:163][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopTrousers...
+[2024.05.17-14.49.06:192][857]LogStaticMesh: Built static mesh [0.03s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopTrousers.AnimatedCop_LowCopTrousers
+[2024.05.17-14.49.06:214][857]LogFbx: Display: Triangulating static mesh LowCopGenouillere
+[2024.05.17-14.49.06:222][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopGenouillere...
+[2024.05.17-14.49.06:229][857]LogStaticMesh: Built static mesh [0.01s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopGenouillere.AnimatedCop_LowCopGenouillere
+[2024.05.17-14.49.06:248][857]LogFbx: Display: Triangulating static mesh LowCopBoots
+[2024.05.17-14.49.06:304][857]LogStaticMesh: Display: Building static mesh AnimatedCop_LowCopBoots...
+[2024.05.17-14.49.06:332][857]LogStaticMesh: Built static mesh [0.03s] /Game/Valou/Assets3D/Cop/AnimatedCop_LowCopBoots.AnimatedCop_LowCopBoots
+[2024.05.17-14.49.06:370][857]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Total job queries 6 086, among them cache hits 5 826 (95.73%)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Tracking 162 distinct input hashes that result in 75 distinct outputs (46.30%)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: RAM used: 3,72 MiB of 819,20 MiB budget. Usage: 0.45%
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Shaders Compiled: 56
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Jobs assigned 56, completed 56 (100%)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Average time worker was idle: 794.93 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.73 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.77 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 1.05
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Shader code size: average 39,677 KiB, min 31,891 KiB, max 62,562 KiB
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.81 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Average processing rate: 7.17 jobs/sec
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Total thread time: 19,229 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Total thread preprocess time: 1,967 s
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Percentage time preprocessing: 10.23%
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.44 sec)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.48 sec, max 0.54 sec, min 0.42 sec)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.46 sec, max 0.51 sec, min 0.42 sec)
+[2024.05.17-14.49.06:639][860]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.46 sec, max 0.53 sec, min 0.39 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.45 sec, max 0.51 sec, min 0.39 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.98% of total time (compiled    9 times, average 0.38 sec, max 0.43 sec, min 0.29 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.32% of total time (compiled    9 times, average 0.37 sec, max 0.40 sec, min 0.31 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.51% of total time (compiled    7 times, average 0.37 sec, max 0.42 sec, min 0.35 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.63% of total time (compiled    7 times, average 0.15 sec, max 0.17 sec, min 0.13 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.13% of total time (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.44 sec)
+[2024.05.17-14.49.06:640][860]LogShaderCompilers: Display: ================================================
+[2024.05.17-14.49.07:672][914]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-14.49.07:684][914]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-14.49.16:876][532]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394791655 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3M/3QK2VCMIHCSQUYQQ04S6UL.PackageMetaData in its package
+[2024.05.17-14.49.16:877][532]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394761654 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TL/XN9E9YLBJ8DN9AHZPV2JNX.PackageMetaData in its package
+[2024.05.17-14.49.16:877][532]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394732653 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7I/4YUPA27DU8RR9O4LALQTK3.PackageMetaData in its package
+[2024.05.17-14.49.16:877][532]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394706652 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FV/N45G1MXPWQ7NRLGAROZRND.PackageMetaData in its package
+[2024.05.17-14.49.16:877][532]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1394679651 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KR/F3DEX8K6GMYS96NBOYH9D2.PackageMetaData in its package
+[2024.05.17-14.49.16:878][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.17-14.49.18:188][532]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.17-14.49.18:213][532]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Valou/Assets3D/Cop/DamienBoots.DamienBoots
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/Gloves_and_Armbands.Gloves_and_Armbands
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/GiletPareBalles.GiletPareBalles
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/Pants.Pants
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/Shirt.Shirt
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/Corps.Corps
+	Asset Type: Material
+	Asset Name: /Game/Valou/Assets3D/Cop/Casque.Casque
+	Asset Type: Material
+[2024.05.17-14.49.18:683][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.17-14.49.18:703][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.17-14.49.18:722][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.17-14.49.18:746][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.17-14.49.23:924][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.17-14.49.24:791][911]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.17-14.49.24:823][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.17-14.49.24:848][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.17-14.49.24:868][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.17-14.49.32:164][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh
+[2024.05.17-14.49.32:164][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh
+[2024.05.17-14.49.32:165][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_37
+[2024.05.17-14.49.32:165][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots
+[2024.05.17-14.49.32:165][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots
+[2024.05.17-14.49.32:166][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_38
+[2024.05.17-14.49.32:166][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque
+[2024.05.17-14.49.32:166][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque
+[2024.05.17-14.49.32:167][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_39
+[2024.05.17-14.49.32:167][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres
+[2024.05.17-14.49.32:167][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres
+[2024.05.17-14.49.32:167][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_40
+[2024.05.17-14.49.32:168][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants
+[2024.05.17-14.49.32:168][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants
+[2024.05.17-14.49.32:168][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_41
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_42
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_43
+[2024.05.17-14.49.32:169][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt
+[2024.05.17-14.49.32:171][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt
+[2024.05.17-14.49.32:171][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_44
+[2024.05.17-14.49.32:171][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers
+[2024.05.17-14.49.32:171][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers
+[2024.05.17-14.49.32:172][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_45
+[2024.05.17-14.49.32:710][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh
+[2024.05.17-14.49.32:710][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh
+[2024.05.17-14.49.32:713][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/AnimatedCop_BaseMesh.AnimatedCop_BaseMesh as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624470656
+[2024.05.17-14.49.32:739][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots
+[2024.05.17-14.49.32:739][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots
+[2024.05.17-14.49.32:742][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Boots.Low_Cop_Boots as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624499657
+[2024.05.17-14.49.32:768][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque
+[2024.05.17-14.49.32:768][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque
+[2024.05.17-14.49.32:770][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Casque.Low_Cop_Casque as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624528658
+[2024.05.17-14.49.32:795][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres
+[2024.05.17-14.49.32:795][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres
+[2024.05.17-14.49.32:797][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Coudieres.Low_Cop_Coudieres as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624555659
+[2024.05.17-14.49.32:822][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants
+[2024.05.17-14.49.32:822][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants
+[2024.05.17-14.49.32:824][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Gants.Low_Cop_Gants as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624582660
+[2024.05.17-14.49.32:849][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere
+[2024.05.17-14.49.32:849][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere
+[2024.05.17-14.49.32:852][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Genouillere.Low_Cop_Genouillere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624609661
+[2024.05.17-14.49.32:877][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles
+[2024.05.17-14.49.32:877][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles
+[2024.05.17-14.49.32:879][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_GiletPareBalles.Low_Cop_GiletPareBalles as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624637662
+[2024.05.17-14.49.32:906][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt
+[2024.05.17-14.49.32:906][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt
+[2024.05.17-14.49.32:908][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Shirt.Low_Cop_Shirt as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624666663
+[2024.05.17-14.49.32:933][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers
+[2024.05.17-14.49.32:934][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers
+[2024.05.17-14.49.32:935][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/Cop/Low_Cop_Trousers.Low_Cop_Trousers as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624693664
+[2024.05.17-14.49.54:451][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_BaseMesh.NPC2_Low_BaseMesh
+[2024.05.17-14.49.54:451][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_BaseMesh.NPC2_Low_BaseMesh
+[2024.05.17-14.49.54:452][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_BaseMesh.NPC2_Low_BaseMesh as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_46
+[2024.05.17-14.49.54:456][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Belt.NPC2_Low_NPC2_Belt
+[2024.05.17-14.49.54:456][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Belt.NPC2_Low_NPC2_Belt
+[2024.05.17-14.49.54:457][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Belt.NPC2_Low_NPC2_Belt as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_47
+[2024.05.17-14.49.54:457][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_BeltLoop.NPC2_Low_NPC2_BeltLoop
+[2024.05.17-14.49.54:457][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_BeltLoop.NPC2_Low_NPC2_BeltLoop
+[2024.05.17-14.49.54:458][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_BeltLoop.NPC2_Low_NPC2_BeltLoop as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_48
+[2024.05.17-14.49.54:458][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Boots.NPC2_Low_NPC2_Boots
+[2024.05.17-14.49.54:458][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Boots.NPC2_Low_NPC2_Boots
+[2024.05.17-14.49.54:458][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Boots.NPC2_Low_NPC2_Boots as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_49
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Pants.NPC2_Low_NPC2_Pants
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Pants.NPC2_Low_NPC2_Pants
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Pants.NPC2_Low_NPC2_Pants as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_50
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Shirt.NPC2_Low_NPC2_Shirt
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Shirt.NPC2_Low_NPC2_Shirt
+[2024.05.17-14.49.54:459][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Shirt.NPC2_Low_NPC2_Shirt as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_51
+[2024.05.17-14.49.54:460][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Spikes.NPC2_Low_NPC2_Spikes
+[2024.05.17-14.49.54:460][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Spikes.NPC2_Low_NPC2_Spikes
+[2024.05.17-14.49.54:460][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Spikes.NPC2_Low_NPC2_Spikes as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_52
+[2024.05.17-14.49.54:461][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Vest.NPC2_Low_NPC2_Vest
+[2024.05.17-14.49.54:461][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Vest.NPC2_Low_NPC2_Vest
+[2024.05.17-14.49.54:462][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Valou/Assets3D/NPC2/NPC2_Low_NPC2_Vest.NPC2_Low_NPC2_Vest as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_53
+[2024.05.17-14.49.58:367][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-14.49.58:488][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IQ/FOUXR1DR1SB2MY8Y7C6VDK
+[2024.05.17-14.49.58:488][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/FOUXR1DR1SB2MY8Y7C6VDK1149628D45104C104C2B289F8C33E61F.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IQ/FOUXR1DR1SB2MY8Y7C6VDK.uasset'
+[2024.05.17-14.49.58:491][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H3/BW7YQAS28R82BO5P8PX0XW
+[2024.05.17-14.49.58:491][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/BW7YQAS28R82BO5P8PX0XW4B9124F1474D08DEE88C20B7A9270361.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H3/BW7YQAS28R82BO5P8PX0XW.uasset'
+[2024.05.17-14.49.58:512][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/80/FE1OP7GIJI3L9HH8M9NGVU
+[2024.05.17-14.49.58:512][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/FE1OP7GIJI3L9HH8M9NGVU1E5C5EBD4B7287B10F4CFBA2482BF05F.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/80/FE1OP7GIJI3L9HH8M9NGVU.uasset'
+[2024.05.17-14.49.58:527][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4F/029V1W9SQIETX1YVXX34RC
+[2024.05.17-14.49.58:527][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/029V1W9SQIETX1YVXX34RCBF94F60942AD9FD875AF62A76F0B4ABB.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4F/029V1W9SQIETX1YVXX34RC.uasset'
+[2024.05.17-14.49.58:541][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/NZ/XDLDD4HMMO4C9RKR5QK5A7
+[2024.05.17-14.49.58:542][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/XDLDD4HMMO4C9RKR5QK5A7C6C907394CDB8D79CFCCCE9EAFD18B14.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/NZ/XDLDD4HMMO4C9RKR5QK5A7.uasset'
+[2024.05.17-14.49.58:552][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SO/8YFF9UCSPL38J3LKX5IFB6
+[2024.05.17-14.49.58:552][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/8YFF9UCSPL38J3LKX5IFB6097B9B7D47EA0880955FADA727BD6148.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SO/8YFF9UCSPL38J3LKX5IFB6.uasset'
+[2024.05.17-14.49.58:556][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/O4/1O35P0OQRFBSSCFC23A4PE
+[2024.05.17-14.49.58:556][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/1O35P0OQRFBSSCFC23A4PE3D269B7A4A2783C68E01A588565763E9.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/O4/1O35P0OQRFBSSCFC23A4PE.uasset'
+[2024.05.17-14.49.58:563][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EZ/GGDAI7YZUWOW1UKJGZL7RN
+[2024.05.17-14.49.58:563][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/GGDAI7YZUWOW1UKJGZL7RN59A459164C07BD93D6CBF0BAE1DCDEBA.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EZ/GGDAI7YZUWOW1UKJGZL7RN.uasset'
+[2024.05.17-14.49.58:581][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QJ/Z6F09P3BFYTMGUH0E4CNHP
+[2024.05.17-14.49.58:581][375]LogSavePackage: Moving 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Saved/Z6F09P3BFYTMGUH0E4CNHP8A7BA8BF445A746042C38190E12B4CD5.tmp' to 'C:/Users/valen/Desktop/Cours/2023-2024/Workshop/Unreal/Projet-Chaos/WS_unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QJ/Z6F09P3BFYTMGUH0E4CNHP.uasset'
+[2024.05.17-14.49.58:601][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 8.35 sec)
+[2024.05.17-14.49.58:606][375]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624470656
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624499657
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624528658
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624555659
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624582660
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624609661
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624637662
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624666663
+[2024.05.17-14.49.58:607][375]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_EC2E98FBCE2881F601_1624693664
