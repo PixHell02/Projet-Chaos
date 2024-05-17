@@ -8997,3 +8997,16 @@ Script call stack:
 [2024.05.17-09.11.10:528][530]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.753
 [2024.05.17-09.11.10:548][531]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.05.17-09.14.13:413][ 77]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Valou/ValouMapTest does not exist, will not scan.
+[2024.05.17-09.21.13:102][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.17-09.21.13:173][329]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5
+[2024.05.17-09.21.13:174][329]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto5CDB3801C4A19166F34A15595DF6F4310.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5.umap'
+[2024.05.17-09.21.13:175][329]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto5.umap is in the /Temp path, will not scan.
+[2024.05.17-09.21.13:891][329]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5
+[2024.05.17-09.21.13:892][329]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto54A208FE346ED65CED91F56BAA1433565.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5.umap'
+[2024.05.17-09.21.13:895][329]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto5.umap is in the /Temp path, will not scan.
+[2024.05.17-09.21.14:609][329]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5
+[2024.05.17-09.21.14:610][329]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto5EF4E0B0149F191094A4474B32B08141C.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5.umap'
+[2024.05.17-09.21.14:613][329]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto5.umap is in the /Temp path, will not scan.
+[2024.05.17-09.21.14:614][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 1.523
+[2024.05.17-09.21.14:614][329]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.523
+[2024.05.17-09.21.14:632][329]LogAutomationController: Ignoring very large delta of 4.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
