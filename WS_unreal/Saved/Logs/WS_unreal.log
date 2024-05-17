@@ -8953,3 +8953,33 @@ Script call stack:
 [2024.05.17-08.59.58:643][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2024.05.17-08.59.58:717][384]LogPlayLevel: Display: Destroying online subsystem :Context_79
 [2024.05.17-08.59.58:726][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.17-09.01.06:502][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.17-09.01.07:146][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/MainWorld_Auto3
+[2024.05.17-09.01.07:147][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/MainWorld_Auto3D087A70341DFA14653C8B59838D86A13.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto3.umap'
+[2024.05.17-09.01.07:148][730]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/MainWorld_Auto3.umap is in the /Temp path, will not scan.
+[2024.05.17-09.01.07:216][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3
+[2024.05.17-09.01.07:216][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel1_Auto37EB0C048490A50D3825BA8A4D7FE28CD.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3.umap'
+[2024.05.17-09.01.07:217][730]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel1_Auto3.umap is in the /Temp path, will not scan.
+[2024.05.17-09.01.07:868][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3
+[2024.05.17-09.01.07:869][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel2_Auto3023C5AF0437DA707AA8E7DB312DA54A0.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3.umap'
+[2024.05.17-09.01.07:871][730]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel2_Auto3.umap is in the /Temp path, will not scan.
+[2024.05.17-09.01.08:515][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3
+[2024.05.17-09.01.08:516][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/FirstLevel3_Auto39CF6FF524EF8A5DE606410B1529A29CB.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3.umap'
+[2024.05.17-09.01.08:519][730]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/LevelDesign/SubLevel/FirstLevel3_Auto3.umap is in the /Temp path, will not scan.
+[2024.05.17-09.01.08:519][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/MainWorld' took 2.029
+[2024.05.17-09.01.08:519][730]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.029
+[2024.05.17-09.01.08:520][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fracture/BP_ProjectileReparation] ([2] browsable assets)...
+[2024.05.17-09.01.08:520][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/BP_ProjectileReparation]
+[2024.05.17-09.01.08:525][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/BP_ProjectileReparation_Auto3
+[2024.05.17-09.01.08:526][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_ProjectileReparation_Auto34B8FB53A46EFACD80957AE9856CA8770.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/BP_ProjectileReparation_Auto3.uasset'
+[2024.05.17-09.01.08:527][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fracture/Chaos_BP/Voiture] ([2] browsable assets)...
+[2024.05.17-09.01.08:527][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fracture/Chaos_BP/Voiture]
+[2024.05.17-09.01.08:529][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fracture/Chaos_BP/Voiture_Auto3
+[2024.05.17-09.01.08:529][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Voiture_Auto3F92ADD404E36C71F7820A1B7AB66D440.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/Fracture/Chaos_BP/Voiture_Auto3.uasset'
+[2024.05.17-09.01.08:530][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Ennemy_AI] ([2] browsable assets)...
+[2024.05.17-09.01.08:570][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Ennemy_AI.BP_Ennemy_AI]
+[2024.05.17-09.01.08:570][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Ennemy_AI]
+[2024.05.17-09.01.08:579][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_Ennemy_AI_Auto3
+[2024.05.17-09.01.08:579][730]LogSavePackage: Moving '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/BP_Ennemy_AI_Auto3840EFCF24E9995DDD9DD2D8C86F078E7.tmp' to '../../../../Users/erwan/OneDrive/Documents/GitHub/Projet-Chaos/WS_unreal/Saved/Autosaves/Game/AI/BP_Ennemy_AI_Auto3.uasset'
+[2024.05.17-09.01.08:580][730]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.05.17-09.01.08:599][731]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
